@@ -1,0 +1,76 @@
+Year,State,District,crime_rate,police_vacancy_rate,spousal_violence_pct,sought_help_pct,justice_gap,Pop_2024_Est
+2023,Karnataka,Total Districts ,213.88,0.18,44.4,3.8,40.6,1785149
+2022,Karnataka,Total Districts ,200.54,0.18,44.4,3.8,40.6,1785149
+2021,Karnataka,Total Districts ,171.81,0.18,44.4,3.8,40.6,1785149
+2024,Karnataka,Total Districts ,84.03,0.18,44.4,3.8,40.6,1785149
+2023,Karnataka,Bengaluru City,50.58,0.18,44.4,3.8,40.6,1785149
+2022,Karnataka,Bengaluru City,42.8,0.18,44.4,3.8,40.6,1785149
+2021,Karnataka,Bengaluru City,32.21,0.18,44.4,3.8,40.6,1785149
+2024,Karnataka,Bengaluru City,22.01,0.18,44.4,3.8,40.6,1785149
+2023,Bihar,Total Districts ,133.15,0.33,40.0,3.5,36.5,3064997
+2021,Bihar,Total Districts ,125.78,0.33,40.0,3.5,36.5,3064997
+2022,Bihar,Total Districts ,123.59,0.33,40.0,3.5,36.5,3064997
+2024,Bihar,Total Districts ,78.47,0.33,40.0,3.5,36.5,3064997
+2022,Uttar Pradesh,Total Districts ,836.0,0.29,34.8,2.4,32.4,3086497
+2023,Uttar Pradesh,Total Districts ,818.37,0.29,34.8,2.4,32.4,3086497
+2021,Uttar Pradesh,Total Districts ,752.76,0.29,34.8,2.4,32.4,3086497
+2024,Uttar Pradesh,Total Districts ,208.1,0.29,34.8,2.4,32.4,3086497
+2022,Uttar Pradesh,Pratapgarh,63.12,0.29,34.8,2.4,32.4,998025
+2023,Uttar Pradesh,Lucknow Commissionarate,49.05,0.29,34.8,2.4,32.4,3086497
+2023,Uttar Pradesh,Pratapgarh,46.89,0.29,34.8,2.4,32.4,998025
+2021,Uttar Pradesh,Pratapgarh,41.08,0.29,34.8,2.4,32.4,998025
+2021,Uttar Pradesh,Lucknow Commissionarate,40.47,0.29,34.8,2.4,32.4,3086497
+2023,Uttar Pradesh,Hamirpur,40.15,0.29,34.8,2.4,32.4,522983
+2022,Uttar Pradesh,Lucknow Commissionarate,40.08,0.29,34.8,2.4,32.4,3086497
+2023,Uttar Pradesh,Kanpur Commissionarate,39.4,0.29,34.8,2.4,32.4,3086497
+2022,Uttar Pradesh,Kanpur Commissionarate,39.01,0.29,34.8,2.4,32.4,3086497
+2022,Uttar Pradesh,Prayagraj,35.67,0.29,34.8,2.4,32.4,3086497
+2022,Uttar Pradesh,Hamirpur,32.51,0.29,34.8,2.4,32.4,522983
+2021,Uttar Pradesh,Bulandshahar,31.3,0.29,34.8,2.4,32.4,3086497
+2021,Uttar Pradesh,Prayagraj,29.58,0.29,34.8,2.4,32.4,3086497
+2022,Uttar Pradesh,Kannauj,28.34,0.29,34.8,2.4,32.4,1905108
+2023,Uttar Pradesh,Prayagraj,28.06,0.29,34.8,2.4,32.4,3086497
+2023,Uttar Pradesh,Kannauj,27.3,0.29,34.8,2.4,32.4,1905108
+2021,Uttar Pradesh,Kannauj,26.67,0.29,34.8,2.4,32.4,1905108
+2022,Uttar Pradesh,Bulandshahar,25.3,0.29,34.8,2.4,32.4,3086497
+2021,Uttar Pradesh,Mathura,25.06,0.29,34.8,2.4,32.4,2929261
+2023,Uttar Pradesh,Firozabad,24.92,0.29,34.8,2.4,32.4,2872879
+2022,Uttar Pradesh,Aligarh,24.4,0.29,34.8,2.4,32.4,4224972
+2022,Uttar Pradesh,Bareilly,24.24,0.29,34.8,2.4,32.4,5115612
+2021,Uttar Pradesh,Kanpur Dehat,23.62,0.29,34.8,2.4,32.4,2065611
+2022,Uttar Pradesh,Pilibhit,22.95,0.29,34.8,2.4,32.4,2335658
+2021,Uttar Pradesh,Hamirpur,22.75,0.29,34.8,2.4,32.4,522983
+2023,Uttar Pradesh,Varanasi Commissionarate,22.1,0.29,34.8,2.4,32.4,3086497
+2023,Telangana,Total Districts ,323.6,0.26,36.9,7.6,29.3,3550945
+2022,Telangana,Total Districts ,308.48,0.26,36.9,7.6,29.3,3550945
+2021,Telangana,Total Districts ,295.08,0.26,36.9,7.6,29.3,3550945
+2024,Telangana,Total Districts ,100.51,0.26,36.9,7.6,29.3,3550945
+2023,Telangana,Hyderabad Commissionerate,54.38,0.26,36.9,7.6,29.3,3550945
+2022,Telangana,Rachakonda Commissionerate,53.17,0.26,36.9,7.6,29.3,3550945
+2023,Telangana,Rachakonda Commissionerate,51.39,0.26,36.9,7.6,29.3,3550945
+2021,Telangana,Hyderabad Commissionerate,51.0,0.26,36.9,7.6,29.3,3550945
+2022,Telangana,Hyderabad Commissionerate,47.65,0.26,36.9,7.6,29.3,3550945
+2021,Telangana,Rachakonda Commissionerate,46.35,0.26,36.9,7.6,29.3,3550945
+2021,Telangana,Cyberabad Commissionerate,39.0,0.26,36.9,7.6,29.3,3550945
+2022,Telangana,Cyberabad Commissionerate,37.85,0.26,36.9,7.6,29.3,3550945
+2023,Telangana,Cyberabad Commissionerate,35.43,0.26,36.9,7.6,29.3,3550945
+2024,Telangana,Hyderabad Commissionerate,25.01,0.26,36.9,7.6,29.3,3550945
+2021,Jharkhand,Total Districts ,143.31,0.23,31.5,2.9,28.6,1648218
+2024,Jharkhand,Total Districts ,133.54,0.23,31.5,2.9,28.6,1648218
+2022,Jharkhand,Total Districts ,132.2,0.23,31.5,2.9,28.6,1648218
+2023,Jharkhand,Total Districts ,125.1,0.23,31.5,2.9,28.6,1648218
+2022,Andhra Pradesh,Total Districts ,286.69,0.17,30.0,4.4,25.6,4427452
+2023,Andhra Pradesh,Total Districts ,251.43,0.17,30.0,4.4,25.6,4427452
+2021,Andhra Pradesh,Total Districts ,175.63,0.17,30.0,4.4,25.6,4427452
+2024,Andhra Pradesh,Total Districts ,33.52,0.17,30.0,4.4,25.6,4427452
+2022,Andhra Pradesh,NTR,28.41,0.17,30.0,4.4,25.6,4427452
+2023,Andhra Pradesh,NTR,27.26,0.17,30.0,4.4,25.6,4427452
+2021,Andhra Pradesh,Visakhapatnam,24.66,0.17,30.0,4.4,25.6,4934177
+2024,Chhattisgarh,Total Districts ,125.89,0.2,29.6,6.8,22.8,1885744
+2022,Chhattisgarh,Total Districts ,119.42,0.2,29.6,6.8,22.8,1885744
+2021,Chhattisgarh,Total Districts ,112.9,0.2,29.6,6.8,22.8,1885744
+2023,Chhattisgarh,Total Districts ,104.84,0.2,29.6,6.8,22.8,1885744
+2022,Chhattisgarh,Bilaspur,68.75,0.2,29.6,6.8,22.8,439249
+2023,Chhattisgarh,Bilaspur,59.42,0.2,29.6,6.8,22.8,439249
+2021,Chhattisgarh,Bilaspur,50.54,0.2,29.6,6.8,22.8,439249
+2024,Chhattisgarh,Bilaspur,50.09,0.2,29.6,6.8,22.8,439249

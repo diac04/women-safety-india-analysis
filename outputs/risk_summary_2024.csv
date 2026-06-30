@@ -1,0 +1,4 @@
+Risk_Tier,district_count,avg_score,min_score,max_score,avg_crime_rate,avg_vacancy_rate,avg_justice_gap
+HIGH RISK,99,53.48,50.0,57.5,2.77,0.31,34.35
+MODERATE RISK,612,33.95,25.15,49.99,3.84,0.17,25.42
+LOWER RISK,210,16.17,7.27,24.92,2.72,0.09,10.53

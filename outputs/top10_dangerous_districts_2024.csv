@@ -1,0 +1,11 @@
+Year,State,District,risk_score,Risk_Tier,crime_rate,police_vacancy_rate,justice_gap
+2024,Bihar,Purnea,57.5,HIGH RISK,5.68,0.33,36.5
+2024,Bihar,Kishanganj,57.45,HIGH RISK,5.14,0.33,36.5
+2024,Bihar,Patna,57.28,HIGH RISK,3.32,0.33,36.5
+2024,Bihar,Gaya,57.27,HIGH RISK,3.25,0.33,36.5
+2024,Bihar,Katihar,57.27,HIGH RISK,3.26,0.33,36.5
+2024,Bihar,Araria,57.24,HIGH RISK,2.85,0.33,36.5
+2024,Bihar,Munger,57.24,HIGH RISK,2.92,0.33,36.5
+2024,Bihar,Bettiah,57.23,HIGH RISK,2.81,0.33,36.5
+2024,Bihar,Kaimur(Bhabhua),57.21,HIGH RISK,2.57,0.33,36.5
+2024,Bihar,Muzaffarpur,57.19,HIGH RISK,2.32,0.33,36.5

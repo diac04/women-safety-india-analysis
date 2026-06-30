@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg
+*.egg-info/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Personal notes (DO NOT push)
+notes/
+interview_prep.md
+private/
+
+# Large data files (optional - if files are too big)
+# Uncomment these if files exceed 100 MB
+# data/raw/*.xlsx
+# data/raw/*.csv
+
+# Power BI temporary files
+*.pbix.tmp
+~$*.pbix

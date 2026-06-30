@@ -1,0 +1,2916 @@
+Year,prev_year,State,District,current_crime_rate,prev_crime_rate,yoy_absolute_change,yoy_percent_change,trend_direction
+2022,2022,Delhi,North,670.45,33.0,637.45,1931.59,WORSENING
+2021,2021,Delhi,North,604.79,29.77,575.02,1931.57,WORSENING
+2023,2023,Delhi,North,499.35,24.58,474.77,1931.57,WORSENING
+2022,2022,Delhi,South,377.2,20.28,356.92,1760.37,WORSENING
+2021,2021,Delhi,West,356.28,19.11,337.17,1764.08,WORSENING
+2022,2022,Delhi,West,302.1,16.21,285.89,1764.05,WORSENING
+2021,2021,Delhi,South,277.72,14.93,262.79,1760.38,WORSENING
+2024,2024,Delhi,North,260.62,12.83,247.79,1931.59,WORSENING
+2023,2023,Delhi,South,257.58,13.85,243.73,1760.33,WORSENING
+2023,2023,Delhi,West,257.49,13.81,243.68,1764.08,WORSENING
+2022,2022,Delhi,East,135.53,22.49,113.04,502.75,WORSENING
+2022,2021,Andhra Pradesh,Total Districts ,286.69,175.63,111.06,63.23,WORSENING
+2023,2023,Tripura,North,113.4,5.58,107.82,1931.6,WORSENING
+2022,2021,Uttarakhand,Total Districts ,263.59,156.73,106.86,68.18,WORSENING
+2022,2022,Tripura,North,111.41,5.48,105.93,1931.59,WORSENING
+2024,2024,Delhi,South,102.44,5.51,96.93,1760.33,WORSENING
+2022,2021,Rajasthan,Total Districts ,994.13,897.32,96.81,10.79,WORSENING
+2021,2021,Delhi,East,107.63,17.86,89.77,502.77,WORSENING
+2022,2021,Uttar Pradesh,Total Districts ,836.0,752.76,83.24,11.06,WORSENING
+2023,2023,Delhi,East,97.51,16.18,81.33,502.77,WORSENING
+2021,2021,Tripura,North,73.61,3.62,69.99,1931.58,WORSENING
+2024,2024,Delhi,West,72.02,3.86,68.16,1764.06,WORSENING
+2021,2021,Tripura,West,68.2,3.66,64.54,1764.17,WORSENING
+2022,2021,Chhattisgarh,Bilaspur,68.75,7.25,61.5,848.62,WORSENING
+2022,2021,Uttar Pradesh,Pratapgarh,63.12,11.11,52.01,468.16,WORSENING
+2022,2021,Maharashtra,Total Districts ,423.53,373.35,50.18,13.44,WORSENING
+2023,2022,Chhattisgarh,Bilaspur,59.42,9.86,49.56,502.69,WORSENING
+2022,2022,Tripura,West,52.26,2.8,49.46,1763.98,WORSENING
+2024,2024,Delhi,East,57.95,9.61,48.34,502.73,WORSENING
+2023,2023,Tripura,West,50.35,2.7,47.65,1764.05,WORSENING
+2024,2024,Tripura,North,43.77,2.15,41.62,1931.67,WORSENING
+2024,2023,Chhattisgarh,Bilaspur,50.09,8.52,41.57,487.87,WORSENING
+2022,2021,Madhya Pradesh,Total Districts ,711.14,673.39,37.75,5.61,WORSENING
+2022,2021,Uttarakhand,Haridwar,62.69,28.84,33.85,117.38,WORSENING
+2022,2021,Rajasthan,Pratapgarh,42.78,11.35,31.43,276.8,WORSENING
+2023,2022,Uttar Pradesh,Pratapgarh,46.89,17.07,29.82,174.68,WORSENING
+2022,2021,Karnataka,Total Districts ,200.54,171.81,28.73,16.72,WORSENING
+2023,2022,Uttar Pradesh,Hamirpur,40.15,13.39,26.76,199.93,WORSENING
+2022,2021,Odisha,Total Districts ,430.99,405.84,25.15,6.2,WORSENING
+2022,2022,Tripura,South,26.05,1.4,24.65,1760.04,WORSENING
+2022,2021,Uttar Pradesh,Hamirpur,32.51,9.37,23.14,246.94,WORSENING
+2022,2021,Uttar Pradesh,Kanpur Commissionarate,39.01,17.3,21.71,125.48,WORSENING
+2024,2023,Chhattisgarh,Total Districts ,125.89,104.84,21.05,20.08,WORSENING
+2023,2022,Rajasthan,Pratapgarh,32.06,11.57,20.49,177.09,WORSENING
+2023,2023,Tripura,South,21.32,1.15,20.17,1760.6,WORSENING
+2021,2021,Tripura,South,20.73,1.11,19.62,1760.79,WORSENING
+2022,2021,Uttarakhand,Dehradun,28.39,10.46,17.93,171.54,WORSENING
+2024,2023,Arunachal Pradesh,Total Districts ,99.82,83.04,16.78,20.21,WORSENING
+2024,2023,Rajasthan,Pratapgarh,24.55,8.67,15.88,183.13,WORSENING
+2023,2022,Telangana,Total Districts ,323.6,308.48,15.12,4.9,WORSENING
+2024,2024,Tripura,West,15.93,0.85,15.08,1763.64,WORSENING
+2024,2023,Arunachal Pradesh,Siang East,20.32,5.3,15.02,283.38,WORSENING
+2024,2023,Goa,Total Districts ,18.36,4.29,14.07,327.72,WORSENING
+2024,2023,Himachal Pradesh,Total Districts ,52.36,38.5,13.86,36.02,WORSENING
+2022,2021,Telangana,Total Districts ,308.48,295.08,13.4,4.54,WORSENING
+2023,2022,Karnataka,Total Districts ,213.88,200.54,13.34,6.65,WORSENING
+2022,2021,Delhi,Outer,41.84,29.65,12.19,41.09,WORSENING
+2022,2021,Haryana,Total Districts ,582.42,571.01,11.41,2.0,WORSENING
+2022,2021,Delhi,Central,40.32,28.97,11.35,39.18,WORSENING
+2022,2021,Delhi,Total Districts ,589.7,578.36,11.34,1.96,WORSENING
+2024,2023,Meghalaya,Total Districts ,37.96,26.88,11.08,41.24,WORSENING
+2022,2021,Maharashtra,Pune Commr.,22.83,12.03,10.8,89.82,WORSENING
+2022,2021,Karnataka,Bengaluru City,42.8,32.21,10.59,32.88,WORSENING
+2022,2021,Odisha,Berhampur,20.51,10.25,10.26,100.04,WORSENING
+2023,2022,Mizoram,Total Districts ,20.92,10.78,10.14,94.09,WORSENING
+2022,2021,Delhi,South-East,45.8,35.7,10.1,28.29,WORSENING
+2023,2022,Bihar,Total Districts ,133.15,123.59,9.56,7.74,WORSENING
+2022,2021,Uttar Pradesh,Pilibhit,22.95,13.57,9.38,69.1,WORSENING
+2022,2021,Madhya Pradesh,Rajgarh,28.3,19.29,9.01,46.67,WORSENING
+2024,2023,Jharkhand,Simdega,13.34,4.35,8.99,206.6,WORSENING
+2023,2022,Uttar Pradesh,Lucknow Commissionarate,49.05,40.08,8.97,22.39,WORSENING
+2022,2021,Rajasthan,Ganganagar,46.68,37.89,8.79,23.2,WORSENING
+2022,2021,Odisha,Deogarh,14.04,5.49,8.55,155.62,WORSENING
+2022,2021,Uttar Pradesh,Badaun,21.09,12.54,8.55,68.2,WORSENING
+2024,2023,Jharkhand,Total Districts ,133.54,125.1,8.44,6.74,WORSENING
+2022,2021,Uttarakhand,Udhamsingh Nagar,72.03,63.67,8.36,13.13,WORSENING
+2023,2022,Madhya Pradesh,Guna,17.51,9.32,8.19,87.97,WORSENING
+2022,2021,Rajasthan,Udaipur,30.04,21.88,8.16,37.31,WORSENING
+2022,2021,Uttar Pradesh,Bijnor,13.65,5.5,8.15,148.11,WORSENING
+2022,2021,Andhra Pradesh,Guntur,19.37,11.28,8.09,71.73,WORSENING
+2024,2023,Chhattisgarh,Korba,13.69,5.84,7.85,134.53,WORSENING
+2023,2022,Karnataka,Bengaluru City,50.58,42.8,7.78,18.18,WORSENING
+2022,2021,Andhra Pradesh,Krishna,15.51,7.82,7.69,98.46,WORSENING
+2022,2021,Madhya Pradesh,Neemuch,19.47,11.79,7.68,65.14,WORSENING
+2023,2022,Odisha,Keonjhar,17.15,9.52,7.63,80.14,WORSENING
+2022,2021,Haryana,Ambala,32.29,24.74,7.55,30.53,WORSENING
+2022,2021,Madhya Pradesh,Jabalpur,21.0,13.45,7.55,56.14,WORSENING
+2022,2021,Odisha,Ganjam,25.92,18.38,7.54,41.01,WORSENING
+2024,2024,Tripura,South,7.7,0.41,7.29,1760.86,WORSENING
+2024,2023,Nagaland,Total Districts ,11.6,4.35,7.25,166.6,WORSENING
+2023,2022,Himachal Pradesh,Bilaspur,7.97,0.75,7.22,961.46,WORSENING
+2022,2021,D&N Haveli and Daman & Diu,Total Districts ,15.73,8.58,7.15,83.34,WORSENING
+2022,2021,Uttarakhand,Nainital,17.31,10.2,7.11,69.67,WORSENING
+2022,2021,Rajasthan,Jaipur West,28.13,21.13,7.0,33.16,WORSENING
+2022,2021,Rajasthan,Tonk,26.98,20.07,6.91,34.45,WORSENING
+2022,2021,Rajasthan,Hanumangarh,44.15,37.29,6.86,18.4,WORSENING
+2022,2021,Telangana,Rachakonda Commissionerate,53.17,46.35,6.82,14.7,WORSENING
+2022,2021,Uttar Pradesh,Ghaziabad,18.61,11.87,6.74,56.8,WORSENING
+2023,2022,Telangana,Hyderabad Commissionerate,54.38,47.65,6.73,14.13,WORSENING
+2022,2021,Rajasthan,Bhilwara,42.89,36.36,6.53,17.97,WORSENING
+2022,2021,Chhattisgarh,Total Districts ,119.42,112.9,6.52,5.78,WORSENING
+2023,2022,Delhi,North-West,36.64,30.13,6.51,21.62,WORSENING
+2024,2023,Goa,North Goa,9.04,2.55,6.49,254.33,WORSENING
+2024,2023,D&N Haveli and Daman & Diu,Total Districts ,11.44,5.0,6.44,128.58,WORSENING
+2022,2021,Rajasthan,Jhalawar,41.1,34.69,6.41,18.47,WORSENING
+2024,2023,Mizoram,Total Districts ,27.26,20.92,6.34,30.29,WORSENING
+2022,2021,Madhya Pradesh,Dindori,19.75,13.58,6.17,45.47,WORSENING
+2024,2023,Chhattisgarh,Jashpur,11.23,5.11,6.12,119.98,WORSENING
+2022,2021,Odisha,Angul,37.04,30.94,6.1,19.71,WORSENING
+2022,2021,Uttar Pradesh,Prayagraj,35.67,29.58,6.09,20.59,WORSENING
+2023,2022,Assam,Karimganj,27.81,21.8,6.01,27.58,WORSENING
+2024,2023,Goa,South Goa,7.33,1.36,5.97,439.94,WORSENING
+2022,2021,Tamil Nadu,Total Districts ,53.94,47.98,5.96,12.42,WORSENING
+2023,2022,Delhi,SPUWAC,10.48,4.53,5.95,131.18,WORSENING
+2022,2021,Haryana,Rewari,25.3,19.41,5.89,30.32,WORSENING
+2022,2021,Madhya Pradesh,Sagar,18.97,13.31,5.66,42.55,WORSENING
+2022,2021,Haryana,Gurugram,48.95,43.36,5.59,12.9,WORSENING
+2022,2021,Maharashtra,Aurangabad Rural,11.84,6.25,5.59,89.46,WORSENING
+2022,2021,Delhi,Rohini,50.72,45.14,5.58,12.35,WORSENING
+2023,2022,West Bengal,Diamond Harbour Police,21.9,16.34,5.56,34.05,WORSENING
+2022,2021,Delhi,New Delhi,18.98,13.47,5.51,40.89,WORSENING
+2023,2022,Andhra Pradesh,Nandyal,9.06,3.64,5.42,149.15,WORSENING
+2022,2021,Lakshadweep,Lakshadweep,9.44,4.05,5.39,133.3,WORSENING
+2022,2021,Lakshadweep,Total Districts ,9.44,4.05,5.39,133.3,WORSENING
+2022,2021,Madhya Pradesh,Ratlam,14.64,9.32,5.32,57.04,WORSENING
+2024,2023,Arunachal Pradesh,Kameng East,9.72,4.42,5.3,120.06,WORSENING
+2024,2023,Arunachal Pradesh,Namsai,5.3,0.0,5.3,,WORSENING
+2024,2023,Arunachal Pradesh,Subansiri Upper,7.95,2.65,5.3,199.99,WORSENING
+2024,2023,Chhattisgarh,Mahasamund,8.25,2.95,5.3,179.95,WORSENING
+2022,2021,West Bengal,Malda,20.48,15.18,5.3,34.89,WORSENING
+2022,2021,Himachal Pradesh,Kinnaur,6.2,1.03,5.17,499.78,WORSENING
+2023,2022,Uttar Pradesh,Firozabad,24.92,19.77,5.15,26.04,WORSENING
+2023,2022,Rajasthan,Bikaner,30.83,25.71,5.12,19.9,WORSENING
+2022,2021,Uttar Pradesh,Bareilly,24.24,19.14,5.1,26.66,WORSENING
+2024,2023,Madhya Pradesh,Alirajpur,9.9,4.89,5.01,102.43,WORSENING
+2023,2022,Odisha,Bhadrak,12.82,7.97,4.85,60.93,STABLE
+2024,2023,Arunachal Pradesh,Lower Dibang Valley,6.43,1.61,4.82,299.89,STABLE
+2022,2021,Punjab,CP Ludhiana,16.75,11.94,4.81,40.29,STABLE
+2023,2022,West Bengal,Asansol-Durgapur PC,11.27,6.58,4.69,71.16,STABLE
+2022,2021,Himachal Pradesh,Bilaspur,5.24,0.59,4.65,791.72,STABLE
+2023,2022,Haryana,Rewari,29.94,25.3,4.64,18.32,STABLE
+2024,2023,Mizoram,Saiha,6.15,1.54,4.61,300.12,STABLE
+2023,2022,Odisha,Balasore,15.26,10.68,4.58,42.88,STABLE
+2022,2021,Andhra Pradesh,Srikakulam,12.55,7.98,4.57,57.31,STABLE
+2022,2021,Rajasthan,Jaipur South,19.48,15.01,4.47,29.79,STABLE
+2023,2022,Uttar Pradesh,Sidharthnagar,6.25,1.81,4.44,244.48,STABLE
+2023,2022,Mizoram,Lawngtlai,4.43,0.0,4.43,,STABLE
+2023,2022,Arunachal Pradesh,Siang East,5.3,0.88,4.42,499.97,STABLE
+2022,2021,Arunachal Pradesh,Siang West,7.07,2.65,4.42,166.78,STABLE
+2022,2021,Jammu & Kashmir,Ganderbal,9.65,5.26,4.39,83.38,STABLE
+2023,2022,Odisha,Kandhamal,19.45,15.06,4.39,29.12,STABLE
+2022,2021,Uttar Pradesh,Varanasi Commissionarate,18.5,14.16,4.34,30.66,STABLE
+2023,2022,Madhya Pradesh,Dewas,11.23,6.9,4.33,62.86,STABLE
+2022,2021,D&N Haveli and Daman & Diu,D&N Haveli,10.01,5.72,4.29,75.01,STABLE
+2024,2023,Himachal Pradesh,Sirmaur,10.34,6.07,4.27,70.28,STABLE
+2022,2021,Haryana,Kurukshetra,35.43,31.19,4.24,13.6,STABLE
+2023,2022,Uttar Pradesh,Banda,16.87,12.66,4.21,33.24,STABLE
+2023,2022,Uttar Pradesh,Gorakhpur,18.45,14.25,4.2,29.43,STABLE
+2022,2021,Rajasthan,Sawai Madhopur,28.52,24.35,4.17,17.12,STABLE
+2024,2023,Chhattisgarh,Sarguja,10.23,6.1,4.13,67.75,STABLE
+2022,2021,Madhya Pradesh,Burhanpur,16.98,12.85,4.13,32.13,STABLE
+2022,2021,Madhya Pradesh,Singrauli,15.57,11.44,4.13,36.11,STABLE
+2022,2021,Maharashtra,Hingoli,15.21,11.08,4.13,37.29,STABLE
+2023,2022,Arunachal Pradesh,Anjaw,4.11,0.0,4.11,,STABLE
+2022,2021,Uttar Pradesh,Gorakhpur,14.25,10.14,4.11,40.49,STABLE
+2023,2022,Madhya Pradesh,Betul,8.72,4.64,4.08,88.07,STABLE
+2024,2023,Meghalaya,Garo Hills West,5.71,1.68,4.03,239.93,STABLE
+2024,2023,Meghalaya,Khasi Hills Eastern West,4.03,0.0,4.03,,STABLE
+2023,2022,Uttar Pradesh,Sitapur,10.9,6.88,4.02,58.33,STABLE
+2023,2022,Delhi,Dwarka,58.27,54.3,3.97,7.3,STABLE
+2022,2021,Delhi,Outer North,34.38,30.41,3.97,13.05,STABLE
+2023,2022,Odisha,Koraput,16.2,12.23,3.97,32.49,STABLE
+2022,2021,Madhya Pradesh,Sheopur,10.49,6.57,3.92,59.58,STABLE
+2022,2021,Maharashtra,Beed,19.75,15.83,3.92,24.75,STABLE
+2022,2021,Tripura,Dhalai,9.2,5.29,3.91,73.99,STABLE
+2022,2021,Maharashtra,Latur,15.2,11.3,3.9,34.48,STABLE
+2022,2021,Jharkhand,Pakur,8.5,4.64,3.86,83.37,STABLE
+2023,2022,Odisha,Bolangir,11.23,7.45,3.78,50.83,STABLE
+2024,2023,Himachal Pradesh,Shimla,7.16,3.42,3.74,109.45,STABLE
+2022,2021,Odisha,Sundargarh,8.39,4.65,3.74,80.34,STABLE
+2024,2023,Odisha,DCP BBSR,9.28,5.55,3.73,67.1,STABLE
+2024,2023,Meghalaya,Ri-Bhoi,7.39,3.7,3.69,99.98,STABLE
+2022,2021,Rajasthan,Jaipur East,17.95,14.28,3.67,25.66,STABLE
+2022,2021,Maharashtra,Jalna,24.99,21.35,3.64,17.05,STABLE
+2022,2021,Haryana,Sirsa,23.9,20.28,3.62,17.88,STABLE
+2022,2021,Rajasthan,Kota City,26.74,23.13,3.61,15.6,STABLE
+2023,2022,Uttar Pradesh,Varanasi Commissionarate,22.1,18.5,3.6,19.46,STABLE
+2022,2021,Rajasthan,Bharatpur,44.87,41.29,3.58,8.68,STABLE
+2022,2021,Uttar Pradesh,Mainpuri,11.91,8.33,3.58,42.97,STABLE
+2023,2022,Telangana,Khammam Commissionerate,12.0,8.45,3.55,42.04,STABLE
+2023,2022,Uttar Pradesh,Azamgarh,12.1,8.56,3.54,41.42,STABLE
+2024,2023,Arunachal Pradesh,Kameng West,6.18,2.65,3.53,133.2,STABLE
+2023,2022,Odisha,Dhenkanal,15.16,11.66,3.5,29.97,STABLE
+2022,2021,Rajasthan,Dholpur,20.36,16.86,3.5,20.76,STABLE
+2022,2021,Rajasthan,Sikar,28.61,25.11,3.5,13.96,STABLE
+2022,2021,Arunachal Pradesh,Tawang,3.48,0.0,3.48,,STABLE
+2024,2023,Arunachal Pradesh,Tawang,3.48,0.0,3.48,,STABLE
+2022,2021,Karnataka,Bengaluru District,10.31,6.83,3.48,50.86,STABLE
+2022,2021,Maharashtra,Pimpri Chinchwad City,13.02,9.54,3.48,36.48,STABLE
+2023,2022,Odisha,Jajpur,20.51,17.03,3.48,20.46,STABLE
+2022,2021,Kerala,Kollam Commr.,13.25,9.81,3.44,35.07,STABLE
+2024,2023,Jammu & Kashmir,Ramban,10.42,7.05,3.37,47.81,STABLE
+2022,2021,Uttar Pradesh,Aligarh,24.4,21.04,3.36,15.96,STABLE
+2022,2021,Andhra Pradesh,Vizianagaram,13.06,9.72,3.34,34.4,STABLE
+2024,2023,Chhattisgarh,Raigarh,6.17,2.84,3.33,117.34,STABLE
+2022,2021,Maharashtra,Nasik Rural,20.07,16.74,3.33,19.9,STABLE
+2022,2021,Maharashtra,Yavatmal,14.62,11.29,3.33,29.48,STABLE
+2023,2022,Madhya Pradesh,Datia,16.47,13.15,3.32,25.22,STABLE
+2022,2021,Madhya Pradesh,Dhar,14.56,11.34,3.22,28.42,STABLE
+2022,2021,Uttar Pradesh,Agra,18.83,15.61,3.22,20.66,STABLE
+2024,2023,Chandigarh,Total Districts ,12.44,9.23,3.21,34.81,STABLE
+2022,2021,Rajasthan,Jodhpur West,12.59,9.38,3.21,34.29,STABLE
+2024,2023,D&N Haveli and Daman & Diu,Daman,3.64,0.45,3.19,700.25,STABLE
+2024,2023,Himachal Pradesh,Bilaspur,4.33,1.14,3.19,278.96,STABLE
+2022,2021,Jammu & Kashmir,Doda,12.94,9.76,3.18,32.61,STABLE
+2022,2021,Uttar Pradesh,Azamgarh,8.56,5.39,3.17,58.81,STABLE
+2024,2023,Chhattisgarh,Narayanpur,8.71,5.6,3.11,55.61,STABLE
+2022,2021,Assam,Goalpara,21.3,18.2,3.1,17.04,STABLE
+2023,2022,Himachal Pradesh,Kinnaur,9.3,6.2,3.1,49.95,STABLE
+2022,2021,Uttarakhand,Tehri Garhwal,4.21,1.12,3.09,274.57,STABLE
+2022,2021,Madhya Pradesh,Sidhi,12.42,9.34,3.08,33.04,STABLE
+2022,2021,Odisha,Nayagarh,10.48,7.41,3.07,41.51,STABLE
+2024,2023,Mizoram,Aizawl,5.87,2.82,3.05,107.87,STABLE
+2024,2023,Himachal Pradesh,Chamba,5.7,2.68,3.02,112.66,STABLE
+2022,2021,Rajasthan,Jodhpur East,13.0,9.98,3.02,30.27,STABLE
+2023,2022,Jammu & Kashmir,Kishtwar,6.78,3.77,3.01,79.87,STABLE
+2022,2021,Andhra Pradesh,East Godavari,11.81,8.82,2.99,33.85,STABLE
+2023,2022,Bihar,Arwal,6.45,3.47,2.98,85.66,STABLE
+2023,2022,Uttar Pradesh,Kushi Nagar,7.71,4.73,2.98,62.99,STABLE
+2022,2021,Madhya Pradesh,Umaria,11.19,8.23,2.96,36.02,STABLE
+2024,2023,Jammu & Kashmir,Poonch,6.96,4.04,2.92,72.41,STABLE
+2022,2021,Punjab,Fatehgarh Sahib,8.26,5.36,2.9,54.08,STABLE
+2023,2022,Telangana,Warangal Commissionerate,20.95,18.05,2.9,16.06,STABLE
+2023,2022,Uttar Pradesh,Kaushambi,9.73,6.85,2.88,42.05,STABLE
+2024,2023,Jharkhand,Latehar,9.81,6.94,2.87,41.4,STABLE
+2022,2021,Madhya Pradesh,Rewa,12.06,9.19,2.87,31.21,STABLE
+2023,2022,Odisha,Khurda,10.62,7.75,2.87,37.02,STABLE
+2023,2022,Punjab,CP Amritsar,7.42,4.57,2.85,62.23,STABLE
+2023,2022,West Bengal,Dakshin Dinajpur,12.97,10.12,2.85,28.22,STABLE
+2023,2022,Jammu & Kashmir,Srinagar,8.65,5.84,2.81,48.23,STABLE
+2024,2023,Jharkhand,Pakur,8.11,5.31,2.8,52.69,STABLE
+2023,2022,Maharashtra,Akola,16.25,13.47,2.78,20.63,STABLE
+2022,2021,Jammu & Kashmir,Reasi,6.08,3.32,2.76,83.35,STABLE
+2024,2023,Chhattisgarh,Kondagaon,3.29,0.58,2.71,464.01,STABLE
+2022,2021,Telangana,Nizamabad Commissionerate,10.42,7.74,2.68,34.55,STABLE
+2022,2021,Uttar Pradesh,Firozabad,19.77,17.09,2.68,15.68,STABLE
+2022,2021,Arunachal Pradesh,Kameng East,7.07,4.42,2.65,60.07,STABLE
+2024,2023,Arunachal Pradesh,Siang Upper,3.53,0.88,2.65,299.6,STABLE
+2023,2022,Haryana,Mahendergarh,13.03,10.38,2.65,25.54,STABLE
+2023,2022,Telangana,Jagityal,10.39,7.74,2.65,34.16,STABLE
+2022,2021,Maharashtra,Chandrapur,9.66,7.02,2.64,37.57,STABLE
+2022,2021,Jharkhand,Khunti,6.87,4.25,2.62,61.62,STABLE
+2023,2022,Odisha,Kendrapara,17.39,14.79,2.6,17.57,STABLE
+2023,2022,Haryana,Faridabad,31.23,28.64,2.59,9.05,STABLE
+2024,2023,Nagaland,Kohima,3.24,0.65,2.59,399.26,STABLE
+2022,2021,Haryana,Yamunanagar,33.09,30.51,2.58,8.46,STABLE
+2023,2022,West Bengal,Murshidabad Police District,36.93,34.35,2.58,7.52,STABLE
+2022,2021,Uttar Pradesh,Sonbhadra,7.66,5.09,2.57,50.53,STABLE
+2022,2021,Delhi,South-West,29.94,27.39,2.55,9.32,STABLE
+2023,2022,Madhya Pradesh,Jhabua,7.97,5.43,2.54,46.8,STABLE
+2023,2022,Rajasthan,Jaipur North,19.31,16.78,2.53,15.08,STABLE
+2023,2022,Uttar Pradesh,Jalaun,9.72,7.2,2.52,34.93,STABLE
+2022,2021,Karnataka,Koppal,6.76,4.25,2.51,58.9,STABLE
+2022,2021,Rajasthan,Sirohi,29.28,26.77,2.51,9.39,STABLE
+2022,2021,Karnataka,Bidar,6.38,3.88,2.5,64.44,STABLE
+2022,2021,Chhattisgarh,Raigarh,5.82,3.33,2.49,74.56,STABLE
+2023,2022,Rajasthan,Baran,34.21,31.72,2.49,7.86,STABLE
+2022,2021,Haryana,Jind,17.27,14.8,2.47,16.73,STABLE
+2023,2022,Jammu & Kashmir,Ramban,7.05,4.6,2.45,53.35,STABLE
+2022,2021,Telangana,Mahabubabad,6.28,3.83,2.45,63.97,STABLE
+2023,2022,Jharkhand,Garhwa,10.06,7.63,2.43,31.92,STABLE
+2022,2021,Rajasthan,Bikaner,25.71,23.28,2.43,10.42,STABLE
+2023,2022,Uttar Pradesh,Unnao,10.24,7.81,2.43,31.2,STABLE
+2023,2022,Jharkhand,Chatra,6.34,3.92,2.42,61.78,STABLE
+2022,2021,Maharashtra,Wardha,6.08,3.68,2.4,65.36,STABLE
+2024,2023,Himachal Pradesh,Solan,6.14,3.75,2.39,63.91,STABLE
+2022,2021,Madhya Pradesh,Seoni,13.68,11.29,2.39,21.21,STABLE
+2022,2021,Uttar Pradesh,Sambhal,11.53,9.14,2.39,26.2,STABLE
+2024,2023,Himachal Pradesh,Kullu,4.96,2.58,2.38,92.14,STABLE
+2022,2021,Odisha,Baragarh,9.46,7.08,2.38,33.63,STABLE
+2022,2021,Punjab,Bathinda,7.89,5.51,2.38,43.17,STABLE
+2023,2022,Karnataka,Uttara Kannada,4.36,2.0,2.36,118.36,STABLE
+2022,2021,Manipur,Imphal West,4.2,1.85,2.35,127.45,STABLE
+2022,2021,Uttar Pradesh,Shrawasti,5.84,3.5,2.34,66.76,STABLE
+2022,2021,Rajasthan,Rajsamand,29.1,26.77,2.33,8.72,STABLE
+2023,2022,Rajasthan,Jaipur East,20.24,17.95,2.29,12.78,STABLE
+2023,2022,Uttar Pradesh,Mahoba,5.56,3.28,2.28,69.72,STABLE
+2022,2021,Odisha,Malkangiri,25.53,23.26,2.27,9.77,STABLE
+2024,2023,Himachal Pradesh,Mandi,7.48,5.22,2.26,43.33,STABLE
+2023,2022,Himachal Pradesh,Solan,3.75,1.5,2.25,150.26,STABLE
+2022,2021,Maharashtra,Parbhani,14.54,12.31,2.23,18.08,STABLE
+2024,2023,Jharkhand,Chaibasa,5.52,3.34,2.18,65.42,STABLE
+2023,2022,Karnataka,Kalaburgi City,5.77,3.59,2.18,60.94,STABLE
+2023,2022,Odisha,Mayurbhanj,18.15,15.98,2.17,13.59,STABLE
+2023,2022,Mizoram,Lunglei,2.15,0.0,2.15,,STABLE
+2022,2021,Madhya Pradesh,Khargone,7.43,5.29,2.14,40.39,STABLE
+2022,2021,Madhya Pradesh,Narsinghpur,10.43,8.3,2.13,25.59,STABLE
+2022,2021,Rajasthan,Dungarpur,13.46,11.33,2.13,18.75,STABLE
+2022,2021,Rajasthan,Alwar,24.68,22.58,2.1,9.31,STABLE
+2022,2021,Maharashtra,Mumbai Commr.,37.37,35.29,2.08,5.89,STABLE
+2023,2022,Punjab,Ropar,4.16,2.08,2.08,100.1,STABLE
+2023,2022,Karnataka,Ballari,6.27,4.2,2.07,49.24,STABLE
+2023,2022,Mizoram,Champhai,2.07,0.0,2.07,,STABLE
+2024,2023,Chhattisgarh,Balrampur,5.26,3.2,2.06,64.52,STABLE
+2023,2022,Karnataka,Chitradurga,6.81,4.77,2.04,42.81,STABLE
+2021,2021,Sikkim,East,2.45,0.41,2.04,502.01,STABLE
+2022,2021,Assam,Dima Hasao,4.47,2.44,2.03,83.43,STABLE
+2023,2022,Haryana,Jind,19.29,17.27,2.02,11.68,STABLE
+2023,2022,Mizoram,Mamit,2.01,0.0,2.01,,STABLE
+2023,2022,Uttar Pradesh,Agra,20.84,18.83,2.01,10.66,STABLE
+2022,2021,Uttarakhand,Bageshwar,5.02,3.01,2.01,66.71,STABLE
+2022,2021,Telangana,Suryapet,10.7,8.7,2.0,22.96,STABLE
+2022,2021,Uttarakhand,Pithoragarh,4.68,2.7,1.98,73.46,STABLE
+2022,2021,Telangana,Nagarkurnool,3.86,1.89,1.97,104.58,STABLE
+2022,2021,Telangana,Warangal Commissionerate,18.05,16.08,1.97,12.25,STABLE
+2024,2023,Madhya Pradesh,Jhabua,9.93,7.97,1.96,24.53,STABLE
+2022,2021,Maharashtra,Jalgaon,12.7,10.75,1.95,18.12,STABLE
+2023,2022,Bihar,Jamui,3.56,1.63,1.93,118.4,STABLE
+2023,2022,Uttar Pradesh,Chitrakoot,7.1,5.17,1.93,37.25,STABLE
+2022,2021,Uttar Pradesh,Lalitpur,5.55,3.63,1.92,52.88,STABLE
+2022,2021,Telangana,Sangareddy,6.28,4.39,1.89,42.95,STABLE
+2022,2021,Uttar Pradesh,Auraiya,18.78,16.89,1.89,11.17,STABLE
+2022,2021,Bihar,Sitamarhi,4.85,2.97,1.88,63.2,STABLE
+2023,2022,Himachal Pradesh,Hamirpur,3.06,1.18,1.88,159.07,STABLE
+2024,2023,Jharkhand,Sahebganj,5.82,3.94,1.88,47.58,STABLE
+2022,2021,Madhya Pradesh,Panna,14.37,12.49,1.88,15.06,STABLE
+2022,2021,Rajasthan,Ajmer,42.11,40.23,1.88,4.68,STABLE
+2022,2021,Uttar Pradesh,Baghpat,8.01,6.14,1.87,30.47,STABLE
+2022,2021,Uttar Pradesh,Shamli,9.43,7.58,1.85,24.38,STABLE
+2023,2021,Nagaland,Peren,1.83,0.0,1.83,,STABLE
+2022,2021,Rajasthan,Pali,37.34,35.51,1.83,5.16,STABLE
+2022,2021,West Bengal,Jangipur Police District,14.21,12.38,1.83,14.81,STABLE
+2022,2021,D&N Haveli and Daman & Diu,Daman,3.18,1.36,1.82,133.04,STABLE
+2023,2022,Madhya Pradesh,Shivpuri,14.36,12.54,1.82,14.47,STABLE
+2024,2023,Nagaland,Peren,3.65,1.83,1.82,99.84,STABLE
+2024,2023,Chhattisgarh,Jagdalpur,4.14,2.33,1.81,77.43,STABLE
+2022,2021,Jammu & Kashmir,Poonch,6.54,4.73,1.81,38.18,STABLE
+2023,2022,Rajasthan,Jaipur West,29.94,28.13,1.81,6.45,STABLE
+2022,2021,Madhya Pradesh,Khandwa,9.76,7.97,1.79,22.53,STABLE
+2024,2023,Jharkhand,Dumka,4.41,2.63,1.78,67.54,STABLE
+2022,2021,Karnataka,Shimoga,6.2,4.42,1.78,40.42,STABLE
+2023,2022,Arunachal Pradesh,Kameng West,2.65,0.88,1.77,199.99,STABLE
+2024,2023,Arunachal Pradesh,Kamle,2.65,0.88,1.77,199.99,STABLE
+2024,2023,Arunachal Pradesh,Pakkessang,1.77,0.0,1.77,,STABLE
+2022,2021,Arunachal Pradesh,Siang,1.77,0.0,1.77,,STABLE
+2022,2021,Arunachal Pradesh,Subansiri Lower,2.65,0.88,1.77,199.99,STABLE
+2023,2022,Bihar,Jehanabad,4.71,2.94,1.77,60.4,STABLE
+2024,2023,Arunachal Pradesh,Longding,3.53,1.77,1.76,99.8,STABLE
+2022,2021,Jammu & Kashmir,Srinagar,5.84,4.08,1.76,43.22,STABLE
+2022,2021,Maharashtra,Nagpur Commr.,10.3,8.55,1.75,20.54,STABLE
+2022,2021,Uttar Pradesh,Khiri,13.77,12.02,1.75,14.56,STABLE
+2022,2021,Maharashtra,Bhandara,5.43,3.69,1.74,46.97,STABLE
+2022,2021,Kerala,Wayanadu,8.36,6.64,1.72,25.89,STABLE
+2022,2021,Madhya Pradesh,Shajapur,10.06,8.34,1.72,20.69,STABLE
+2023,2021,Nagaland,Longleng,1.72,0.0,1.72,,STABLE
+2023,2022,Uttar Pradesh,Muzaffarnagar,9.34,7.62,1.72,22.6,STABLE
+2023,2022,Chhattisgarh,Raigarh,5.01,3.3,1.71,51.77,STABLE
+2023,2022,Himachal Pradesh,Total Districts ,38.5,36.79,1.71,4.65,STABLE
+2022,2021,Uttar Pradesh,Rampur,5.51,3.8,1.71,45.11,STABLE
+2022,2021,Uttar Pradesh,Balrampur,3.16,1.46,1.7,116.9,STABLE
+2023,2022,Odisha,Cuttack,5.7,4.01,1.69,42.18,STABLE
+2022,2021,Uttar Pradesh,Hapur,10.92,9.23,1.69,18.26,STABLE
+2022,2021,Meghalaya,Ri-Bhoi,3.7,2.02,1.68,83.56,STABLE
+2023,2022,D&N Haveli and Daman & Diu,Diu,3.34,1.67,1.67,100.02,STABLE
+2022,2021,Uttar Pradesh,Kannauj,28.34,26.67,1.67,6.28,STABLE
+2023,2022,A&N Islands,North & Middle Andaman,1.65,0.0,1.65,,STABLE
+2024,2023,Jharkhand,Ramgarh,5.31,3.66,1.65,44.94,STABLE
+2023,2022,Kerala,Alapuzha,9.61,7.96,1.65,20.8,STABLE
+2022,2021,Odisha,Jharsuguda,18.16,16.51,1.65,10.02,STABLE
+2022,2021,Odisha,Kalahandi,16.65,15.0,1.65,11.0,STABLE
+2024,2023,Bihar,Kishanganj,5.14,3.5,1.64,46.94,STABLE
+2022,2021,Manipur,Total Districts ,14.25,12.61,1.64,13.04,STABLE
+2023,2022,Arunachal Pradesh,Lower Dibang Valley,1.61,0.0,1.61,,STABLE
+2022,2021,Punjab,SAS Nagar,10.81,9.21,1.6,17.41,STABLE
+2023,2022,Rajasthan,Tonk,28.57,26.98,1.59,5.89,STABLE
+2023,2022,Bihar,Munger,3.81,2.23,1.58,71.22,STABLE
+2022,2021,Uttar Pradesh,Ballia,5.74,4.16,1.58,37.97,STABLE
+2022,2021,Punjab,Moga,3.67,2.1,1.57,75.11,STABLE
+2022,2021,Rajasthan,Jaipur Rural,8.81,7.24,1.57,21.62,STABLE
+2023,2022,Bihar,Lakhisarai,4.6,3.04,1.56,51.28,STABLE
+2022,2021,Uttarakhand,Chamoli,2.89,1.33,1.56,116.92,STABLE
+2024,2023,Goa,CID,1.79,0.24,1.55,650.6,STABLE
+2022,2021,Kerala,Total Districts ,196.36,194.81,1.55,0.8,STABLE
+2023,2022,Telangana,Bhadradri Kothagudem,12.93,11.38,1.55,13.65,STABLE
+2023,2022,Uttar Pradesh,Hardoi,6.76,5.21,1.55,29.87,STABLE
+2023,2022,Mizoram,Saiha,1.54,0.0,1.54,,STABLE
+2023,2022,Tamil Nadu,Theni,6.91,5.37,1.54,28.58,STABLE
+2024,2023,Assam,Bongaigaon,11.3,9.77,1.53,15.67,STABLE
+2022,2021,Madhya Pradesh,Jhabua,5.43,3.9,1.53,39.15,STABLE
+2024,2023,Jharkhand,Lohardagga,4.98,3.46,1.52,44.0,STABLE
+2023,2022,Karnataka,Hassan,4.85,3.33,1.52,45.71,STABLE
+2022,2021,Maharashtra,Nanded,10.37,8.85,1.52,17.21,STABLE
+2022,2021,Odisha,Kendrapara,14.79,13.28,1.51,11.36,STABLE
+2022,2021,Bihar,Kaimur(Bhabhua),3.05,1.55,1.5,96.71,STABLE
+2022,2021,Uttar Pradesh,Banda,12.66,11.16,1.5,13.41,STABLE
+2022,2021,Rajasthan,Chittorgarh,25.67,24.18,1.49,6.15,STABLE
+2022,2021,Rajasthan,Jaipur North,16.78,15.29,1.49,9.74,STABLE
+2023,2022,Chhattisgarh,Janjgir,6.84,5.36,1.48,27.71,STABLE
+2023,2022,Punjab,Fazilka,6.59,5.11,1.48,29.0,STABLE
+2024,2023,Assam,Golaghat,5.13,3.67,1.46,39.87,STABLE
+2022,2021,Kerala,Ernakulam Rural,10.38,8.93,1.45,16.27,STABLE
+2024,2023,Maharashtra,Ratnagiri,3.23,1.78,1.45,81.79,STABLE
+2023,2021,Nagaland,Total Districts ,4.35,2.9,1.45,49.96,STABLE
+2024,2023,D&N Haveli and Daman & Diu,D&N Haveli,4.29,2.86,1.43,50.01,STABLE
+2022,2021,Madhya Pradesh,Datia,13.15,11.72,1.43,12.24,STABLE
+2022,2021,Maharashtra,Navi Mumbai,9.74,8.31,1.43,17.2,STABLE
+2022,2021,West Bengal,Baruipur Police,32.18,30.75,1.43,4.65,STABLE
+2023,2022,Andhra Pradesh,YSR,12.52,11.1,1.42,12.78,STABLE
+2022,2021,Bihar,Aurangabad,3.53,2.11,1.42,66.95,STABLE
+2023,2022,Odisha,Nuapada,7.12,5.7,1.42,24.95,STABLE
+2023,2022,Uttar Pradesh,Fatehpur,9.68,8.26,1.42,17.23,STABLE
+2024,2023,Uttar Pradesh,Mau,3.31,1.89,1.42,74.94,STABLE
+2023,2022,Bihar,Rohtas,3.44,2.03,1.41,69.7,STABLE
+2022,2021,Madhya Pradesh,Ashok Nagar,9.48,8.07,1.41,17.49,STABLE
+2023,2022,Madhya Pradesh,Indore Rural,4.91,3.5,1.41,40.17,STABLE
+2022,2021,Madhya Pradesh,Mandla,8.41,7.01,1.4,20.03,STABLE
+2023,2022,Kerala,Palakkad,12.07,10.68,1.39,13.05,STABLE
+2023,2022,Madhya Pradesh,Sidhi,13.81,12.42,1.39,11.17,STABLE
+2022,2021,Gujarat,Rajkot City,4.14,2.77,1.37,49.7,STABLE
+2023,2022,Madhya Pradesh,Chhindwara,7.4,6.03,1.37,22.72,STABLE
+2024,2023,Manipur,Total Districts ,11.24,9.87,1.37,13.93,STABLE
+2022,2021,Rajasthan,Karauli,27.73,26.36,1.37,5.21,STABLE
+2023,2022,Uttar Pradesh,Raibareilly,7.23,5.86,1.37,23.29,STABLE
+2023,2022,Karnataka,Vijayapura,8.63,7.28,1.35,18.51,STABLE
+2022,2021,Telangana,Nirmal,3.49,2.14,1.35,63.06,STABLE
+2022,2021,Himachal Pradesh,Una,5.01,3.67,1.34,36.49,STABLE
+2024,2023,Meghalaya,Garo Hills East,1.68,0.34,1.34,400.08,STABLE
+2022,2021,Meghalaya,Garo Hills West,7.39,6.05,1.34,22.21,STABLE
+2023,2022,Meghalaya,Jaintia Hills West,4.03,2.69,1.34,49.95,STABLE
+2023,2022,Mizoram,Serchhip,1.34,0.0,1.34,,STABLE
+2024,2023,Mizoram,Serchhip,2.68,1.34,1.34,100.13,STABLE
+2022,2021,Uttarakhand,Champawat,4.02,2.68,1.34,50.04,STABLE
+2023,2022,Maharashtra,Parbhani,15.87,14.54,1.33,9.15,STABLE
+2023,2022,Bihar,Khagaria,3.34,2.03,1.31,64.17,STABLE
+2023,2022,Goa,Total Districts ,4.29,2.98,1.31,43.91,STABLE
+2023,2022,Maharashtra,Washim,20.41,19.1,1.31,6.84,STABLE
+2023,2022,Gujarat,Vadodara City,3.15,1.86,1.29,69.55,STABLE
+2022,2021,Karnataka,Hubballi Dharwad City,5.55,4.26,1.29,30.36,STABLE
+2022,2021,Maharashtra,Sangli,7.58,6.29,1.29,20.59,STABLE
+2023,2022,Jammu & Kashmir,Kathua,5.36,4.09,1.27,31.02,STABLE
+2023,2022,Ladakh,Total Districts ,5.07,3.8,1.27,33.27,STABLE
+2022,2021,Mizoram,Hnahthial,1.27,0.0,1.27,,STABLE
+2024,2023,Mizoram,Khawzawl,1.27,0.0,1.27,,STABLE
+2022,2021,Maharashtra,Nandurbar,6.96,5.7,1.26,22.16,STABLE
+2023,2022,Kerala,Kannur City,7.51,6.27,1.24,19.72,STABLE
+2024,2023,Himachal Pradesh,Hamirpur,2.49,1.26,1.23,97.63,STABLE
+2023,2022,Karnataka,Bengaluru District,11.54,10.31,1.23,11.96,STABLE
+2022,2021,Ladakh,Kargil,1.85,0.62,1.23,199.56,STABLE
+2022,2021,Madhya Pradesh,Shahdol,20.07,18.84,1.23,6.52,STABLE
+2022,2021,Rajasthan,Dausa,26.34,25.11,1.23,4.89,STABLE
+2022,2021,West Bengal,Diamond Harbour Police,16.34,15.11,1.23,8.11,STABLE
+2024,2023,Chhattisgarh,Manendragarh-Chirmiri-Bharatpur,3.87,2.65,1.22,45.96,STABLE
+2022,2021,Gujarat,Kheda,2.76,1.55,1.21,78.04,STABLE
+2024,2023,Puducherry,Total Districts ,4.08,2.87,1.21,42.06,STABLE
+2023,2022,Telangana,Rajanna Siricilla,6.62,5.41,1.21,22.43,STABLE
+2022,2021,Andhra Pradesh,West Godavari,11.18,9.98,1.2,11.99,STABLE
+2023,2022,Bihar,Araria,4.14,2.94,1.2,40.9,STABLE
+2022,2021,Maharashtra,Mira Bhayandar Vasai Virar Commr.,13.64,12.44,1.2,9.67,STABLE
+2022,2021,Punjab,Patiala,8.49,7.29,1.2,16.41,STABLE
+2021,2021,Sikkim,West,1.27,0.07,1.2,1757.2,STABLE
+2023,2022,Uttar Pradesh,Baghpat,9.21,8.01,1.2,15.01,STABLE
+2024,2023,Arunachal Pradesh,Lohit,1.79,0.6,1.19,199.98,STABLE
+2023,2022,Arunachal Pradesh,Changlang,2.35,1.17,1.18,100.29,STABLE
+2023,2022,Madhya Pradesh,Singrauli,16.75,15.57,1.18,7.57,STABLE
+2024,2023,Nagaland,Kiphire,1.18,0.0,1.18,,STABLE
+2024,2023,Chhattisgarh,Balod,2.39,1.22,1.17,95.95,STABLE
+2023,2022,Rajasthan,Jodhpur West,13.76,12.59,1.17,9.25,STABLE
+2022,2021,Bihar,Patna,5.97,4.81,1.16,24.1,STABLE
+2024,2023,Chhattisgarh,Balodbazar,3.18,2.02,1.16,57.81,STABLE
+2022,2021,Maharashtra,Washim,19.1,17.94,1.16,6.46,STABLE
+2022,2021,Odisha,Rourkela,9.52,8.36,1.16,13.86,STABLE
+2022,2021,Himachal Pradesh,Hamirpur,2.87,1.73,1.14,65.67,STABLE
+2022,2021,Uttar Pradesh,Gonda,2.68,1.54,1.14,73.5,STABLE
+2023,2022,Rajasthan,Dungarpur,14.59,13.46,1.13,8.36,STABLE
+2021,2021,Sikkim,South,1.18,0.06,1.12,1753.61,STABLE
+2023,2022,West Bengal,Bankura,9.07,7.95,1.12,14.03,STABLE
+2024,2023,Chhattisgarh,Sarangarh-Bilaigarh,2.65,1.54,1.11,72.32,STABLE
+2024,2023,Uttarakhand,Chamoli,2.0,0.89,1.11,125.17,STABLE
+2022,2021,Haryana,Fatehabad,15.78,14.68,1.1,7.51,STABLE
+2024,2023,Manipur,Tengnoupal,1.1,0.0,1.1,,STABLE
+2022,2021,Chhattisgarh,Raipur,6.42,5.33,1.09,20.5,STABLE
+2023,2022,Madhya Pradesh,Satna,7.72,6.63,1.09,16.4,STABLE
+2022,2021,Madhya Pradesh,Ujjain,12.12,11.03,1.09,9.89,STABLE
+2023,2022,Odisha,Nayagarh,11.56,10.48,1.08,10.34,STABLE
+2023,2022,Rajasthan,Jaipur South,20.56,19.48,1.08,5.57,STABLE
+2023,2022,Uttar Pradesh,Auraiya,19.86,18.78,1.08,5.73,STABLE
+2023,2022,Uttar Pradesh,Jaunpur,5.59,4.51,1.08,24.0,STABLE
+2022,2021,Karnataka,Mysuru City,3.42,2.35,1.07,45.36,STABLE
+2022,2021,Kerala,Kozhikode Commr.,12.94,11.87,1.07,9.05,STABLE
+2022,2021,West Bengal,Purba Bardhaman,25.3,24.23,1.07,4.4,STABLE
+2023,2022,Goa,North Goa,2.55,1.49,1.06,71.34,STABLE
+2024,2023,Himachal Pradesh,Baddi,3.73,2.67,1.06,39.92,STABLE
+2022,2021,Maharashtra,Dhule,17.0,15.94,1.06,6.63,STABLE
+2023,2022,Tripura,Unakoti,6.11,5.05,1.06,20.95,STABLE
+2022,2021,West Bengal,Sundarban Police,18.71,17.65,1.06,6.01,STABLE
+2023,2022,Maharashtra,Amravati Rural,8.28,7.23,1.05,14.6,STABLE
+2022,2021,Tamil Nadu,Dindigul,2.62,1.57,1.05,66.86,STABLE
+2022,2021,Telangana,Adilabad,5.36,4.31,1.05,24.24,STABLE
+2024,2023,Uttar Pradesh,Rampur,5.55,4.5,1.05,23.21,STABLE
+2023,2022,Gujarat,Patan,3.24,2.2,1.04,47.26,STABLE
+2022,2021,Gujarat,Porbandar,2.23,1.19,1.04,87.67,STABLE
+2023,2022,Jharkhand,Ranchi,9.04,8.0,1.04,13.05,STABLE
+2023,2022,Odisha,DCP CTC,12.21,11.17,1.04,9.33,STABLE
+2022,2021,Telangana,Vikarabad,4.17,3.13,1.04,33.4,STABLE
+2023,2022,Uttar Pradesh,Kasganj,6.42,5.38,1.04,19.37,STABLE
+2023,2022,Bihar,Bhagalpur,3.38,2.35,1.03,44.0,STABLE
+2023,2022,Maharashtra,Beed,20.78,19.75,1.03,5.2,STABLE
+2023,2022,Odisha,Puri,10.19,9.16,1.03,11.21,STABLE
+2022,2021,Jharkhand,Gumla,5.68,4.66,1.02,21.76,STABLE
+2022,2021,A&N Islands,Nicobar,1.01,0.0,1.01,,STABLE
+2023,2022,A&N Islands,Total Districts ,10.12,9.11,1.01,11.12,STABLE
+2023,2022,Kerala,Kottayam,9.73,8.72,1.01,11.59,STABLE
+2024,2023,Manipur,Imphal West,3.02,2.01,1.01,49.92,STABLE
+2024,2023,Meghalaya,Jaintia Hills East,3.36,2.35,1.01,42.88,STABLE
+2022,2021,Meghalaya,Total Districts ,34.27,33.26,1.01,3.04,STABLE
+2023,2022,Telangana,Jayashankar Bhupalpalli,3.63,2.62,1.01,38.6,STABLE
+2024,2023,Uttar Pradesh,Gonda,4.1,3.09,1.01,32.71,STABLE
+2022,2021,Uttar Pradesh,Meerut,19.24,18.23,1.01,5.53,STABLE
+2023,2022,Gujarat,Total Districts ,97.67,96.67,1.0,1.04,STABLE
+2022,2021,Karnataka,Kalaburgi,6.55,5.55,1.0,18.11,STABLE
+2022,2021,Madhya Pradesh,Betul,4.64,3.64,1.0,27.37,STABLE
+2024,2023,Madhya Pradesh,Sehore,12.47,11.47,1.0,8.7,STABLE
+2024,2023,Meghalaya,Khasi Hills East,10.41,9.41,1.0,10.67,STABLE
+2023,2022,Andhra Pradesh,Bapatla,11.63,10.66,0.97,9.09,STABLE
+2023,2022,Jharkhand,Lohardagga,3.46,2.49,0.97,39.09,STABLE
+2024,2023,Nagaland,Noklak,0.97,0.0,0.97,,STABLE
+2022,2021,Bihar,Sheikhpura,4.51,3.55,0.96,26.94,STABLE
+2023,2022,Maharashtra,Latur,16.16,15.2,0.96,6.31,STABLE
+2022,2021,Karnataka,Mysuru District,7.11,6.16,0.95,15.39,STABLE
+2022,2021,Karnataka,Raichur,6.54,5.59,0.95,16.99,STABLE
+2023,2022,Karnataka,Vijayanagara,4.65,3.7,0.95,25.77,STABLE
+2022,2021,Uttar Pradesh,Shahjahanpur,11.19,10.24,0.95,9.29,STABLE
+2023,2022,Arunachal Pradesh,Kurung Kumey,0.94,0.0,0.94,,STABLE
+2022,2021,Jammu & Kashmir,Udhampur,7.05,6.11,0.94,15.37,STABLE
+2023,2022,Chhattisgarh,Mahasamund,2.95,2.02,0.93,45.98,STABLE
+2022,2021,Tamil Nadu,Perambalur,2.31,1.38,0.93,66.83,STABLE
+2022,2021,Telangana,Mahabubnagar,4.56,3.63,0.93,25.52,STABLE
+2022,2021,Madhya Pradesh,Morena,16.98,16.06,0.92,5.76,STABLE
+2024,2023,Maharashtra,Sindhudurg,2.35,1.43,0.92,64.01,STABLE
+2023,2022,West Bengal,Purba Bardhaman,26.22,25.3,0.92,3.65,STABLE
+2022,2021,Kerala,Kozhikode Rural,12.74,11.83,0.91,7.66,STABLE
+2024,2023,Puducherry,Puducherry,2.47,1.56,0.91,58.78,STABLE
+2023,2022,Jharkhand,Palamu,5.74,4.84,0.9,18.57,STABLE
+2023,2022,Karnataka,Tumakuru,5.83,4.93,0.9,18.27,STABLE
+2022,2021,Tamil Nadu,Theni,5.37,4.47,0.9,20.22,STABLE
+2023,2022,Telangana,Kamareddy ,6.79,5.89,0.9,15.36,STABLE
+2023,2022,Arunachal Pradesh,Longding,1.77,0.88,0.89,100.37,STABLE
+2024,2023,Arunachal Pradesh,Lower Siang,1.77,0.88,0.89,100.37,STABLE
+2022,2021,Karnataka,Vijayapura,7.28,6.39,0.89,14.0,STABLE
+2024,2023,Nagaland,Mokokchung,0.89,0.0,0.89,,STABLE
+2023,2022,Punjab,Sangrur,3.99,3.1,0.89,28.72,STABLE
+2023,2022,Uttar Pradesh,Bahraich,3.91,3.02,0.89,29.61,STABLE
+2023,2022,Arunachal Pradesh,Kamle,0.88,0.0,0.88,,STABLE
+2022,2021,Arunachal Pradesh,Leparada,0.88,0.0,0.88,,STABLE
+2022,2021,Arunachal Pradesh,Longding,0.88,0.0,0.88,,STABLE
+2022,2021,Arunachal Pradesh,Shiyomi,0.88,0.0,0.88,,STABLE
+2024,2023,Arunachal Pradesh,Siang,2.65,1.77,0.88,49.99,STABLE
+2024,2023,Jharkhand,Jamtara,4.84,3.96,0.88,22.3,STABLE
+2023,2022,Tamil Nadu,Krishnagiri,1.34,0.46,0.88,189.68,STABLE
+2023,2022,Gujarat,Surat City,5.59,4.72,0.87,18.47,STABLE
+2023,2022,Puducherry,Karaikal,0.87,0.0,0.87,,STABLE
+2023,2022,Bihar,Banka,2.56,1.71,0.85,49.76,STABLE
+2024,2023,Delhi,RAILWAY,0.85,0.0,0.85,,STABLE
+2023,2022,Jammu & Kashmir,Jammu,7.73,6.88,0.85,12.4,STABLE
+2024,2023,Jharkhand,Gumla,5.94,5.09,0.85,16.72,STABLE
+2022,2021,Maharashtra,Buldhana,8.81,7.96,0.85,10.68,STABLE
+2022,2021,Karnataka,Mangaluru City,2.63,1.79,0.84,46.72,STABLE
+2023,2022,Himachal Pradesh,Una,5.84,5.01,0.83,16.67,STABLE
+2024,2023,Bihar,Katihar,3.26,2.44,0.82,33.88,STABLE
+2024,2023,Jammu & Kashmir,Kulgam,3.28,2.46,0.82,33.43,STABLE
+2023,2022,Karnataka,Udupi,3.77,2.95,0.82,27.61,STABLE
+2024,2023,Tamil Nadu,Karur,1.47,0.65,0.82,124.94,STABLE
+2022,2021,Uttar Pradesh,Kushi Nagar,4.73,3.92,0.81,20.65,STABLE
+2024,2023,Bihar,Purnea,5.68,4.89,0.79,16.06,STABLE
+2022,2021,Bihar,Samastipur,2.71,1.92,0.79,41.29,STABLE
+2022,2021,Haryana,Bhiwani,25.8,25.01,0.79,3.18,STABLE
+2022,2021,Punjab,Mansa,5.08,4.29,0.79,18.34,STABLE
+2023,2022,Tripura,Kowai,2.3,1.51,0.79,52.66,STABLE
+2024,2023,Arunachal Pradesh,Tirap,0.78,0.0,0.78,,STABLE
+2022,2021,Karnataka,Tumakuru,4.93,4.15,0.78,18.93,STABLE
+2022,2021,Karnataka,Mandya,5.2,4.43,0.77,17.37,STABLE
+2022,2021,Uttar Pradesh,Sidharthnagar,1.81,1.04,0.77,74.58,STABLE
+2023,2022,Odisha,Gajapati,8.13,7.37,0.76,10.25,STABLE
+2024,2023,Himachal Pradesh,Kangra,3.46,2.71,0.75,27.84,STABLE
+2023,2022,Tamil Nadu,Dharmapuri,1.79,1.04,0.75,72.32,STABLE
+2022,2021,Uttar Pradesh,Maharajganj,7.1,6.35,0.75,11.81,STABLE
+2023,2022,West Bengal,Basirhat,15.77,15.02,0.75,4.96,STABLE
+2022,2021,Bihar,Arwal,3.47,2.73,0.74,27.12,STABLE
+2023,2022,Chhattisgarh,Gariyaband,2.7,1.96,0.74,37.61,STABLE
+2022,2021,Haryana,Hansi,9.94,9.2,0.74,8.03,STABLE
+2022,2021,Uttar Pradesh,Jhansi,14.31,13.57,0.74,5.42,STABLE
+2023,2022,West Bengal,Jhargram,3.12,2.38,0.74,31.32,STABLE
+2023,2022,A&N Islands,South Andaman,6.57,5.84,0.73,12.45,STABLE
+2023,2022,Maharashtra,Nanded,11.1,10.37,0.73,7.0,STABLE
+2023,2022,West Bengal,Raiganj,6.0,5.27,0.73,13.81,STABLE
+2023,2022,Bihar,Patna,6.69,5.97,0.72,12.02,STABLE
+2022,2021,Gujarat,Navsari,1.44,0.72,0.72,100.18,STABLE
+2023,2022,Karnataka,Hubballi Dharwad City,6.27,5.55,0.72,13.06,STABLE
+2024,2023,Tamil Nadu,Tiruppattur,1.12,0.4,0.72,182.03,STABLE
+2023,2022,Telangana,Medak,5.3,4.59,0.71,15.55,STABLE
+2022,2021,Uttar Pradesh,Sitapur,6.88,6.17,0.71,11.56,STABLE
+2023,2022,Andhra Pradesh,Anantapuramu,8.76,8.06,0.7,8.64,STABLE
+2024,2023,Mizoram,Champhai,2.77,2.07,0.7,33.52,STABLE
+2023,2022,Telangana,Karimnagar Commissionerate,7.74,7.04,0.7,9.94,STABLE
+2023,2022,Uttar Pradesh,Mirzapur,5.96,5.26,0.7,13.34,STABLE
+2024,2023,Jharkhand,Ranchi,9.73,9.04,0.69,7.62,STABLE
+2022,2021,Tamil Nadu,Thirunelveli,1.23,0.54,0.69,127.13,STABLE
+2024,2023,Uttarakhand,Almora,2.79,2.1,0.69,33.15,STABLE
+2023,2022,Bihar,Begusarai,2.49,1.81,0.68,37.2,STABLE
+2024,2023,Assam,Dhubri,7.67,7.0,0.67,9.51,STABLE
+2022,2021,Bihar,Gaya,4.55,3.88,0.67,17.24,STABLE
+2022,2021,Jammu & Kashmir,Rajouri,12.45,11.78,0.67,5.72,STABLE
+2022,2021,Maharashtra,Satara,6.98,6.31,0.67,10.6,STABLE
+2024,2023,Meghalaya,Garo Hills North,0.67,0.0,0.67,,STABLE
+2024,2023,Meghalaya,Garo Hills South West,0.67,0.0,0.67,,STABLE
+2023,2022,Meghalaya,Jaintia Hills East,2.35,1.68,0.67,39.9,STABLE
+2022,2021,Meghalaya,Jaintia Hills West,2.69,2.02,0.67,33.45,STABLE
+2023,2022,Meghalaya,Khasi Hills West,4.03,3.36,0.67,19.96,STABLE
+2022,2021,Rajasthan,Banswara,16.88,16.21,0.67,4.16,STABLE
+2023,2022,Uttar Pradesh,Shahjahanpur,11.86,11.19,0.67,5.96,STABLE
+2023,2022,Uttarakhand,Champawat,4.69,4.02,0.67,16.7,STABLE
+2022,2021,Karnataka,Dharwad,2.12,1.46,0.66,45.26,STABLE
+2022,2021,Karnataka,Gadag,2.7,2.04,0.66,32.22,STABLE
+2022,2021,Kerala,Pathanamthitta,10.17,9.51,0.66,6.9,STABLE
+2023,2022,Ladakh,Leh,2.61,1.95,0.66,33.55,STABLE
+2023,2022,Punjab,Ferozepur,3.15,2.49,0.66,26.26,STABLE
+2024,2023,Jammu & Kashmir,Anantnag,2.42,1.77,0.65,36.45,STABLE
+2023,2022,Jharkhand,Khunti,7.52,6.87,0.65,9.52,STABLE
+2022,2021,Jharkhand,Deoghar,5.36,4.72,0.64,13.54,STABLE
+2022,2021,Rajasthan,Baran,31.72,31.08,0.64,2.07,STABLE
+2024,2023,Manipur,Churachandpur,0.63,0.0,0.63,,STABLE
+2022,2021,West Bengal,Bidhannagar PC,8.37,7.74,0.63,8.16,STABLE
+2023,2022,Bihar,Vaishali,3.66,3.04,0.62,20.58,STABLE
+2023,2022,Jammu & Kashmir,Pulwama,1.86,1.24,0.62,49.85,STABLE
+2023,2022,Karnataka,Davanagere,4.42,3.8,0.62,16.34,STABLE
+2023,2022,Ladakh,Kargil,2.47,1.85,0.62,33.32,STABLE
+2023,2022,Manipur,Thoubal,1.65,1.03,0.62,60.21,STABLE
+2024,2023,Nagaland,Zunheboto,0.62,0.0,0.62,,STABLE
+2022,2021,Telangana,Jayashankar Bhupalpalli,2.62,2.0,0.62,31.03,STABLE
+2023,2022,Uttar Pradesh,Chandoli,4.83,4.21,0.62,14.68,STABLE
+2023,2022,Himachal Pradesh,Mandi,5.22,4.61,0.61,13.24,STABLE
+2022,2021,Uttar Pradesh,Sant Kabirnagar,3.3,2.69,0.61,22.72,STABLE
+2024,2023,Madhya Pradesh,Khargone,5.52,4.92,0.6,12.17,STABLE
+2023,2022,Maharashtra,Ratnagiri,1.78,1.18,0.6,50.27,STABLE
+2022,2021,Rajasthan,Jalore,12.55,11.95,0.6,5.01,STABLE
+2022,2021,Uttar Pradesh,Basti,2.36,1.76,0.6,33.77,STABLE
+2023,2022,Bihar,Naugachia,1.21,0.62,0.59,95.19,STABLE
+2023,2022,Chhattisgarh,Gaurela-Pendra-Marwari,1.54,0.95,0.59,61.34,STABLE
+2023,2022,Telangana,Nirmal,4.08,3.49,0.59,16.84,STABLE
+2022,2021,Telangana,Wanaparthy,1.97,1.38,0.59,42.76,STABLE
+2024,2023,Uttar Pradesh,Maharajganj,1.98,1.39,0.59,42.12,STABLE
+2023,2022,Uttar Pradesh,Sant Kabirnagar,3.89,3.3,0.59,17.71,STABLE
+2022,2021,Arunachal Pradesh,Changlang,1.17,0.59,0.58,99.44,STABLE
+2022,2021,Chhattisgarh,Gariyaband,1.96,1.38,0.58,42.16,STABLE
+2022,2021,Jharkhand,Palamu,4.84,4.26,0.58,13.66,STABLE
+2022,2021,Karnataka,Chitradurga,4.77,4.19,0.58,13.79,STABLE
+2022,2021,Punjab,Barnala,4.38,3.8,0.58,15.37,STABLE
+2023,2022,West Bengal,Purulia,5.97,5.39,0.58,10.86,STABLE
+2022,2021,Odisha,Koraput,12.23,11.66,0.57,4.89,STABLE
+2022,2021,Tamil Nadu,Karur,2.04,1.47,0.57,38.74,STABLE
+2023,2022,Uttarakhand,Tehri Garhwal,4.78,4.21,0.57,13.41,STABLE
+2023,2022,Andhra Pradesh,Chittoor,8.29,7.73,0.56,7.26,STABLE
+2022,2021,Jammu & Kashmir,Handwara,1.53,0.97,0.56,57.01,STABLE
+2023,2022,Jammu & Kashmir,Shopian,1.67,1.11,0.56,49.96,STABLE
+2022,2021,Madhya Pradesh,Barwani,6.96,6.4,0.56,8.75,STABLE
+2022,2021,Maharashtra,Amravati Commr.,5.18,4.62,0.56,12.03,STABLE
+2022,2021,Uttar Pradesh,Mirzapur,5.26,4.7,0.56,11.88,STABLE
+2023,2022,Bihar,Bettiah,3.85,3.3,0.55,16.83,STABLE
+2023,2022,Goa,South Goa,1.36,0.81,0.55,66.97,STABLE
+2023,2022,Gujarat,Banaskantha,3.56,3.01,0.55,18.44,STABLE
+2023,2022,Gujarat,Morbi,1.28,0.73,0.55,76.42,STABLE
+2023,2022,Jharkhand,Hazaribagh,7.72,7.17,0.55,7.68,STABLE
+2022,2021,Jharkhand,Koderma,4.31,3.76,0.55,14.58,STABLE
+2022,2021,Jharkhand,Ramgarh,3.85,3.3,0.55,16.77,STABLE
+2022,2021,Karnataka,Uttara Kannada,2.0,1.45,0.55,37.73,STABLE
+2022,2021,Punjab,Hoshiarpur,7.02,6.47,0.55,8.55,STABLE
+2023,2022,Uttar Pradesh,Amethi,6.35,5.8,0.55,9.49,STABLE
+2022,2021,Uttar Pradesh,Ghazipur,7.23,6.68,0.55,8.28,STABLE
+2024,2023,Himachal Pradesh,Nurpur,1.71,1.17,0.54,45.78,STABLE
+2023,2022,Telangana,Nalgonda,8.27,7.73,0.54,7.03,STABLE
+2022,2021,Bihar,Madhepura,2.48,1.95,0.53,26.87,STABLE
+2024,2023,Chhattisgarh,Kanker,2.39,1.86,0.53,28.77,STABLE
+2024,2023,Chhattisgarh,Koriya,3.96,3.43,0.53,15.41,STABLE
+2023,2022,Madhya Pradesh,Khandwa,10.29,9.76,0.53,5.46,STABLE
+2024,2023,Assam,Tamulpur,2.11,1.59,0.52,33.11,STABLE
+2024,2023,Assam,Udalguri,5.23,4.71,0.52,11.16,STABLE
+2023,2022,West Bengal,Bidhannagar PC,8.89,8.37,0.52,6.19,STABLE
+2022,2021,Bihar,Banka,1.71,1.2,0.51,42.91,STABLE
+2023,2022,Gujarat,Bharuch,2.86,2.35,0.51,21.46,STABLE
+2022,2021,Gujarat,Junagadh,3.49,2.98,0.51,17.12,STABLE
+2022,2021,Karnataka,Kolar,2.38,1.87,0.51,27.43,STABLE
+2024,2023,Karnataka,Mangaluru City,3.42,2.91,0.51,17.41,STABLE
+2023,2022,Uttar Pradesh,Sonbhadra,8.17,7.66,0.51,6.71,STABLE
+2023,2022,Gujarat,Junagadh,3.99,3.49,0.5,14.42,STABLE
+2024,2023,Maharashtra,Gondia,2.31,1.81,0.5,27.32,STABLE
+2023,2022,West Bengal,Sundarban Police,19.21,18.71,0.5,2.66,STABLE
+2022,2021,Odisha,DCP CTC,11.17,10.68,0.49,4.59,STABLE
+2022,2021,Chhattisgarh,Kabirdham,3.18,2.7,0.48,17.58,STABLE
+2022,2021,Goa,CID,0.6,0.12,0.48,403.2,STABLE
+2023,2022,Jharkhand,Latehar,6.94,6.46,0.48,7.44,STABLE
+2022,2021,Manipur,Ukhrul,0.95,0.47,0.48,101.02,STABLE
+2022,2021,Punjab,Jalandhar Rural,3.33,2.85,0.48,16.67,STABLE
+2023,2022,Telangana,Jogulamba Gadwal,2.0,1.52,0.48,31.52,STABLE
+2022,2021,West Bengal,Barasat,17.99,17.51,0.48,2.72,STABLE
+2023,2022,West Bengal,Ranaghat,17.38,16.9,0.48,2.83,STABLE
+2024,2023,Delhi,IGI Airport,0.94,0.47,0.47,99.06,STABLE
+2023,2022,West Bengal,Howrah PC,13.64,13.17,0.47,3.58,STABLE
+2023,2022,Assam,Karbi Anglong,1.82,1.36,0.46,33.44,STABLE
+2022,2021,Madhya Pradesh,Raisen,14.17,13.71,0.46,3.33,STABLE
+2022,2021,Maharashtra,Raigad,2.6,2.14,0.46,21.71,STABLE
+2024,2023,Nagaland,Dimapur,0.92,0.46,0.46,100.39,STABLE
+2024,2023,Chhattisgarh,Rajnandgaon,3.56,3.11,0.45,14.42,STABLE
+2022,2021,Puducherry,Total Districts ,2.87,2.42,0.45,18.66,STABLE
+2024,2023,Tamil Nadu,Tiruppur,0.77,0.32,0.45,143.91,STABLE
+2022,2021,Tripura,Gomati,7.27,6.82,0.45,6.54,STABLE
+2023,2022,Bihar,Darbhanga,1.92,1.48,0.44,29.76,STABLE
+2024,2023,Gujarat,Narmada,1.62,1.18,0.44,37.47,STABLE
+2023,2022,Haryana,Nuh,13.32,12.88,0.44,3.4,STABLE
+2022,2021,Karnataka,Udupi,2.95,2.51,0.44,17.48,STABLE
+2023,2021,Nagaland,Tuensang,0.44,0.0,0.44,,STABLE
+2024,2023,Chhattisgarh,Bizapur,1.17,0.74,0.43,57.59,STABLE
+2023,2022,Himachal Pradesh,Shimla,3.42,2.99,0.43,14.34,STABLE
+2022,2021,Odisha,Jagatsinghpur,10.56,10.13,0.43,4.24,STABLE
+2022,2021,Tamil Nadu,Thanjavur,2.06,1.63,0.43,26.66,STABLE
+2023,2022,Uttar Pradesh,Fatehgarh,6.42,5.99,0.43,7.11,STABLE
+2024,2023,Uttar Pradesh,Sultanpur,3.16,2.73,0.43,15.96,STABLE
+2023,2022,West Bengal,Hooghly Rural Police,14.78,14.35,0.43,3.03,STABLE
+2024,2023,Chhattisgarh,Surajpur,2.97,2.55,0.42,16.68,STABLE
+2022,2021,Jharkhand,Giridih,6.22,5.8,0.42,7.32,STABLE
+2023,2022,Punjab,Faridkot,3.24,2.82,0.42,15.04,STABLE
+2022,2021,Uttar Pradesh,Unnao,7.81,7.39,0.42,5.75,STABLE
+2023,2022,Gujarat,Panchmahal,2.14,1.73,0.41,23.88,STABLE
+2022,2021,Haryana,Rohtak,27.7,27.29,0.41,1.52,STABLE
+2022,2021,Punjab,Malerkotla,2.61,2.2,0.41,18.76,STABLE
+2023,2022,Tamil Nadu,Thiruvarur,2.06,1.65,0.41,24.79,STABLE
+2023,2022,Uttar Pradesh,Gonda,3.09,2.68,0.41,15.12,STABLE
+2022,2021,Andhra Pradesh,Chittoor,7.73,7.33,0.4,5.41,STABLE
+2024,2023,Tamil Nadu,Kanchipuram,0.72,0.32,0.4,121.6,STABLE
+2023,2022,Tamil Nadu,Thirunelveli City,0.76,0.36,0.4,110.52,STABLE
+2023,2022,Tamil Nadu,Virudhunagar,2.1,1.7,0.4,23.44,STABLE
+2023,2022,Assam,Dibrugarh,9.7,9.31,0.39,4.19,STABLE
+2022,2021,Bihar,Bagaha,2.15,1.76,0.39,22.03,STABLE
+2023,2022,Bihar,Madhubani,1.82,1.43,0.39,26.92,STABLE
+2023,2022,Chhattisgarh,Rajnandgaon,3.11,2.72,0.39,14.53,STABLE
+2022,2021,Manipur,Imphal East,1.72,1.33,0.39,28.88,STABLE
+2023,2022,Uttar Pradesh,Kanpur Commissionarate,39.4,39.01,0.39,1.0,STABLE
+2022,2021,Jammu & Kashmir,Kishtwar,3.77,3.39,0.38,11.13,STABLE
+2022,2021,Telangana,Medak,4.59,4.21,0.38,8.92,STABLE
+2023,2022,Bihar,Gopalganj,2.61,2.24,0.37,16.51,STABLE
+2022,2021,Gujarat,Gandhinagar,3.31,2.94,0.37,12.72,STABLE
+2022,2021,Gujarat,Surat Rural,0.67,0.3,0.37,123.13,STABLE
+2023,2022,Telangana,Nizamabad Commissionerate,10.79,10.42,0.37,3.55,STABLE
+2024,2023,Gujarat,Valsad,0.92,0.56,0.36,64.06,STABLE
+2023,2022,Madhya Pradesh,Alirajpur,4.89,4.53,0.36,7.88,STABLE
+2024,2023,Manipur,Senapati,0.36,0.0,0.36,,STABLE
+2024,2023,Tamil Nadu,Chengalpattu,0.83,0.47,0.36,76.85,STABLE
+2022,2021,Tamil Nadu,Sivagangai,1.73,1.37,0.36,26.11,STABLE
+2022,2021,Bihar,Vaishali,3.04,2.69,0.35,13.14,STABLE
+2023,2022,Gujarat,Ahmedabad Rural,1.21,0.86,0.35,40.09,STABLE
+2022,2021,Tamil Nadu,Tiruppur,0.74,0.39,0.35,91.79,STABLE
+2022,2021,Uttar Pradesh,Bahraich,3.02,2.67,0.35,13.2,STABLE
+2023,2022,West Bengal,Birbhum,10.45,10.1,0.35,3.42,STABLE
+2022,2021,West Bengal,Kolkata,16.92,16.57,0.35,2.1,STABLE
+2022,2021,Chhattisgarh,Durg,5.59,5.25,0.34,6.42,STABLE
+2022,2021,Meghalaya,Garo Hills South West,0.34,0.0,0.34,,STABLE
+2023,2022,West Bengal,Siliguri PC,12.04,11.7,0.34,2.92,STABLE
+2022,2021,Madhya Pradesh,Chhindwara,6.03,5.7,0.33,5.84,STABLE
+2024,2023,Meghalaya,Garo Hills South,1.34,1.01,0.33,32.96,STABLE
+2023,2021,Nagaland,Kohima,0.65,0.32,0.33,100.32,STABLE
+2024,2023,Sikkim,Total Districts ,1.23,0.9,0.33,36.36,STABLE
+2023,2022,Telangana,Kumaram Bheem Asifabad,2.84,2.51,0.33,13.31,STABLE
+2023,2022,Telangana,Narayanpet,1.63,1.3,0.33,25.83,STABLE
+2022,2021,Uttar Pradesh,Ayodhya,2.82,2.49,0.33,13.04,STABLE
+2022,2021,Uttar Pradesh,Deoria,1.54,1.21,0.33,27.72,STABLE
+2023,2022,Uttar Pradesh,Sultanpur,2.73,2.4,0.33,13.53,STABLE
+2023,2022,West Bengal,Howrah Rural,11.49,11.16,0.33,3.0,STABLE
+2023,2022,Bihar,Kaimur(Bhabhua),3.37,3.05,0.32,10.58,STABLE
+2023,2022,Bihar,Siwan,2.38,2.06,0.32,15.39,STABLE
+2024,2023,Chhattisgarh,Gaurela-Pendra-Marwari,1.86,1.54,0.32,20.95,STABLE
+2023,2022,Chhattisgarh,Khairagarh - Chhuikhadan-Gandai,1.33,1.01,0.32,32.0,STABLE
+2022,2021,Gujarat,Rajkot Rural,2.17,1.85,0.32,17.21,STABLE
+2023,2022,Madhya Pradesh,Barwani,7.28,6.96,0.32,4.53,STABLE
+2022,2021,Maharashtra,Palghar,1.9,1.58,0.32,20.23,STABLE
+2022,2021,Manipur,Churachandpur,0.32,0.0,0.32,,STABLE
+2023,2022,Punjab,Hoshiarpur,7.34,7.02,0.32,4.63,STABLE
+2022,2021,Tamil Nadu,Ramnathapuram,0.9,0.58,0.32,55.81,STABLE
+2023,2022,Tamil Nadu,Ranipet,0.43,0.11,0.32,297.02,STABLE
+2022,2021,Tamil Nadu,Tenkasi,0.83,0.51,0.32,64.22,STABLE
+2024,2023,Tamil Nadu,Virudhunagar,2.42,2.1,0.32,15.01,STABLE
+2023,2022,Andhra Pradesh,Prakasam,14.72,14.41,0.31,2.15,STABLE
+2023,2022,Bihar,Buxar,3.21,2.9,0.31,10.51,STABLE
+2022,2021,Bihar,Jehanabad,2.94,2.63,0.31,11.9,STABLE
+2023,2022,Gujarat,Gandhinagar,3.62,3.31,0.31,9.32,STABLE
+2023,2022,Gujarat,Kachchh West(B),2.38,2.07,0.31,14.81,STABLE
+2023,2022,Telangana,Nagarkurnool,4.17,3.86,0.31,8.08,STABLE
+2024,2023,Assam,Hamren,0.75,0.45,0.3,65.6,STABLE
+2022,2021,Haryana,GRP,0.52,0.22,0.3,135.47,STABLE
+2022,2021,Jharkhand,Chaibasa,3.09,2.79,0.3,10.72,STABLE
+2022,2021,Madhya Pradesh,Harda,17.83,17.53,0.3,1.71,STABLE
+2022,2021,Delhi,IGI Airport,0.38,0.09,0.29,302.36,STABLE
+2022,2021,Himachal Pradesh,Kangra,4.03,3.74,0.29,7.67,STABLE
+2022,2021,Maharashtra,Pune Rural,4.12,3.83,0.29,7.65,STABLE
+2022,2021,Tamil Nadu,Pudukottai,1.37,1.08,0.29,26.49,STABLE
+2024,2023,Uttar Pradesh,Ambedkar Nagar,2.9,2.61,0.29,11.07,STABLE
+2022,2021,Bihar,Saharsa,1.74,1.46,0.28,18.85,STABLE
+2022,2021,Gujarat,Botad,0.52,0.24,0.28,115.01,STABLE
+2022,2021,Gujarat,Dahod,0.83,0.55,0.28,50.15,STABLE
+2022,2021,Gujarat,Jamnagar,2.05,1.77,0.28,15.74,STABLE
+2023,2022,Gujarat,Kachchh East(G),2.49,2.21,0.28,12.61,STABLE
+2023,2022,Jammu & Kashmir,Awantipora,1.53,1.25,0.28,22.12,STABLE
+2023,2022,Karnataka,Chamarajnagar,1.9,1.62,0.28,16.96,STABLE
+2023,2022,Karnataka,Mangaluru City,2.91,2.63,0.28,10.53,STABLE
+2024,2023,Maharashtra,Thane Rural,0.88,0.6,0.28,47.27,STABLE
+2023,2022,Odisha,Malkangiri,25.81,25.53,0.28,1.11,STABLE
+2022,2021,Puducherry,Puducherry,1.74,1.46,0.28,18.85,STABLE
+2023,2022,Uttarakhand,Rudra Prayag,0.42,0.14,0.28,201.47,STABLE
+2024,2023,Jharkhand,Palamu,6.01,5.74,0.27,4.75,STABLE
+2022,2021,Kerala,Ernakulam Commr.,8.46,8.19,0.27,3.28,STABLE
+2022,2021,Uttar Pradesh,Kaushambi,6.85,6.58,0.27,4.14,STABLE
+2022,2021,West Bengal,Birbhum,10.1,9.83,0.27,2.73,STABLE
+2022,2021,West Bengal,Howrah PC,13.17,12.9,0.27,2.11,STABLE
+2023,2022,West Bengal,Jangipur Police District,14.48,14.21,0.27,1.9,STABLE
+2023,2022,Bihar,Madhepura,2.74,2.48,0.26,10.66,STABLE
+2023,2022,Bihar,Purnea,4.89,4.63,0.26,5.55,STABLE
+2022,2021,Chhattisgarh,Balod,2.33,2.07,0.26,12.66,STABLE
+2022,2021,Chhattisgarh,Bizapur,0.74,0.48,0.26,55.05,STABLE
+2024,2023,Chhattisgarh,Sukma,0.9,0.64,0.26,41.43,STABLE
+2023,2022,Madhya Pradesh,Sehore,11.47,11.21,0.26,2.35,STABLE
+2024,2023,Maharashtra,Nagpur Rural,1.68,1.42,0.26,18.3,STABLE
+2023,2022,Tamil Nadu,Ramnathapuram,1.16,0.9,0.26,28.53,STABLE
+2023,2022,Jharkhand,Chaibasa,3.34,3.09,0.25,7.94,STABLE
+2024,2023,Jharkhand,Chatra,6.59,6.34,0.25,3.99,STABLE
+2024,2023,Sikkim,Gyalshing (West),0.41,0.16,0.25,149.99,STABLE
+2022,2021,Sikkim,Total Districts ,1.23,0.98,0.25,24.99,STABLE
+2023,2022,Tamil Nadu,Avadi,1.37,1.12,0.25,22.41,STABLE
+2023,2022,Tamil Nadu,Thiruvannamalai,0.9,0.65,0.25,38.5,STABLE
+2023,2022,Gujarat,Jamnagar,2.29,2.05,0.24,11.54,STABLE
+2022,2021,Madhya Pradesh,Agar,5.42,5.18,0.24,4.57,STABLE
+2024,2023,Sikkim,Gangtok (East),0.49,0.25,0.24,99.18,STABLE
+2024,2023,Assam,Sibsagar,1.21,0.98,0.23,23.31,STABLE
+2023,2022,Bihar,Saharsa,1.97,1.74,0.23,13.31,STABLE
+2023,2022,Jharkhand,Dhanbad,4.96,4.73,0.23,4.88,STABLE
+2024,2023,Maharashtra,Mumbai Railway,0.29,0.06,0.23,395.49,STABLE
+2022,2021,Maharashtra,Nasik Commr.,2.78,2.55,0.23,9.19,STABLE
+2022,2021,Uttar Pradesh,Fatehpur,8.26,8.03,0.23,2.91,STABLE
+2023,2022,Bihar,Nawadah,2.28,2.06,0.22,10.92,STABLE
+2022,2021,Gujarat,Tapi,0.65,0.43,0.22,50.81,STABLE
+2023,2022,Himachal Pradesh,Baddi,2.67,2.45,0.22,8.86,STABLE
+2022,2021,Karnataka,Belagavi District,8.51,8.29,0.22,2.65,STABLE
+2023,2022,Kerala,Ernakulam Rural,10.6,10.38,0.22,2.07,STABLE
+2024,2023,Tamil Nadu,Thirunelveli,1.23,1.01,0.22,21.68,STABLE
+2022,2021,Tamil Nadu,Virudhunagar,1.7,1.48,0.22,15.07,STABLE
+2023,2022,Bihar,Kishanganj,3.5,3.29,0.21,6.31,STABLE
+2024,2023,Chhattisgarh,Bemetra,1.48,1.27,0.21,16.29,STABLE
+2024,2023,Chhattisgarh,Dantewara,0.9,0.69,0.21,30.55,STABLE
+2022,2021,Gujarat,Bhavnagar,3.14,2.93,0.21,7.23,STABLE
+2023,2022,Gujarat,Mahisagar,0.66,0.45,0.21,46.95,STABLE
+2022,2021,Gujarat,Morbi,0.73,0.52,0.21,40.86,STABLE
+2022,2021,Karnataka,Dakshina Kannada,1.71,1.5,0.21,14.15,STABLE
+2023,2022,Tamil Nadu,Kanchipuram,0.32,0.11,0.21,195.46,STABLE
+2023,2022,Uttar Pradesh,Ghaziabad,18.82,18.61,0.21,1.12,STABLE
+2023,2022,Andhra Pradesh,Kurnool,7.92,7.72,0.2,2.55,STABLE
+2023,2022,Bihar,Supaul,1.68,1.48,0.2,13.33,STABLE
+2022,2021,Himachal Pradesh,Kullu,3.38,3.18,0.2,6.38,STABLE
+2022,2021,Tamil Nadu,Coimbatore,0.8,0.6,0.2,32.56,STABLE
+2022,2021,Tamil Nadu,Cuddalore,2.47,2.27,0.2,8.85,STABLE
+2022,2021,Telangana,Jogulamba Gadwal,1.52,1.32,0.2,14.84,STABLE
+2023,2022,West Bengal,Alipurduar,8.28,8.08,0.2,2.5,STABLE
+2022,2021,Delhi,RAILWAY,0.19,0.0,0.19,,STABLE
+2023,2022,Manipur,Imphal East,1.91,1.72,0.19,11.32,STABLE
+2024,2023,Manipur,Imphal East,2.1,1.91,0.19,10.15,STABLE
+2022,2021,Punjab,Muktsar,3.47,3.28,0.19,5.85,STABLE
+2024,2023,Tamil Nadu,Chennai,2.17,1.98,0.19,9.4,STABLE
+2024,2023,Uttar Pradesh,Bhadohi,0.68,0.49,0.19,39.92,STABLE
+2022,2021,Gujarat,Vadodara Rural,0.83,0.65,0.18,28.26,STABLE
+2023,2022,Madhya Pradesh,Vidisha,10.61,10.43,0.18,1.72,STABLE
+2023,2022,Odisha,DCP BBSR,5.55,5.37,0.18,3.34,STABLE
+2023,2022,Punjab,Amritsar Rural,2.2,2.02,0.18,8.64,STABLE
+2022,2021,Tamil Nadu,Coimbatore City,1.06,0.88,0.18,20.44,STABLE
+2024,2023,Tamil Nadu,Kanyakumari,0.43,0.25,0.18,70.15,STABLE
+2022,2021,Tamil Nadu,Trichy,3.1,2.92,0.18,6.01,STABLE
+2023,2022,Tamil Nadu,Vellore,0.64,0.46,0.18,37.96,STABLE
+2023,2022,Uttar Pradesh,Basti,2.54,2.36,0.18,7.44,STABLE
+2024,2023,Uttar Pradesh,Basti,2.72,2.54,0.18,7.07,STABLE
+2022,2021,West Bengal,Jalpaiguri,7.59,7.41,0.18,2.44,STABLE
+2024,2023,Gujarat,Arvalli,0.79,0.62,0.17,27.03,STABLE
+2024,2023,Gujarat,Dahod,0.76,0.59,0.17,29.4,STABLE
+2022,2021,Gujarat,Devbhumi Dwarka,1.59,1.42,0.17,12.25,STABLE
+2023,2022,Karnataka,Haveri,3.05,2.88,0.17,5.73,STABLE
+2024,2023,Kerala,Railways,0.2,0.03,0.17,493.3,STABLE
+2024,2023,Madhya Pradesh,Bhopal Railway,0.35,0.18,0.17,98.08,STABLE
+2024,2023,Madhya Pradesh,Jabalpur Railway,0.35,0.18,0.17,98.08,STABLE
+2022,2021,Maharashtra,Nagpur Rural,1.27,1.1,0.17,15.2,STABLE
+2023,2022,Punjab,Moga,3.84,3.67,0.17,4.7,STABLE
+2024,2023,Sikkim,Namchi (South),0.33,0.16,0.17,101.21,STABLE
+2023,2022,Chhattisgarh,Dantewara,0.69,0.53,0.16,30.12,STABLE
+2022,2021,Himachal Pradesh,Sirmaur,7.22,7.06,0.16,2.31,STABLE
+2023,2022,Karnataka,Gadag,2.86,2.7,0.16,6.1,STABLE
+2022,2021,Tamil Nadu,Nagapattinam,1.45,1.29,0.16,12.31,STABLE
+2022,2021,Uttar Pradesh,Gautambudh Nagar,11.47,11.31,0.16,1.44,STABLE
+2022,2021,West Bengal,Dakshin Dinajpur,10.12,9.96,0.16,1.61,STABLE
+2022,2021,West Bengal,Purab Medinipur,20.77,20.61,0.16,0.76,STABLE
+2022,2021,Assam,GRP,0.15,0.0,0.15,,STABLE
+2022,2021,Chhattisgarh,Gaurela-Pendra-Marwari,0.95,0.8,0.15,19.43,STABLE
+2023,2022,Gujarat,Narmada,1.18,1.03,0.15,14.43,STABLE
+2023,2022,Maharashtra,Nagpur Rural,1.42,1.27,0.15,11.75,STABLE
+2022,2021,Maharashtra,Solapur Commr.,4.57,4.42,0.15,3.42,STABLE
+2022,2021,Punjab,Ludhiana Rural,1.19,1.04,0.15,14.0,STABLE
+2023,2022,Tamil Nadu,Kallakurichi,1.12,0.97,0.15,14.9,STABLE
+2024,2023,Tamil Nadu,Thiruvannamalai,1.05,0.9,0.15,16.34,STABLE
+2023,2022,Gujarat,Botad,0.66,0.52,0.14,27.35,STABLE
+2024,2023,Gujarat,Navsari,0.92,0.78,0.14,17.23,STABLE
+2022,2021,Jammu & Kashmir,Railways Katra,0.14,0.0,0.14,,STABLE
+2022,2021,Karnataka,Bagalkot,2.21,2.07,0.14,6.73,STABLE
+2022,2021,Madhya Pradesh,Katni,7.54,7.4,0.14,1.85,STABLE
+2022,2021,Tamil Nadu,Kallakurichi,0.97,0.83,0.14,16.82,STABLE
+2022,2021,Tamil Nadu,Thiruvarur,1.65,1.51,0.14,9.04,STABLE
+2024,2023,Tamil Nadu,Tiruppur City,0.28,0.14,0.14,99.56,STABLE
+2023,2022,Tamil Nadu,Trichy City,1.01,0.87,0.14,16.57,STABLE
+2023,2022,Uttar Pradesh,Mainpuri,12.05,11.91,0.14,1.15,STABLE
+2022,2021,Uttarakhand,GRP,0.14,0.0,0.14,,STABLE
+2022,2021,West Bengal,Bankura,7.95,7.81,0.14,1.8,STABLE
+2022,2021,West Bengal,Hooghly Rural Police,14.35,14.21,0.14,0.99,STABLE
+2022,2021,Bihar,Siwan,2.06,1.93,0.13,6.62,STABLE
+2024,2023,Madhya Pradesh,Umaria,6.74,6.61,0.13,1.99,STABLE
+2022,2021,Maharashtra,Thane Rural,0.75,0.62,0.13,20.75,STABLE
+2023,2022,Madhya Pradesh,Bhopal Railway,0.18,0.06,0.12,205.61,STABLE
+2022,2021,Madhya Pradesh,Jabalpur Railway,0.18,0.06,0.12,205.61,STABLE
+2024,2023,Maharashtra,Nagpur Railway,0.12,0.0,0.12,,STABLE
+2024,2023,Odisha,CID CB,0.12,0.0,0.12,,STABLE
+2023,2022,Rajasthan,Dholpur,20.48,20.36,0.12,0.59,STABLE
+2023,2022,West Bengal,Chandannagar PC,11.77,11.65,0.12,1.01,STABLE
+2022,2021,Bihar,Muzaffarpur,4.38,4.27,0.11,2.47,STABLE
+2024,2023,Chhattisgarh,Dhamtari,3.37,3.26,0.11,3.32,STABLE
+2023,2022,Chhattisgarh,GRP Raipur,0.11,0.0,0.11,,STABLE
+2024,2023,Chhattisgarh,Mohla-Manpur-Ambagarh Chouki,0.64,0.53,0.11,20.69,STABLE
+2023,2022,Chhattisgarh,Mungali,1.7,1.59,0.11,6.86,STABLE
+2022,2021,Karnataka,K.Railways,0.17,0.06,0.11,203.48,STABLE
+2023,2022,Karnataka,Kolar,2.49,2.38,0.11,4.75,STABLE
+2023,2022,Tamil Nadu,Ariyalur,2.07,1.96,0.11,5.71,STABLE
+2022,2021,Tamil Nadu,Nilgiris,0.36,0.25,0.11,42.45,STABLE
+2022,2021,Tamil Nadu,Villupuram,1.55,1.44,0.11,7.34,STABLE
+2024,2023,Bihar,Patna Railway,0.1,0.0,0.1,,STABLE
+2024,2023,Chhattisgarh,GRP Raipur,0.21,0.11,0.1,98.0,STABLE
+2022,2021,Delhi,Metro,0.19,0.09,0.1,101.18,STABLE
+2024,2023,Delhi,Metro,0.19,0.09,0.1,101.18,STABLE
+2022,2021,Jharkhand,Dhanbad,4.73,4.63,0.1,2.11,STABLE
+2024,2023,Jharkhand,Hazaribagh,7.82,7.72,0.1,1.29,STABLE
+2022,2021,Maharashtra,Sindhudurg,1.33,1.23,0.1,8.3,STABLE
+2023,2022,Maharashtra,Sindhudurg,1.43,1.33,0.1,7.48,STABLE
+2024,2023,Tamil Nadu,Coimbatore City,1.16,1.06,0.1,9.83,STABLE
+2024,2023,Tamil Nadu,Namakkal,0.6,0.5,0.1,19.14,STABLE
+2024,2023,Tamil Nadu,Nilgiris,0.14,0.04,0.1,287.79,STABLE
+2022,2021,Uttar Pradesh,GRP,0.16,0.06,0.1,146.92,STABLE
+2023,2022,West Bengal,Kolkata,17.02,16.92,0.1,0.59,STABLE
+2022,2021,Bihar,Lakhisarai,3.04,2.95,0.09,2.92,STABLE
+2023,2022,Bihar,Motihari,7.01,6.92,0.09,1.35,STABLE
+2022,2021,Bihar,Nalanda,4.8,4.71,0.09,1.82,STABLE
+2023,2022,Delhi,IGI Airport,0.47,0.38,0.09,24.41,STABLE
+2022,2021,Kerala,Kottayam,8.72,8.63,0.09,1.02,STABLE
+2023,2022,Tamil Nadu,Madurai City,2.92,2.83,0.09,3.06,STABLE
+2022,2021,Bihar,Supaul,1.48,1.4,0.08,5.39,STABLE
+2023,2022,Haryana,Charkhi Dadri,8.1,8.02,0.08,0.95,STABLE
+2022,2021,Jammu & Kashmir,Anantnag,2.1,2.02,0.08,4.2,STABLE
+2023,2022,Rajasthan,GRP Ajmer,0.24,0.16,0.08,49.11,STABLE
+2023,2022,Sikkim,Gyalshing (West),0.16,0.08,0.08,95.11,STABLE
+2023,2022,Sikkim,Soreng (West),0.08,0.0,0.08,,STABLE
+2022,2021,Tamil Nadu,Erode,0.54,0.46,0.08,16.53,STABLE
+2023,2022,Tamil Nadu,Tiruppattur,0.4,0.32,0.08,23.11,STABLE
+2023,2022,Telangana,Siddipet Commissionerate,9.12,9.04,0.08,0.89,STABLE
+2024,2023,Assam,GRP,0.15,0.08,0.07,98.72,STABLE
+2022,2021,Bihar,Naugachia,0.62,0.55,0.07,11.78,STABLE
+2022,2021,Gujarat,Dang,0.1,0.03,0.07,189.44,STABLE
+2024,2023,Gujarat,Dang,0.14,0.07,0.07,102.61,STABLE
+2024,2023,Gujarat,Gir Somnath,1.11,1.04,0.07,7.09,STABLE
+2022,2021,Gujarat,Mehsana,2.76,2.69,0.07,2.42,STABLE
+2022,2021,Haryana,Charkhi Dadri,8.02,7.95,0.07,0.88,STABLE
+2023,2022,Tamil Nadu,Chengalpattu,0.47,0.4,0.07,18.35,STABLE
+2023,2022,Tamil Nadu,Railway Trichy,0.07,0.0,0.07,,STABLE
+2023,2022,Tamil Nadu,Salem City,0.42,0.35,0.07,20.13,STABLE
+2022,2021,Tamil Nadu,Thirunelveli City,0.36,0.29,0.07,24.65,STABLE
+2024,2023,Uttar Pradesh,Ayodhya,1.59,1.52,0.07,4.42,STABLE
+2023,2022,Uttar Pradesh,GRP,0.23,0.16,0.07,41.98,STABLE
+2022,2021,Uttar Pradesh,Kasganj,5.38,5.31,0.07,1.25,STABLE
+2024,2023,West Bengal,Kharagpur GRP,0.07,0.0,0.07,,STABLE
+2023,2022,Chhattisgarh,Sukma,0.64,0.58,0.06,9.72,STABLE
+2022,2021,Karnataka,Belagavi City,5.38,5.32,0.06,1.1,STABLE
+2024,2023,Madhya Pradesh,Indore Railway,0.12,0.06,0.06,103.74,STABLE
+2022,2021,Maharashtra,Pune Railway,0.06,0.0,0.06,,STABLE
+2022,2021,Odisha,SRP(Cuttack),0.06,0.0,0.06,,STABLE
+2024,2023,Odisha,SRP(Cuttack),0.12,0.06,0.06,96.63,STABLE
+2024,2023,Odisha,SRP(Rourkela),0.06,0.0,0.06,,STABLE
+2022,2021,Punjab,Bureau of Investigation,0.06,0.0,0.06,,STABLE
+2024,2023,Punjab,Bureau of Investigation,0.12,0.06,0.06,102.02,STABLE
+2023,2022,Punjab,GRP,0.06,0.0,0.06,,STABLE
+2024,2023,Punjab,GRP,0.12,0.06,0.06,102.02,STABLE
+2024,2023,Tamil Nadu,Nagapattinam,0.65,0.59,0.06,9.85,STABLE
+2022,2021,Chhattisgarh,Sukma,0.58,0.53,0.05,9.37,STABLE
+2023,2022,Gujarat,Rajkot Rural,2.22,2.17,0.05,2.24,STABLE
+2022,2021,Karnataka,K.G.F.,1.06,1.01,0.05,5.13,STABLE
+2022,2021,Tamil Nadu,Chennai,2.69,2.64,0.05,1.95,STABLE
+2022,2021,West Bengal,Jhargram,2.38,2.33,0.05,2.12,STABLE
+2022,2021,Madhya Pradesh,Chhatarpur,11.64,11.6,0.04,0.39,STABLE
+2022,2021,Rajasthan,GRP Ajmer,0.16,0.12,0.04,32.54,STABLE
+2023,2022,Rajasthan,GRP Jodhpur,0.04,0.0,0.04,,STABLE
+2024,2023,Tamil Nadu,Erode,0.39,0.35,0.04,12.21,STABLE
+2022,2021,Uttar Pradesh,Bhadohi,1.04,1.0,0.04,3.55,STABLE
+2023,2022,West Bengal,Kalimpong,0.52,0.48,0.04,9.44,STABLE
+2023,2022,Andhra Pradesh,Guntakal Railway,0.05,0.02,0.03,121.37,STABLE
+2023,2022,Bihar,Katihar Railway,0.03,0.0,0.03,,STABLE
+2022,2021,Bihar,Muzaffarpur Railway,0.03,0.0,0.03,,STABLE
+2022,2021,Gujarat,Ahmedabad Rural,0.86,0.83,0.03,3.72,STABLE
+2023,2022,Kerala,Railways,0.03,0.0,0.03,,STABLE
+2022,2021,Kerala,Trivandrum Rural,12.1,12.07,0.03,0.26,STABLE
+2023,2022,Kerala,Wayanadu,8.39,8.36,0.03,0.36,STABLE
+2024,2023,Maharashtra,Chhatrapati Sambhajinagar Railway,0.06,0.03,0.03,105.03,STABLE
+2023,2022,Maharashtra,Mumbai Railway,0.06,0.03,0.03,105.03,STABLE
+2023,2022,Maharashtra,Palghar,1.93,1.9,0.03,1.46,STABLE
+2022,2021,Tamil Nadu,Salem City,0.35,0.32,0.03,7.81,STABLE
+2022,2021,Tamil Nadu,Tiruppattur,0.32,0.29,0.03,10.8,STABLE
+2023,2022,Tamil Nadu,Tiruppur City,0.14,0.11,0.03,33.04,STABLE
+2022,2021,Telangana,Bhadradri Kothagudem,11.38,11.35,0.03,0.27,STABLE
+2022,2021,Telangana,Kumaram Bheem Asifabad,2.51,2.48,0.03,1.28,STABLE
+2023,2022,West Bengal,Sealdah GRP,0.05,0.02,0.03,120.98,STABLE
+2023,2022,West Bengal,Siliguri GRP,0.05,0.02,0.03,120.98,STABLE
+2022,2021,West Bengal,Sealdah GRP,0.02,0.0,0.02,,STABLE
+2022,2021,West Bengal,Siliguri GRP,0.02,0.0,0.02,,STABLE
+2023,2022,Bihar,Aurangabad,2.43,2.42,0.01,0.42,STABLE
+2024,2023,A&N Islands,Nicobar,0.0,0.0,0.0,,STABLE
+2024,2023,A&N Islands,North & Middle Andaman,1.65,1.65,0.0,0.18,STABLE
+2024,2023,Andhra Pradesh,Viiayawada Railway,0.0,0.0,0.0,,STABLE
+2022,2021,Arunachal Pradesh,Anjaw,0.0,0.0,0.0,,STABLE
+2024,2023,Arunachal Pradesh,Changlang,2.35,2.35,0.0,0.14,STABLE
+2022,2021,Arunachal Pradesh,Crime Branch,0.0,0.0,0.0,,STABLE
+2023,2022,Arunachal Pradesh,Crime Branch,0.0,0.0,0.0,,STABLE
+2024,2023,Arunachal Pradesh,Crime Branch,0.0,0.0,0.0,,STABLE
+2022,2021,Arunachal Pradesh,Dibang Valley,0.0,0.0,0.0,,STABLE
+2023,2022,Arunachal Pradesh,Dibang Valley,0.0,0.0,0.0,,STABLE
+2024,2023,Arunachal Pradesh,Dibang Valley,0.0,0.0,0.0,,STABLE
+2022,2021,Arunachal Pradesh,Kamle,0.0,0.0,0.0,,STABLE
+2022,2021,Arunachal Pradesh,Kra Dadi,0.0,0.0,0.0,,STABLE
+2023,2022,Arunachal Pradesh,Kra Dadi,0.0,0.0,0.0,,STABLE
+2024,2023,Arunachal Pradesh,Kra Dadi,0.0,0.0,0.0,,STABLE
+2023,2022,Arunachal Pradesh,Leparada,0.88,0.88,-0.0,-0.38,STABLE
+2024,2023,Arunachal Pradesh,Leparada,0.88,0.88,-0.0,-0.38,STABLE
+2022,2021,Arunachal Pradesh,Lower Siang,2.65,2.65,-0.0,-0.0,STABLE
+2023,2022,Arunachal Pradesh,Pakkessang,0.0,0.0,0.0,,STABLE
+2022,2021,Arunachal Pradesh,Papum Pare Rural,0.0,0.0,0.0,,STABLE
+2023,2022,Arunachal Pradesh,Papum Pare Rural,0.0,0.0,0.0,,STABLE
+2024,2023,Arunachal Pradesh,Papum Pare Rural,0.0,0.0,0.0,,STABLE
+2023,2022,Arunachal Pradesh,Shiyomi,0.88,0.88,-0.0,-0.38,STABLE
+2023,2022,Arunachal Pradesh,Siang,1.77,1.77,0.0,0.18,STABLE
+2022,2021,Arunachal Pradesh,Siang Upper,0.88,0.88,-0.0,-0.38,STABLE
+2023,2022,Arunachal Pradesh,Siang Upper,0.88,0.88,-0.0,-0.38,STABLE
+2023,2022,Arunachal Pradesh,Siang West,7.07,7.07,0.0,0.04,STABLE
+2024,2023,Arunachal Pradesh,Siang West,7.07,7.07,0.0,0.04,STABLE
+2024,2023,Arunachal Pradesh,Subansiri Lower,0.0,0.0,0.0,,STABLE
+2023,2022,Arunachal Pradesh,Subansiri Upper,2.65,2.65,-0.0,-0.0,STABLE
+2022,2021,Assam,BIEO,0.0,0.0,0.0,,STABLE
+2023,2022,Assam,BIEO,0.0,0.0,0.0,,STABLE
+2024,2023,Assam,BIEO,0.0,0.0,0.0,,STABLE
+2023,2022,Assam,CID,0.0,0.0,0.0,,STABLE
+2024,2023,Assam,CID,0.0,0.0,0.0,,STABLE
+2023,2022,Assam,RPO,0.0,0.0,0.0,,STABLE
+2024,2023,Assam,RPO,0.0,0.0,0.0,,STABLE
+2022,2021,Assam,SOU,0.0,0.0,0.0,,STABLE
+2023,2022,Assam,SOU,0.0,0.0,0.0,,STABLE
+2024,2023,Assam,SOU,0.0,0.0,0.0,,STABLE
+2022,2021,Assam,STF,0.0,0.0,0.0,,STABLE
+2023,2022,Assam,STF,0.0,0.0,0.0,,STABLE
+2024,2023,Assam,STF,0.0,0.0,0.0,,STABLE
+2022,2021,Bihar,Anti Terrorist Squad,0.0,0.0,0.0,,STABLE
+2023,2022,Bihar,Anti Terrorist Squad,0.0,0.0,0.0,,STABLE
+2024,2023,Bihar,Anti Terrorist Squad,0.0,0.0,0.0,,STABLE
+2022,2021,Bihar,Economic Offences Unit,0.0,0.0,0.0,,STABLE
+2023,2022,Bihar,Economic Offences Unit,0.0,0.0,0.0,,STABLE
+2024,2023,Bihar,Economic Offences Unit,0.0,0.0,0.0,,STABLE
+2022,2021,Bihar,Jamalpur Railway,0.0,0.0,0.0,,STABLE
+2023,2022,Bihar,Jamalpur Railway,0.0,0.0,0.0,,STABLE
+2024,2023,Bihar,Jamalpur Railway,0.0,0.0,0.0,,STABLE
+2022,2021,Bihar,Katihar,3.34,3.34,-0.0,-0.04,STABLE
+2024,2023,Bihar,Muzaffarpur Railway,0.0,0.0,0.0,,STABLE
+2022,2021,Bihar,Patna Railway,0.0,0.0,0.0,,STABLE
+2023,2022,Bihar,Patna Railway,0.0,0.0,0.0,,STABLE
+2022,2021,Bihar,Sheohar,3.05,3.05,0.0,0.08,STABLE
+2023,2022,Chhattisgarh,Bizapur,0.74,0.74,-0.0,-0.32,STABLE
+2022,2021,Chhattisgarh,Jashpur,7.86,7.86,-0.0,-0.02,STABLE
+2022,2021,Chhattisgarh,Kanker,2.33,2.33,-0.0,-0.14,STABLE
+2023,2022,Chhattisgarh,Manendragarh-Chirmiri-Bharatpur,2.65,2.65,-0.0,-0.06,STABLE
+2022,2021,Chhattisgarh,Narayanpur,5.6,5.6,0.0,0.05,STABLE
+2023,2022,Chhattisgarh,Narayanpur,5.6,5.6,0.0,0.05,STABLE
+2022,2021,D&N Haveli and Daman & Diu,Diu,1.67,1.67,0.0,0.01,STABLE
+2024,2023,D&N Haveli and Daman & Diu,Diu,3.34,3.34,0.0,0.01,STABLE
+2022,2021,Delhi,Crime Branch,0.0,0.0,0.0,,STABLE
+2023,2022,Delhi,Crime Branch,0.0,0.0,0.0,,STABLE
+2024,2023,Delhi,Crime Branch,0.0,0.0,0.0,,STABLE
+2022,2021,Delhi,EOW,0.0,0.0,0.0,,STABLE
+2023,2022,Delhi,EOW,0.0,0.0,0.0,,STABLE
+2024,2023,Delhi,EOW,0.0,0.0,0.0,,STABLE
+2022,2021,Delhi,Spl Cell,0.0,0.0,0.0,,STABLE
+2023,2022,Delhi,Spl Cell,0.0,0.0,0.0,,STABLE
+2024,2023,Delhi,Spl Cell,0.0,0.0,0.0,,STABLE
+2022,2021,Delhi,Vigilance,0.0,0.0,0.0,,STABLE
+2023,2022,Delhi,Vigilance,0.0,0.0,0.0,,STABLE
+2024,2023,Delhi,Vigilance,0.0,0.0,0.0,,STABLE
+2022,2021,Gujarat,Arvalli,0.73,0.73,0.0,0.61,STABLE
+2022,2021,Gujarat,CID Crime,0.0,0.0,0.0,,STABLE
+2023,2022,Gujarat,CID Crime,0.0,0.0,0.0,,STABLE
+2024,2023,Gujarat,CID Crime,0.0,0.0,0.0,,STABLE
+2024,2023,Gujarat,Chhotaudepur,0.55,0.55,-0.0,-0.5,STABLE
+2022,2021,Gujarat,Cyber Ahmedabad Range,0.0,0.0,0.0,,STABLE
+2023,2022,Gujarat,Cyber Ahmedabad Range,0.0,0.0,0.0,,STABLE
+2024,2023,Gujarat,Cyber Ahmedabad Range,0.0,0.0,0.0,,STABLE
+2022,2021,Gujarat,Cyber Bhavnagar Range,0.0,0.0,0.0,,STABLE
+2023,2022,Gujarat,Cyber Bhavnagar Range,0.0,0.0,0.0,,STABLE
+2024,2023,Gujarat,Cyber Bhavnagar Range,0.0,0.0,0.0,,STABLE
+2022,2021,Gujarat,Cyber Border Range,0.0,0.0,0.0,,STABLE
+2023,2022,Gujarat,Cyber Border Range,0.0,0.0,0.0,,STABLE
+2024,2023,Gujarat,Cyber Border Range,0.0,0.0,0.0,,STABLE
+2022,2021,Gujarat,Cyber Gandhinagar Range,0.0,0.0,0.0,,STABLE
+2023,2022,Gujarat,Cyber Gandhinagar Range,0.0,0.0,0.0,,STABLE
+2024,2023,Gujarat,Cyber Gandhinagar Range,0.0,0.0,0.0,,STABLE
+2022,2021,Gujarat,Cyber Junagadh Range,0.0,0.0,0.0,,STABLE
+2023,2022,Gujarat,Cyber Junagadh Range,0.0,0.0,0.0,,STABLE
+2024,2023,Gujarat,Cyber Junagadh Range,0.0,0.0,0.0,,STABLE
+2022,2021,Gujarat,Cyber Panchmahal Range,0.0,0.0,0.0,,STABLE
+2023,2022,Gujarat,Cyber Panchmahal Range,0.0,0.0,0.0,,STABLE
+2024,2023,Gujarat,Cyber Panchmahal Range,0.0,0.0,0.0,,STABLE
+2022,2021,Gujarat,Cyber Rajkot Range,0.0,0.0,0.0,,STABLE
+2023,2022,Gujarat,Cyber Rajkot Range,0.0,0.0,0.0,,STABLE
+2024,2023,Gujarat,Cyber Rajkot Range,0.0,0.0,0.0,,STABLE
+2022,2021,Gujarat,Cyber Surat Range,0.0,0.0,0.0,,STABLE
+2023,2022,Gujarat,Cyber Surat Range,0.0,0.0,0.0,,STABLE
+2024,2023,Gujarat,Cyber Surat Range,0.0,0.0,0.0,,STABLE
+2022,2021,Gujarat,Cyber Vadodara Range,0.0,0.0,0.0,,STABLE
+2023,2022,Gujarat,Cyber Vadodara Range,0.0,0.0,0.0,,STABLE
+2024,2023,Gujarat,Cyber Vadodara Range,0.0,0.0,0.0,,STABLE
+2022,2021,Gujarat,Surat City,4.72,4.72,0.0,0.03,STABLE
+2024,2023,Gujarat,W Rly Ahmedabad,0.0,0.0,0.0,,STABLE
+2024,2023,Gujarat,W Rly Vadodara,0.0,0.0,0.0,,STABLE
+2022,2021,Haryana,Irrigation & Power,0.0,0.0,0.0,,STABLE
+2023,2022,Haryana,Irrigation & Power,0.0,0.0,0.0,,STABLE
+2024,2023,Haryana,Irrigation & Power,0.0,0.0,0.0,,STABLE
+2023,2022,Haryana,Panchkula,26.49,26.49,-0.0,-0.01,STABLE
+2022,2021,Himachal Pradesh,CID,0.0,0.0,0.0,,STABLE
+2023,2022,Himachal Pradesh,CID,0.0,0.0,0.0,,STABLE
+2024,2023,Himachal Pradesh,CID,0.0,0.0,0.0,,STABLE
+2022,2021,Himachal Pradesh,Cyber,0.0,0.0,0.0,,STABLE
+2023,2022,Himachal Pradesh,Cyber,0.0,0.0,0.0,,STABLE
+2024,2023,Himachal Pradesh,Cyber,0.0,0.0,0.0,,STABLE
+2022,2021,Himachal Pradesh,GRP,0.0,0.0,0.0,,STABLE
+2023,2022,Himachal Pradesh,GRP,0.0,0.0,0.0,,STABLE
+2024,2023,Himachal Pradesh,GRP,0.0,0.0,0.0,,STABLE
+2022,2021,Himachal Pradesh,Lahaul & Spiti,0.11,0.11,0.0,3.16,STABLE
+2024,2023,Himachal Pradesh,Lahaul & Spiti,0.0,0.0,0.0,,STABLE
+2022,2021,Jammu & Kashmir,Anti Narcotic Task Force Jammu,0.0,0.0,0.0,,STABLE
+2023,2022,Jammu & Kashmir,Anti Narcotic Task Force Jammu,0.0,0.0,0.0,,STABLE
+2024,2023,Jammu & Kashmir,Anti Narcotic Task Force Jammu,0.0,0.0,0.0,,STABLE
+2023,2022,Jammu & Kashmir,Anti Narcotic Task Force Kashmir,0.0,0.0,0.0,,STABLE
+2024,2023,Jammu & Kashmir,Anti Narcotic Task Force Kashmir,0.0,0.0,0.0,,STABLE
+2022,2021,Jammu & Kashmir,Bandipora,2.23,2.23,0.0,0.12,STABLE
+2024,2023,Jammu & Kashmir,Bandipora,1.39,1.39,-0.0,-0.15,STABLE
+2024,2023,Jammu & Kashmir,Budgam,3.34,3.34,-0.0,-0.03,STABLE
+2023,2022,Jammu & Kashmir,CICE Jammu,0.0,0.0,0.0,,STABLE
+2024,2023,Jammu & Kashmir,CICE Jammu,0.0,0.0,0.0,,STABLE
+2023,2022,Jammu & Kashmir,CICE Kashmir,0.0,0.0,0.0,,STABLE
+2024,2023,Jammu & Kashmir,CICE Kashmir,0.0,0.0,0.0,,STABLE
+2022,2021,Jammu & Kashmir,Cyber Crime Jammu,0.0,0.0,0.0,,STABLE
+2023,2022,Jammu & Kashmir,Cyber Crime Jammu,0.0,0.0,0.0,,STABLE
+2024,2023,Jammu & Kashmir,Cyber Crime Jammu,0.0,0.0,0.0,,STABLE
+2022,2021,Jammu & Kashmir,Cyber Crime Kashmir,0.0,0.0,0.0,,STABLE
+2023,2022,Jammu & Kashmir,Cyber Crime Kashmir,0.0,0.0,0.0,,STABLE
+2024,2023,Jammu & Kashmir,Cyber Crime Kashmir,0.0,0.0,0.0,,STABLE
+2023,2022,Jammu & Kashmir,EOW Jammu,0.0,0.0,0.0,,STABLE
+2024,2023,Jammu & Kashmir,EOW Jammu,0.0,0.0,0.0,,STABLE
+2023,2022,Jammu & Kashmir,EOW Kashmir,0.0,0.0,0.0,,STABLE
+2024,2023,Jammu & Kashmir,EOW Kashmir,0.0,0.0,0.0,,STABLE
+2022,2021,Jammu & Kashmir,Railways Jammu,0.0,0.0,0.0,,STABLE
+2023,2022,Jammu & Kashmir,Railways Jammu,0.0,0.0,0.0,,STABLE
+2024,2023,Jammu & Kashmir,Railways Jammu,0.0,0.0,0.0,,STABLE
+2022,2021,Jammu & Kashmir,Railways Kashmir,0.0,0.0,0.0,,STABLE
+2023,2022,Jammu & Kashmir,Railways Kashmir,0.0,0.0,0.0,,STABLE
+2024,2023,Jammu & Kashmir,Railways Kashmir,0.0,0.0,0.0,,STABLE
+2024,2023,Jammu & Kashmir,Railways Katra,0.0,0.0,0.0,,STABLE
+2023,2022,Jammu & Kashmir,Special Crime Wing Jammu,0.0,0.0,0.0,,STABLE
+2024,2023,Jammu & Kashmir,Special Crime Wing Jammu,0.0,0.0,0.0,,STABLE
+2023,2022,Jammu & Kashmir,Special Crime Wing Kashmir,0.0,0.0,0.0,,STABLE
+2024,2023,Jammu & Kashmir,Special Crime Wing Kashmir,0.0,0.0,0.0,,STABLE
+2022,2021,Jharkhand,Dhanbad Railway,0.0,0.0,0.0,,STABLE
+2023,2022,Jharkhand,Dhanbad Railway,0.0,0.0,0.0,,STABLE
+2024,2023,Jharkhand,Dhanbad Railway,0.0,0.0,0.0,,STABLE
+2024,2023,Jharkhand,Giridih,3.09,3.09,-0.0,-0.12,STABLE
+2022,2021,Jharkhand,Jamshedpur Railway,0.0,0.0,0.0,,STABLE
+2023,2022,Jharkhand,Jamshedpur Railway,0.0,0.0,0.0,,STABLE
+2024,2023,Jharkhand,Jamshedpur Railway,0.0,0.0,0.0,,STABLE
+2023,2022,Kerala,Crime Branch,0.0,0.0,0.0,,STABLE
+2024,2023,Kerala,Crime Branch,0.0,0.0,0.0,,STABLE
+2023,2022,Kerala,Thrissur Rural,8.27,8.27,-0.0,-0.05,STABLE
+2024,2023,Lakshadweep,Lakshadweep,5.39,5.39,-0.0,-0.09,STABLE
+2024,2023,Lakshadweep,Total Districts ,5.39,5.39,-0.0,-0.09,STABLE
+2022,2021,Madhya Pradesh,Cyber Crime Cell,0.0,0.0,0.0,,STABLE
+2023,2022,Madhya Pradesh,Cyber Crime Cell,0.0,0.0,0.0,,STABLE
+2024,2023,Madhya Pradesh,Cyber Crime Cell,0.0,0.0,0.0,,STABLE
+2023,2022,Madhya Pradesh,Indore Railway,0.06,0.06,0.0,1.87,STABLE
+2023,2022,Madhya Pradesh,Jabalpur Railway,0.18,0.18,0.0,1.87,STABLE
+2022,2021,Maharashtra,Aurangabad Railway,0.03,0.03,0.0,2.52,STABLE
+2024,2023,Maharashtra,Bhandara,3.48,3.48,0.0,0.08,STABLE
+2023,2022,Maharashtra,Nagpur Railway,0.0,0.0,0.0,,STABLE
+2022,2021,Maharashtra,Osmanabad,9.39,9.39,-0.0,-0.0,STABLE
+2024,2023,Maharashtra,Pune Railway,0.0,0.0,0.0,,STABLE
+2022,2021,Manipur,CID,0.0,0.0,0.0,,STABLE
+2023,2022,Manipur,CID,0.0,0.0,0.0,,STABLE
+2024,2023,Manipur,CID,0.0,0.0,0.0,,STABLE
+2023,2022,Manipur,Chandel,0.0,0.0,0.0,,STABLE
+2024,2023,Manipur,Chandel,0.0,0.0,0.0,,STABLE
+2022,2021,Manipur,Jiribam,0.27,0.27,-0.0,-1.48,STABLE
+2023,2022,Manipur,Jiribam,0.27,0.27,-0.0,-1.48,STABLE
+2022,2021,Manipur,Kakching,1.1,1.1,0.0,0.35,STABLE
+2022,2021,Manipur,Kamjong,0.0,0.0,0.0,,STABLE
+2023,2022,Manipur,Kamjong,0.0,0.0,0.0,,STABLE
+2024,2023,Manipur,Kamjong,0.0,0.0,0.0,,STABLE
+2022,2021,Manipur,Kangpokpi,0.0,0.0,0.0,,STABLE
+2023,2022,Manipur,Kangpokpi,0.0,0.0,0.0,,STABLE
+2024,2023,Manipur,Kangpokpi,0.0,0.0,0.0,,STABLE
+2022,2021,Manipur,Narcotic,0.0,0.0,0.0,,STABLE
+2023,2022,Manipur,Narcotic,0.0,0.0,0.0,,STABLE
+2024,2023,Manipur,Narcotic,0.0,0.0,0.0,,STABLE
+2022,2021,Manipur,Noney,0.0,0.0,0.0,,STABLE
+2023,2022,Manipur,Noney,0.0,0.0,0.0,,STABLE
+2024,2023,Manipur,Noney,0.0,0.0,0.0,,STABLE
+2022,2021,Manipur,Pherzawl,0.0,0.0,0.0,,STABLE
+2023,2022,Manipur,Pherzawl,0.0,0.0,0.0,,STABLE
+2024,2023,Manipur,Pherzawl,0.0,0.0,0.0,,STABLE
+2023,2022,Manipur,Senapati,0.0,0.0,0.0,,STABLE
+2022,2021,Manipur,Tamenglong,0.0,0.0,0.0,,STABLE
+2023,2022,Manipur,Tamenglong,0.0,0.0,0.0,,STABLE
+2024,2023,Manipur,Tamenglong,0.0,0.0,0.0,,STABLE
+2023,2022,Manipur,Tengnoupal,0.0,0.0,0.0,,STABLE
+2024,2023,Manipur,Ukhrul,0.0,0.0,0.0,,STABLE
+2022,2021,Meghalaya,Cyber Cell,0.0,0.0,0.0,,STABLE
+2023,2022,Meghalaya,Cyber Cell,0.0,0.0,0.0,,STABLE
+2024,2023,Meghalaya,Cyber Cell,0.0,0.0,0.0,,STABLE
+2022,2021,Meghalaya,Garo Hills East,2.02,2.02,0.0,0.21,STABLE
+2023,2022,Meghalaya,Garo Hills South,1.01,1.01,0.0,0.21,STABLE
+2022,2021,Meghalaya,Khasi Hills East,9.41,9.41,0.0,0.04,STABLE
+2023,2022,Meghalaya,Khasi Hills East,9.41,9.41,0.0,0.04,STABLE
+2022,2021,Meghalaya,Khasi Hills South West,0.67,0.67,-0.0,-0.28,STABLE
+2022,2021,Meghalaya,Khasi Hills West,3.36,3.36,0.0,0.02,STABLE
+2023,2022,Meghalaya,Ri-Bhoi,3.7,3.7,0.0,0.12,STABLE
+2023,2022,Mizoram,Aizawl,2.82,2.82,-0.0,-0.14,STABLE
+2024,2023,Mizoram,Crime and EOU,0.0,0.0,0.0,,STABLE
+2022,2021,Mizoram,Cyber,0.0,0.0,0.0,,STABLE
+2023,2022,Mizoram,Cyber,0.0,0.0,0.0,,STABLE
+2024,2023,Mizoram,Cyber,0.0,0.0,0.0,,STABLE
+2023,2022,Mizoram,Hnahthial,1.27,1.27,0.0,0.15,STABLE
+2023,2022,Mizoram,Khawzawl,0.0,0.0,0.0,,STABLE
+2024,2023,Mizoram,Mamit,2.01,2.01,-0.0,-0.19,STABLE
+2022,2021,Mizoram,Saiha,0.0,0.0,0.0,,STABLE
+2022,2021,Mizoram,Saitual,0.0,0.0,0.0,,STABLE
+2023,2022,Mizoram,Saitual,0.0,0.0,0.0,,STABLE
+2024,2023,Mizoram,Saitual,0.0,0.0,0.0,,STABLE
+2022,2021,Mizoram,Serchhip,0.0,0.0,0.0,,STABLE
+2022,2021,Mizoram,Spl Narcotic,0.0,0.0,0.0,,STABLE
+2023,2022,Mizoram,Spl Narcotic,0.0,0.0,0.0,,STABLE
+2024,2023,Mizoram,Spl Narcotic,0.0,0.0,0.0,,STABLE
+2024,2023,Nagaland,Crime,0.0,0.0,0.0,,STABLE
+2024,2023,Nagaland,Cyber Security,0.0,0.0,0.0,,STABLE
+2023,2021,Nagaland,Kiphire,0.0,0.0,0.0,,STABLE
+2023,2021,Nagaland,Mokokchung,0.0,0.0,0.0,,STABLE
+2024,2023,Nagaland,Narcotics,0.0,0.0,0.0,,STABLE
+2023,2021,Nagaland,Phek,0.0,0.0,0.0,,STABLE
+2024,2023,Nagaland,Phek,0.0,0.0,0.0,,STABLE
+2024,2023,Nagaland,Shamator,0.0,0.0,0.0,,STABLE
+2024,2023,Nagaland,Tseminyu,0.0,0.0,0.0,,STABLE
+2023,2021,Nagaland,Wokha,0.0,0.0,0.0,,STABLE
+2024,2023,Nagaland,Wokha,0.0,0.0,0.0,,STABLE
+2023,2021,Nagaland,Zunheboto,0.0,0.0,0.0,,STABLE
+2022,2021,Odisha,CID CB,0.0,0.0,0.0,,STABLE
+2023,2022,Odisha,CID CB,0.0,0.0,0.0,,STABLE
+2022,2021,Odisha,Khurda,7.75,7.75,-0.0,-0.01,STABLE
+2023,2022,Odisha,SRP(Cuttack),0.06,0.06,-0.0,-1.69,STABLE
+2023,2022,Odisha,SRP(Rourkela),0.0,0.0,0.0,,STABLE
+2022,2021,Puducherry,Karaikal,0.0,0.0,0.0,,STABLE
+2023,2022,Puducherry,Total Districts ,2.87,2.87,-0.0,-0.07,STABLE
+2023,2022,Punjab,Bureau of Investigation,0.06,0.06,0.0,1.01,STABLE
+2024,2023,Punjab,Cyber Crime Wing,0.0,0.0,0.0,,STABLE
+2022,2021,Punjab,Gurdaspur,2.95,2.95,-0.0,-0.04,STABLE
+2022,2021,Punjab,Intelligence Wing,0.0,0.0,0.0,,STABLE
+2023,2022,Punjab,Intelligence Wing,0.0,0.0,0.0,,STABLE
+2024,2023,Punjab,Intelligence Wing,0.0,0.0,0.0,,STABLE
+2024,2023,Punjab,Muktsar,1.35,1.35,0.0,0.01,STABLE
+2023,2022,Punjab,Patiala,8.49,8.49,0.0,0.05,STABLE
+2022,2021,Punjab,Special Task Force,0.0,0.0,0.0,,STABLE
+2023,2022,Punjab,Special Task Force,0.0,0.0,0.0,,STABLE
+2024,2023,Punjab,Special Task Force,0.0,0.0,0.0,,STABLE
+2024,2023,Rajasthan,ATS & SOG,0.0,0.0,0.0,,STABLE
+2022,2021,Rajasthan,Churu,25.79,25.79,-0.0,-0.02,STABLE
+2022,2021,Rajasthan,Jaipur Crime,0.0,0.0,0.0,,STABLE
+2023,2022,Rajasthan,Jaipur Crime,0.0,0.0,0.0,,STABLE
+2024,2023,Rajasthan,Jaipur Crime,0.0,0.0,0.0,,STABLE
+2022,2021,Rajasthan,Jaipur Metro,0.0,0.0,0.0,,STABLE
+2023,2022,Rajasthan,Jaipur Metro,0.0,0.0,0.0,,STABLE
+2024,2023,Rajasthan,Jaipur Metro,0.0,0.0,0.0,,STABLE
+2022,2021,Rajasthan,Jaisalmer,12.46,12.46,-0.0,-0.01,STABLE
+2024,2023,Rajasthan,Jodhpur Crime,0.0,0.0,0.0,,STABLE
+2022,2021,Rajasthan,SCRB,0.0,0.0,0.0,,STABLE
+2023,2022,Rajasthan,SCRB,0.0,0.0,0.0,,STABLE
+2024,2023,Rajasthan,SCRB,0.0,0.0,0.0,,STABLE
+2022,2021,Rajasthan,SOG,0.0,0.0,0.0,,STABLE
+2022,2021,Rajasthan,SSB,0.0,0.0,0.0,,STABLE
+2023,2022,Rajasthan,SSB,0.0,0.0,0.0,,STABLE
+2024,2023,Rajasthan,SSB,0.0,0.0,0.0,,STABLE
+2023,2021,Sikkim,CID,0.0,0.0,0.0,,STABLE
+2024,2023,Sikkim,CID,0.0,0.0,0.0,,STABLE
+2023,2022,Sikkim,Mangan (North),0.08,0.08,-0.0,-2.44,STABLE
+2021,2021,Sikkim,North,0.0,0.0,0.0,,STABLE
+2023,2022,Sikkim,Pakyong (East),0.16,0.16,-0.0,-2.44,STABLE
+2024,2023,Tamil Nadu,Ariyalur,2.07,2.07,-0.0,-0.17,STABLE
+2023,2022,Tamil Nadu,Coimbatore City,1.06,1.06,0.0,0.37,STABLE
+2022,2021,Tamil Nadu,Cyber Cell,0.0,0.0,0.0,,STABLE
+2023,2022,Tamil Nadu,Cyber Cell,0.0,0.0,0.0,,STABLE
+2024,2023,Tamil Nadu,Cyber Cell,0.0,0.0,0.0,,STABLE
+2023,2022,Tamil Nadu,Kanyakumari,0.25,0.25,-0.0,-1.07,STABLE
+2022,2021,Tamil Nadu,Madurai City,2.83,2.83,-0.0,-0.12,STABLE
+2022,2021,Tamil Nadu,Other Units,0.0,0.0,0.0,,STABLE
+2023,2022,Tamil Nadu,Other Units,0.0,0.0,0.0,,STABLE
+2024,2023,Tamil Nadu,Other Units,0.0,0.0,0.0,,STABLE
+2023,2022,Tamil Nadu,Railway Chennai,0.0,0.0,0.0,,STABLE
+2024,2023,Tamil Nadu,Railway Chennai,0.0,0.0,0.0,,STABLE
+2022,2021,Tamil Nadu,Railway Trichy,0.0,0.0,0.0,,STABLE
+2024,2023,Tamil Nadu,Salem,0.3,0.3,0.0,0.11,STABLE
+2022,2021,Telangana,Railway Police Secunderabad,0.03,0.03,0.0,6.53,STABLE
+2024,2023,Telangana,Railway Police Secunderabad,0.0,0.0,0.0,,STABLE
+2022,2021,Tripura,GRP,0.0,0.0,0.0,,STABLE
+2023,2022,Tripura,GRP,0.0,0.0,0.0,,STABLE
+2024,2023,Tripura,GRP,0.0,0.0,0.0,,STABLE
+2023,2022,Uttar Pradesh,Etawah,8.19,8.19,-0.0,-0.01,STABLE
+2024,2023,Uttar Pradesh,Shrawasti,3.04,3.04,0.0,0.16,STABLE
+2022,2021,Uttarakhand,Cyber Cell,0.0,0.0,0.0,,STABLE
+2023,2022,Uttarakhand,Cyber Cell,0.0,0.0,0.0,,STABLE
+2024,2023,Uttarakhand,Cyber Cell,0.0,0.0,0.0,,STABLE
+2024,2023,Uttarakhand,GRP,0.0,0.0,0.0,,STABLE
+2022,2021,Uttarakhand,Rudra Prayag,0.14,0.14,0.0,0.49,STABLE
+2023,2022,West Bengal,Barasat,17.99,17.99,0.0,0.01,STABLE
+2022,2021,West Bengal,Howrah GRP,0.0,0.0,0.0,,STABLE
+2023,2022,West Bengal,Howrah GRP,0.0,0.0,0.0,,STABLE
+2024,2023,West Bengal,Howrah GRP,0.0,0.0,0.0,,STABLE
+2022,2021,West Bengal,Kharagpur GRP,0.0,0.0,0.0,,STABLE
+2023,2022,West Bengal,Kharagpur GRP,0.0,0.0,0.0,,STABLE
+2022,2021,West Bengal,Purulia,5.39,5.39,0.0,0.09,STABLE
+2022,2021,West Bengal,Raiganj,5.27,5.27,-0.0,-0.04,STABLE
+2024,2023,West Bengal,Sealdah GRP,0.05,0.05,0.0,10.49,STABLE
+2024,2023,West Bengal,Siliguri GRP,0.05,0.05,0.0,10.49,STABLE
+2023,2022,Andhra Pradesh,Viiayawada Railway,0.0,0.02,-0.02,-100.0,STABLE
+2024,2023,Gujarat,Surat Rural,0.47,0.49,-0.02,-3.32,STABLE
+2022,2021,Bihar,Katihar Railway,0.0,0.03,-0.03,-100.0,STABLE
+2024,2023,Bihar,Katihar Railway,0.0,0.03,-0.03,-100.0,STABLE
+2023,2022,Bihar,Muzaffarpur Railway,0.0,0.03,-0.03,-100.0,STABLE
+2023,2022,Gujarat,Dang,0.07,0.1,-0.03,-32.46,STABLE
+2022,2021,Gujarat,Gir Somnath,1.11,1.14,-0.03,-2.64,STABLE
+2022,2021,Gujarat,W.Rly Ahmedabad,0.0,0.03,-0.03,-100.0,STABLE
+2022,2021,Maharashtra,Nagpur Railway,0.0,0.03,-0.03,-100.0,STABLE
+2024,2023,Maharashtra,Raigad,2.02,2.05,-0.03,-1.39,STABLE
+2023,2022,Telangana,Railway Police Secunderabad,0.0,0.03,-0.03,-100.0,STABLE
+2023,2022,Andhra Pradesh,Sri Sathya Sai,6.19,6.23,-0.04,-0.7,STABLE
+2024,2023,Gujarat,Banaskantha,3.52,3.56,-0.04,-1.08,STABLE
+2023,2022,Gujarat,Chhotaudepur,0.55,0.59,-0.04,-6.36,STABLE
+2024,2023,Kerala,Ernakulam Commr,8.12,8.16,-0.04,-0.46,STABLE
+2024,2023,Rajasthan,GRP Ajmer,0.2,0.24,-0.04,-17.16,STABLE
+2024,2023,Rajasthan,GRP Jodhpur,0.0,0.04,-0.04,-100.0,STABLE
+2022,2021,Tamil Nadu,Railway Chennai,0.0,0.04,-0.04,-100.0,STABLE
+2022,2021,West Bengal,Howrah Rural,11.16,11.2,-0.04,-0.36,STABLE
+2022,2021,Andhra Pradesh,Guntakal Railway,0.02,0.07,-0.05,-70.48,STABLE
+2024,2023,Andhra Pradesh,Guntakal Railway,0.0,0.05,-0.05,-100.0,STABLE
+2022,2021,Chhattisgarh,GRP Raipur,0.0,0.05,-0.05,-100.0,STABLE
+2022,2021,Chhattisgarh,Kondagaon,0.69,0.74,-0.05,-7.06,STABLE
+2023,2022,Gujarat,Surendranagar,0.99,1.04,-0.05,-4.79,STABLE
+2023,2022,Karnataka,Chikkamagaluru,2.97,3.02,-0.05,-1.82,STABLE
+2022,2021,Tamil Nadu,Vellore,0.46,0.51,-0.05,-9.46,STABLE
+2022,2021,Bihar,Khagaria,2.03,2.09,-0.06,-2.72,STABLE
+2023,2022,Jharkhand,Saraikela,2.12,2.18,-0.06,-2.94,STABLE
+2022,2021,Karnataka,Chamarajnagar,1.62,1.68,-0.06,-3.6,STABLE
+2024,2023,Karnataka,KRailways,0.0,0.06,-0.06,-100.0,STABLE
+2022,2021,Madhya Pradesh,Bhopal Railway,0.06,0.12,-0.06,-49.06,STABLE
+2023,2022,Maharashtra,Gondia,1.81,1.87,-0.06,-3.36,STABLE
+2023,2022,Maharashtra,Pune Railway,0.0,0.06,-0.06,-100.0,STABLE
+2023,2022,Telangana,Wanaparthy,1.91,1.97,-0.06,-3.11,STABLE
+2023,2022,Assam,Biswanath,3.93,4.0,-0.07,-1.76,STABLE
+2023,2022,Assam,GRP,0.08,0.15,-0.07,-47.01,STABLE
+2023,2022,Gujarat,Gir Somnath,1.04,1.11,-0.07,-5.93,STABLE
+2022,2021,Gujarat,W.Rly Vadodara,0.0,0.07,-0.07,-100.0,STABLE
+2022,2021,Kerala,Crime Branch,0.0,0.07,-0.07,-100.0,STABLE
+2022,2021,Kerala,Railways,0.0,0.07,-0.07,-100.0,STABLE
+2022,2021,Rajasthan,Bundi,31.47,31.54,-0.07,-0.24,STABLE
+2024,2023,Tamil Nadu,Railway Trichy,0.0,0.07,-0.07,-100.0,STABLE
+2022,2021,Tamil Nadu,Ranipet,0.11,0.18,-0.07,-39.06,STABLE
+2022,2021,West Bengal,Krishnagar,17.38,17.45,-0.07,-0.37,STABLE
+2022,2021,Assam,CID,0.0,0.08,-0.08,-100.0,STABLE
+2024,2023,Assam,Sadia,0.45,0.53,-0.08,-14.83,STABLE
+2023,2022,Gujarat,Vadodara Rural,0.75,0.83,-0.08,-10.18,STABLE
+2022,2021,Kerala,Idukki,11.13,11.21,-0.08,-0.74,STABLE
+2024,2023,Maharashtra,Gadchiroli,2.03,2.11,-0.08,-3.66,STABLE
+2022,2021,Rajasthan,GRP Jodhpur,0.0,0.08,-0.08,-100.0,STABLE
+2024,2023,Sikkim,Mangan (North),0.0,0.08,-0.08,-100.0,STABLE
+2024,2023,Sikkim,Soreng (West),0.0,0.08,-0.08,-100.0,STABLE
+2024,2023,Tamil Nadu,Coimbatore,0.4,0.48,-0.08,-16.28,STABLE
+2022,2021,Andhra Pradesh,Kurnool,7.72,7.81,-0.09,-1.14,STABLE
+2023,2022,Tamil Nadu,Thiruvallur,0.7,0.79,-0.09,-11.73,STABLE
+2022,2021,West Bengal,Siliguri PC,11.7,11.79,-0.09,-0.75,STABLE
+2024,2023,Bihar,Aurangabad,1.57,1.67,-0.1,-5.88,STABLE
+2023,2022,Delhi,Metro,0.09,0.19,-0.1,-52.35,STABLE
+2022,2021,Gujarat,Banaskantha,3.01,3.11,-0.1,-3.2,STABLE
+2022,2021,Gujarat,Chhotaudepur,0.59,0.69,-0.1,-14.62,STABLE
+2023,2022,Gujarat,Sabarkantha,1.87,1.97,-0.1,-5.04,STABLE
+2024,2023,Gujarat,Surendranagar,0.89,0.99,-0.1,-10.12,STABLE
+2024,2023,Gujarat,Vadodara Rural,0.65,0.75,-0.1,-13.51,STABLE
+2023,2022,Maharashtra,Solapur Rural,5.1,5.2,-0.1,-1.85,STABLE
+2024,2023,Punjab,Ludhiana Rural,0.7,0.8,-0.1,-11.98,STABLE
+2022,2021,Tamil Nadu,Krishnagiri,0.46,0.56,-0.1,-17.13,STABLE
+2023,2022,Tamil Nadu,Namakkal,0.5,0.6,-0.1,-17.27,STABLE
+2024,2023,Tamil Nadu,Villupuram,1.16,1.26,-0.1,-8.2,STABLE
+2023,2022,Uttar Pradesh,Etah,6.03,6.13,-0.1,-1.56,STABLE
+2024,2023,Uttar Pradesh,GRP,0.13,0.23,-0.1,-42.68,STABLE
+2023,2022,Uttar Pradesh,Saharanpur,10.69,10.79,-0.1,-0.9,STABLE
+2023,2022,Chhattisgarh,Kondagaon,0.58,0.69,-0.11,-15.87,STABLE
+2023,2022,Gujarat,Arvalli,0.62,0.73,-0.11,-14.55,STABLE
+2024,2023,Gujarat,Botad,0.55,0.66,-0.11,-16.21,STABLE
+2023,2022,Gujarat,Tapi,0.54,0.65,-0.11,-16.47,STABLE
+2024,2023,Gujarat,Tapi,0.43,0.54,-0.11,-20.19,STABLE
+2023,2022,Himachal Pradesh,Lahaul & Spiti,0.0,0.11,-0.11,-100.0,STABLE
+2022,2021,Tamil Nadu,Ariyalur,1.96,2.07,-0.11,-5.47,STABLE
+2023,2022,Tamil Nadu,Tenkasi,0.72,0.83,-0.11,-13.29,STABLE
+2024,2023,Tamil Nadu,Thoothukudi,1.3,1.41,-0.11,-7.67,STABLE
+2022,2021,Telangana,Narayanpet,1.3,1.41,-0.11,-7.68,STABLE
+2022,2021,West Bengal,Kalimpong,0.48,0.59,-0.11,-18.41,STABLE
+2022,2021,Goa,Total Districts ,2.98,3.1,-0.12,-3.88,STABLE
+2022,2021,Maharashtra,Mumbai Railway,0.03,0.15,-0.12,-79.5,STABLE
+2022,2021,Odisha,SRP(Rourkela),0.0,0.12,-0.12,-100.0,STABLE
+2022,2021,Punjab,GRP,0.0,0.12,-0.12,-100.0,STABLE
+2023,2022,Punjab,Malerkotla,2.49,2.61,-0.12,-4.73,STABLE
+2022,2021,Punjab,Pathankot,2.85,2.97,-0.12,-4.04,STABLE
+2023,2022,Uttar Pradesh,Balrampur,3.04,3.16,-0.12,-3.7,STABLE
+2022,2021,Uttar Pradesh,Muzaffarnagar,7.62,7.74,-0.12,-1.6,STABLE
+2023,2022,Andhra Pradesh,Parvathipuram Manyam,2.6,2.73,-0.13,-4.86,STABLE
+2023,2022,Chhattisgarh,Korba,5.84,5.98,-0.14,-2.36,STABLE
+2022,2021,Jammu & Kashmir,Awantipora,1.25,1.39,-0.14,-10.2,STABLE
+2024,2023,Jammu & Kashmir,Awantipora,1.39,1.53,-0.14,-9.23,STABLE
+2023,2022,Jammu & Kashmir,Railways Katra,0.0,0.14,-0.14,-100.0,STABLE
+2022,2021,Jammu & Kashmir,Shopian,1.11,1.25,-0.14,-11.4,STABLE
+2023,2022,Jammu & Kashmir,Sopore,1.25,1.39,-0.14,-10.2,STABLE
+2022,2021,Karnataka,Chikkaballapura,4.92,5.06,-0.14,-2.72,STABLE
+2022,2021,Rajasthan,Jodhpur Rural,7.74,7.88,-0.14,-1.74,STABLE
+2023,2022,Tamil Nadu,Thoothukudi,1.41,1.55,-0.14,-9.17,STABLE
+2022,2021,Tamil Nadu,Tiruppur City,0.11,0.25,-0.14,-55.2,STABLE
+2022,2021,Tamil Nadu,Trichy City,0.87,1.01,-0.14,-13.93,STABLE
+2022,2021,Telangana,Mulug,2.11,2.25,-0.14,-6.34,STABLE
+2023,2022,Uttar Pradesh,Moradabad,7.91,8.05,-0.14,-1.79,STABLE
+2022,2021,Uttarakhand,Almora,3.07,3.21,-0.14,-4.45,STABLE
+2023,2022,Uttarakhand,GRP,0.0,0.14,-0.14,-100.0,STABLE
+2023,2022,Maharashtra,Thane Rural,0.6,0.75,-0.15,-20.51,STABLE
+2023,2022,Punjab,Barnala,4.23,4.38,-0.15,-3.44,STABLE
+2022,2021,Tamil Nadu,Salem,0.47,0.62,-0.15,-24.72,STABLE
+2022,2021,Tamil Nadu,Thoothukudi,1.55,1.7,-0.15,-8.65,STABLE
+2023,2022,Chandigarh,Chandigarh,9.23,9.39,-0.16,-1.73,STABLE
+2023,2022,Chandigarh,Total Districts ,9.23,9.39,-0.16,-1.73,STABLE
+2023,2022,Chhattisgarh,Bemetra,1.27,1.43,-0.16,-11.3,STABLE
+2022,2021,Chhattisgarh,Dantewara,0.53,0.69,-0.16,-23.12,STABLE
+2024,2023,Chhattisgarh,Khairagarh - Chhuikhadan-Gandai,1.17,1.33,-0.16,-11.75,STABLE
+2023,2022,Chhattisgarh,Mohla-Manpur-Ambagarh Chouki,0.53,0.69,-0.16,-23.12,STABLE
+2022,2021,Gujarat,Vadodara City,1.86,2.02,-0.16,-8.14,STABLE
+2024,2023,Karnataka,Chamarajnagar,1.74,1.9,-0.16,-8.64,STABLE
+2023,2022,Karnataka,Kodagu,4.86,5.02,-0.16,-3.15,STABLE
+2022,2021,Karnataka,Ramanagara,5.14,5.3,-0.16,-3.04,STABLE
+2023,2022,Sikkim,Gangtok (East),0.25,0.41,-0.16,-39.03,STABLE
+2024,2023,Sikkim,Pakyong (East),0.0,0.16,-0.16,-100.0,STABLE
+2023,2022,Tamil Nadu,Perambalur,2.15,2.31,-0.16,-6.83,STABLE
+2022,2021,Uttar Pradesh,Hathras,5.57,5.73,-0.16,-2.87,STABLE
+2022,2021,West Bengal,Darjeeling,3.37,3.53,-0.16,-4.53,STABLE
+2023,2022,West Bengal,Total Districts ,478.9,479.06,-0.16,-0.03,STABLE
+2022,2021,Gujarat,Mahisagar,0.45,0.62,-0.17,-27.64,STABLE
+2022,2021,Gujarat,Panchmahal,1.73,1.9,-0.17,-8.96,STABLE
+2023,2022,Karnataka,Mysuru City,3.25,3.42,-0.17,-4.89,STABLE
+2023,2022,Karnataka,Yadgiri,2.52,2.69,-0.17,-6.28,STABLE
+2023,2022,Kerala,Kozhikode Rural,12.57,12.74,-0.17,-1.3,STABLE
+2023,2022,Madhya Pradesh,Mandla,8.24,8.41,-0.17,-2.0,STABLE
+2023,2022,Tamil Nadu,Salem,0.3,0.47,-0.17,-36.77,STABLE
+2022,2021,Telangana,Nalgonda,7.73,7.9,-0.17,-2.16,STABLE
+2022,2021,Uttar Pradesh,Hardoi,5.21,5.38,-0.17,-3.07,STABLE
+2024,2023,Assam,Chirang,6.31,6.49,-0.18,-2.81,STABLE
+2022,2021,Bihar,Begusarai,1.81,1.99,-0.18,-9.07,STABLE
+2024,2023,Gujarat,Mahisagar,0.48,0.66,-0.18,-26.88,STABLE
+2023,2022,Gujarat,Surat Rural,0.49,0.67,-0.18,-27.09,STABLE
+2022,2021,Madhya Pradesh,Indore Railway,0.06,0.24,-0.18,-74.53,STABLE
+2023,2022,Madhya Pradesh,Niwari,3.0,3.18,-0.18,-5.68,STABLE
+2022,2021,Manipur,Senapati,0.0,0.18,-0.18,-100.0,STABLE
+2022,2021,Odisha,Boudh,2.93,3.11,-0.18,-5.86,STABLE
+2023,2022,Puducherry,Puducherry,1.56,1.74,-0.18,-10.27,STABLE
+2022,2021,Punjab,CP Jalandhar,9.03,9.21,-0.18,-1.92,STABLE
+2022,2021,Tamil Nadu,Chengalpattu,0.4,0.58,-0.18,-30.75,STABLE
+2022,2021,Tamil Nadu,Kanchipuram,0.11,0.29,-0.18,-61.91,STABLE
+2024,2023,Tamil Nadu,Ranipet,0.25,0.43,-0.18,-42.29,STABLE
+2024,2023,Bihar,Madhubani,1.63,1.82,-0.19,-10.51,STABLE
+2023,2022,Delhi,RAILWAY,0.0,0.19,-0.19,-100.0,STABLE
+2023,2022,Jharkhand,Ramgarh,3.66,3.85,-0.19,-4.85,STABLE
+2023,2022,Tamil Nadu,Erode,0.35,0.54,-0.19,-35.26,STABLE
+2022,2021,Uttar Pradesh,Amethi,5.8,5.99,-0.19,-3.23,STABLE
+2023,2022,Uttar Pradesh,Barabanki,2.66,2.85,-0.19,-6.7,STABLE
+2022,2021,Uttar Pradesh,Etah,6.13,6.32,-0.19,-3.03,STABLE
+2024,2023,Bihar,Darbhanga,1.72,1.92,-0.2,-10.48,STABLE
+2022,2021,Gujarat,Surendranagar,1.04,1.24,-0.2,-15.98,STABLE
+2022,2021,Jammu & Kashmir,Kupwara,4.7,4.9,-0.2,-3.99,STABLE
+2022,2021,Tamil Nadu,Madurai,1.72,1.92,-0.2,-10.3,STABLE
+2023,2022,Telangana,Sangareddy,6.08,6.28,-0.2,-3.18,STABLE
+2022,2021,Bihar,Araria,2.94,3.15,-0.21,-6.8,STABLE
+2022,2021,Goa,North Goa,1.49,1.7,-0.21,-12.4,STABLE
+2022,2021,Gujarat,Anand,2.2,2.41,-0.21,-8.71,STABLE
+2023,2022,Karnataka,Dakshina Kannada,1.5,1.71,-0.21,-12.08,STABLE
+2022,2021,Maharashtra,Gondia,1.87,2.08,-0.21,-10.0,STABLE
+2022,2021,Punjab,Sangrur,3.1,3.31,-0.21,-6.34,STABLE
+2024,2023,Tamil Nadu,Tenkasi,0.51,0.72,-0.21,-29.37,STABLE
+2022,2021,Uttar Pradesh,Jaunpur,4.51,4.72,-0.21,-4.47,STABLE
+2022,2021,West Bengal,Chandannagar PC,11.65,11.86,-0.21,-1.74,STABLE
+2023,2022,Bihar,Saran,3.34,3.56,-0.22,-6.3,STABLE
+2023,2022,Haryana,Hansi,9.72,9.94,-0.22,-2.19,STABLE
+2022,2021,Jharkhand,Jamtara,4.18,4.4,-0.22,-4.94,STABLE
+2023,2022,Jharkhand,Jamtara,3.96,4.18,-0.22,-5.2,STABLE
+2022,2021,Karnataka,Haveri,2.88,3.1,-0.22,-7.17,STABLE
+2022,2021,Rajasthan,Kota Rural,12.88,13.1,-0.22,-1.71,STABLE
+2022,2021,Tamil Nadu,Kanyakumari,0.25,0.47,-0.22,-46.73,STABLE
+2024,2023,Tamil Nadu,Salem City,0.2,0.42,-0.22,-52.89,STABLE
+2024,2023,Tamil Nadu,Tambaram,0.94,1.16,-0.22,-18.63,STABLE
+2023,2022,Tamil Nadu,Thirunelveli,1.01,1.23,-0.22,-17.72,STABLE
+2022,2021,Telangana,Rajanna Siricilla,5.41,5.63,-0.22,-3.95,STABLE
+2024,2023,Uttar Pradesh,Bahraich,3.69,3.91,-0.22,-5.73,STABLE
+2023,2022,Assam,Hamren,0.45,0.68,-0.23,-33.76,STABLE
+2023,2022,Gujarat,Rajkot City,3.91,4.14,-0.23,-5.49,STABLE
+2023,2022,Haryana,GRP,0.29,0.52,-0.23,-43.72,STABLE
+2023,2021,Nagaland,Dimapur,0.46,0.69,-0.23,-33.2,STABLE
+2023,2022,Punjab,Tarn Taran,2.64,2.87,-0.23,-8.13,STABLE
+2022,2021,Tamil Nadu,Dharmapuri,1.04,1.27,-0.23,-18.08,STABLE
+2023,2022,Chhattisgarh,Balrampur,3.2,3.44,-0.24,-6.98,STABLE
+2023,2022,Gujarat,Dahod,0.59,0.83,-0.24,-28.85,STABLE
+2022,2021,Jharkhand,Saraikela,2.18,2.43,-0.25,-10.17,STABLE
+2022,2021,Kerala,Malappuram,14.93,15.18,-0.25,-1.65,STABLE
+2023,2022,Tamil Nadu,Tambaram,1.16,1.41,-0.25,-17.61,STABLE
+2023,2022,Tamil Nadu,Thanjavur,1.81,2.06,-0.25,-12.14,STABLE
+2023,2022,Uttar Pradesh,Deoria,1.29,1.54,-0.25,-16.36,STABLE
+2022,2021,West Bengal,Alipurduar,8.08,8.33,-0.25,-2.96,STABLE
+2024,2023,Chhattisgarh,Sakti,2.02,2.28,-0.26,-11.41,STABLE
+2023,2022,Madhya Pradesh,Ujjain,11.86,12.12,-0.26,-2.17,STABLE
+2024,2023,Tamil Nadu,Thiruvallur,0.44,0.7,-0.26,-37.12,STABLE
+2023,2022,Uttar Pradesh,Ballia,5.48,5.74,-0.26,-4.59,STABLE
+2022,2021,Uttar Pradesh,Chandoli,4.21,4.47,-0.26,-5.84,STABLE
+2022,2021,Karnataka,Davanagere,3.8,4.07,-0.27,-6.57,STABLE
+2023,2022,Kerala,Trivandrum Rural,11.83,12.1,-0.27,-2.25,STABLE
+2024,2023,Manipur,Jiribam,0.0,0.27,-0.27,-100.0,STABLE
+2022,2021,Manipur,Tengnoupal,0.0,0.27,-0.27,-100.0,STABLE
+2023,2022,Jammu & Kashmir,Handwara,1.25,1.53,-0.28,-18.37,STABLE
+2024,2023,Jammu & Kashmir,Reasi,4.97,5.25,-0.28,-5.34,STABLE
+2024,2023,Jammu & Kashmir,Samba,4.36,4.64,-0.28,-5.94,STABLE
+2024,2023,Jammu & Kashmir,Shopian,1.39,1.67,-0.28,-16.79,STABLE
+2023,2022,Karnataka,Dharwad,1.84,2.12,-0.28,-13.15,STABLE
+2022,2021,Maharashtra,Solapur Rural,5.2,5.48,-0.28,-5.07,STABLE
+2023,2022,Manipur,Kakching,0.82,1.1,-0.28,-25.19,STABLE
+2024,2023,Punjab,Faridkot,2.96,3.24,-0.28,-8.61,STABLE
+2022,2021,Bihar,Rohtas,2.03,2.32,-0.29,-12.53,STABLE
+2024,2023,Gujarat,Anand,1.12,1.41,-0.29,-20.72,STABLE
+2024,2023,Gujarat,Porbandar,1.34,1.63,-0.29,-17.98,STABLE
+2024,2023,Haryana,GRP,0.0,0.29,-0.29,-100.0,STABLE
+2022,2021,Karnataka,Hassan,3.33,3.62,-0.29,-8.07,STABLE
+2023,2022,Tamil Nadu,Madurai,1.43,1.72,-0.29,-16.73,STABLE
+2024,2023,Tamil Nadu,Mayiladuthurai,0.11,0.4,-0.29,-72.3,STABLE
+2023,2022,Tamil Nadu,Villupuram,1.26,1.55,-0.29,-18.83,STABLE
+2023,2022,Uttar Pradesh,Ambedkar Nagar,2.61,2.9,-0.29,-10.03,STABLE
+2023,2022,Gujarat,Kheda,2.46,2.76,-0.3,-10.87,STABLE
+2022,2021,Gujarat,Valsad,0.92,1.22,-0.3,-24.81,STABLE
+2023,2022,Punjab,Khanna,1.96,2.26,-0.3,-13.17,STABLE
+2023,2022,Uttar Pradesh,Jhansi,14.01,14.31,-0.3,-2.13,STABLE
+2023,2022,Assam,Bajali,2.26,2.57,-0.31,-11.94,STABLE
+2023,2022,Bihar,Gaya,4.24,4.55,-0.31,-6.9,STABLE
+2023,2022,Madhya Pradesh,Bhind,7.4,7.71,-0.31,-4.02,STABLE
+2024,2023,Tamil Nadu,Madurai,1.12,1.43,-0.31,-21.73,STABLE
+2022,2021,Tamil Nadu,Namakkal,0.6,0.91,-0.31,-33.81,STABLE
+2023,2022,Telangana,Mahabubnagar,4.25,4.56,-0.31,-6.84,STABLE
+2023,2022,Andhra Pradesh,Tirupati,9.03,9.35,-0.32,-3.43,STABLE
+2022,2021,Bihar,Nawadah,2.06,2.38,-0.32,-13.51,STABLE
+2022,2021,Chhattisgarh,Jagdalpur,2.81,3.13,-0.32,-10.19,STABLE
+2024,2023,Chhattisgarh,Raipur,4.88,5.2,-0.32,-6.15,STABLE
+2022,2021,Himachal Pradesh,Baddi,2.45,2.77,-0.32,-11.63,STABLE
+2023,2022,Karnataka,Ramanagara,4.82,5.14,-0.32,-6.23,STABLE
+2023,2022,Manipur,Churachandpur,0.0,0.32,-0.32,-100.0,STABLE
+2023,2022,Tamil Nadu,Coimbatore,0.48,0.8,-0.32,-40.35,STABLE
+2023,2022,Tamil Nadu,Nilgiris,0.04,0.36,-0.32,-88.92,STABLE
+2023,2021,Uttar Pradesh,Amroha,9.4,9.72,-0.32,-3.29,STABLE
+2024,2023,West Bengal,Kalimpong,0.2,0.52,-0.32,-61.57,STABLE
+2023,2022,Jammu & Kashmir,Anantnag,1.77,2.1,-0.33,-15.55,STABLE
+2023,2022,Madhya Pradesh,Bhopal Rural,2.6,2.93,-0.33,-11.38,STABLE
+2022,2021,Meghalaya,Garo Hills North,1.01,1.34,-0.33,-24.84,STABLE
+2022,2021,Meghalaya,Garo Hills South,1.01,1.34,-0.33,-24.84,STABLE
+2023,2022,Meghalaya,Khasi Hills South West,0.34,0.67,-0.33,-49.4,STABLE
+2022,2021,Odisha,Sambalpur,18.38,18.71,-0.33,-1.76,STABLE
+2023,2022,Sikkim,Namchi (South),0.16,0.49,-0.33,-67.48,STABLE
+2023,2022,Sikkim,Total Districts ,0.9,1.23,-0.33,-26.83,STABLE
+2022,2021,Tamil Nadu,Thiruvallur,0.79,1.12,-0.33,-29.44,STABLE
+2022,2021,Uttar Pradesh,Barabanki,2.85,3.18,-0.33,-10.24,STABLE
+2022,2021,Uttar Pradesh,Etawah,8.19,8.52,-0.33,-3.88,STABLE
+2023,2022,Chhattisgarh,Durg,5.25,5.59,-0.34,-6.1,STABLE
+2023,2022,Meghalaya,Garo Hills South West,0.0,0.34,-0.34,-100.0,STABLE
+2024,2023,Meghalaya,Khasi Hills South West,0.0,0.34,-0.34,-100.0,STABLE
+2023,2021,Nagaland,Mon,0.35,0.69,-0.34,-49.64,STABLE
+2022,2021,Madhya Pradesh,Satna,6.63,6.98,-0.35,-5.06,STABLE
+2024,2023,Nagaland,Mon,0.0,0.35,-0.35,-100.0,STABLE
+2023,2022,Punjab,NRI Wing,2.44,2.79,-0.35,-12.6,STABLE
+2022,2021,Tripura,Kowai,1.51,1.86,-0.35,-18.86,STABLE
+2023,2022,Bihar,Samastipur,2.35,2.71,-0.36,-13.41,STABLE
+2023,2022,Goa,CID,0.24,0.6,-0.36,-59.74,STABLE
+2023,2022,Gujarat,Valsad,0.56,0.92,-0.36,-38.97,STABLE
+2022,2021,Jharkhand,Latehar,6.46,6.82,-0.36,-5.25,STABLE
+2024,2023,Jharkhand,Saraikela,1.76,2.12,-0.36,-17.12,STABLE
+2023,2022,Punjab,SAS Nagar,10.45,10.81,-0.36,-3.34,STABLE
+2022,2021,Uttar Pradesh,Jalaun,7.2,7.56,-0.36,-4.81,STABLE
+2022,2021,West Bengal,Ranaghat,16.9,17.26,-0.36,-2.11,STABLE
+2022,2021,A&N Islands,South Andaman,5.84,6.21,-0.37,-5.92,STABLE
+2022,2021,Kerala,Thrissur Rural,8.27,8.64,-0.37,-4.24,STABLE
+2024,2023,Odisha,Sonepur,1.4,1.77,-0.37,-20.9,STABLE
+2023,2022,Karnataka,Mandya,4.82,5.2,-0.38,-7.32,STABLE
+2024,2023,Maharashtra,Palghar,1.55,1.93,-0.38,-19.75,STABLE
+2022,2021,Punjab,Amritsar Rural,2.02,2.41,-0.39,-16.15,STABLE
+2023,2022,Punjab,Ludhiana Rural,0.8,1.19,-0.39,-32.94,STABLE
+2022,2021,Telangana,Ramagundam Commissionerate,17.01,17.4,-0.39,-2.26,STABLE
+2023,2022,Telangana,Suryapet,10.31,10.7,-0.39,-3.66,STABLE
+2022,2021,Uttar Pradesh,Lucknow Commissionarate,40.08,40.47,-0.39,-0.96,STABLE
+2022,2021,Uttar Pradesh,Mau,2.92,3.31,-0.39,-11.81,STABLE
+2023,2022,Uttar Pradesh,Shamli,9.04,9.43,-0.39,-4.12,STABLE
+2022,2021,Bihar,Darbhanga,1.48,1.88,-0.4,-21.16,STABLE
+2023,2022,Maharashtra,Gadchiroli,2.11,2.51,-0.4,-16.02,STABLE
+2024,2023,Tamil Nadu,Kallakurichi,0.72,1.12,-0.4,-35.67,STABLE
+2023,2022,Tamil Nadu,Pudukottai,0.97,1.37,-0.4,-29.29,STABLE
+2022,2021,Goa,South Goa,0.81,1.22,-0.41,-33.7,STABLE
+2024,2023,Gujarat,Devbhumi Dwarka,0.66,1.07,-0.41,-38.38,STABLE
+2022,2021,Jammu & Kashmir,Budgam,4.32,4.73,-0.41,-8.73,STABLE
+2023,2022,Jammu & Kashmir,Kulgam,2.46,2.87,-0.41,-14.22,STABLE
+2024,2023,Jammu & Kashmir,Sopore,0.84,1.25,-0.41,-32.95,STABLE
+2023,2022,Madhya Pradesh,Katni,7.13,7.54,-0.41,-5.41,STABLE
+2023,2022,Tamil Nadu,Dindigul,2.21,2.62,-0.41,-15.55,STABLE
+2024,2023,Uttar Pradesh,Bareilly,0.92,1.33,-0.41,-30.79,STABLE
+2023,2022,Chhattisgarh,Sarguja,6.1,6.52,-0.42,-6.48,STABLE
+2024,2023,Gujarat,Ahmedabad Rural,0.79,1.21,-0.42,-34.67,STABLE
+2023,2022,Punjab,Gurdaspur,2.53,2.95,-0.42,-14.27,STABLE
+2024,2023,Punjab,Pathankot,0.59,1.01,-0.42,-41.57,STABLE
+2023,2022,Tamil Nadu,Tiruppur,0.32,0.74,-0.42,-56.56,STABLE
+2024,2023,Telangana,Mulug,0.51,0.93,-0.42,-45.12,STABLE
+2024,2023,Uttar Pradesh,Sonbhadra,7.75,8.17,-0.42,-5.14,STABLE
+2024,2023,Uttarakhand,Rudra Prayag,0.0,0.42,-0.42,-100.0,STABLE
+2022,2021,Chhattisgarh,Dhamtari,3.7,4.13,-0.43,-10.45,STABLE
+2022,2021,Chhattisgarh,Korba,5.98,6.41,-0.43,-6.76,STABLE
+2024,2023,Chhattisgarh,Mungali,1.27,1.7,-0.43,-25.16,STABLE
+2022,2021,Chhattisgarh,Sarguja,6.52,6.95,-0.43,-6.14,STABLE
+2024,2023,Jharkhand,Dhanbad,4.53,4.96,-0.43,-8.6,STABLE
+2023,2022,Chhattisgarh,Dhamtari,3.26,3.7,-0.44,-11.81,STABLE
+2023,2022,Jharkhand,Simdega,4.35,4.79,-0.44,-9.11,STABLE
+2022,2021,Kerala,Trivandrum Commr.,5.26,5.7,-0.44,-7.67,STABLE
+2024,2023,Madhya Pradesh,Dewas,10.79,11.23,-0.44,-3.94,STABLE
+2024,2023,Nagaland,Tuensang,0.0,0.44,-0.44,-100.0,STABLE
+2022,2021,Uttar Pradesh,Sultanpur,2.4,2.84,-0.44,-15.48,STABLE
+2023,2022,Assam,Tamulpur,1.59,2.04,-0.45,-21.98,STABLE
+2024,2023,Karnataka,Mysuru City,2.8,3.25,-0.45,-13.82,STABLE
+2023,2022,Madhya Pradesh,Mandsaur,9.54,9.99,-0.45,-4.51,STABLE
+2022,2021,Gujarat,Amreli,3.96,4.42,-0.46,-10.45,STABLE
+2024,2023,Andhra Pradesh,Alluri Sitharama Raju,0.84,1.31,-0.47,-35.88,STABLE
+2022,2021,Chhattisgarh,Balodbazar,2.76,3.23,-0.47,-14.68,STABLE
+2023,2022,Chhattisgarh,Kanker,1.86,2.33,-0.47,-20.28,STABLE
+2024,2023,Jharkhand,Deoghar,3.67,4.14,-0.47,-11.31,STABLE
+2022,2021,Jharkhand,Dumka,3.22,3.69,-0.47,-12.62,STABLE
+2022,2021,Punjab,Tarn Taran,2.87,3.34,-0.47,-14.06,STABLE
+2023,2022,Rajasthan,Bundi,31.0,31.47,-0.47,-1.48,STABLE
+2023,2022,Telangana,Adilabad,4.89,5.36,-0.47,-8.78,STABLE
+2023,2022,Bihar,Sitamarhi,4.37,4.85,-0.48,-9.92,STABLE
+2023,2022,Chhattisgarh,Jagdalpur,2.33,2.81,-0.48,-17.1,STABLE
+2022,2021,Gujarat,Kachchh East(G),2.21,2.69,-0.48,-17.99,STABLE
+2022,2021,Jharkhand,Lohardagga,2.49,2.97,-0.48,-16.24,STABLE
+2023,2022,Punjab,Jalandhar Rural,2.85,3.33,-0.48,-14.41,STABLE
+2024,2024,Bihar,Aurangabad,1.08,1.57,-0.49,-31.42,STABLE
+2023,2022,Bihar,Bagaha,1.66,2.15,-0.49,-22.91,STABLE
+2024,2023,Bihar,Naugachia,0.72,1.21,-0.49,-40.36,STABLE
+2023,2022,Madhya Pradesh,Chhatarpur,11.15,11.64,-0.49,-4.25,STABLE
+2022,2021,Maharashtra,Thane Commr.,19.23,19.72,-0.49,-2.5,STABLE
+2022,2021,Jharkhand,Chatra,3.92,4.42,-0.5,-11.3,STABLE
+2023,2022,Karnataka,Belagavi District,8.01,8.51,-0.5,-5.93,STABLE
+2022,2021,West Bengal,Islampur,4.14,4.64,-0.5,-10.75,STABLE
+2022,2021,Bihar,Bhojpur,3.63,4.14,-0.51,-12.39,STABLE
+2024,2023,Tamil Nadu,Thirunelveli City,0.25,0.76,-0.51,-67.02,STABLE
+2023,2022,Gujarat,Devbhumi Dwarka,1.07,1.59,-0.52,-32.67,STABLE
+2022,2021,West Bengal,Bangaon,14.87,15.39,-0.52,-3.36,STABLE
+2024,2023,Assam,Charaideo,1.06,1.59,-0.53,-33.13,STABLE
+2022,2021,Chhattisgarh,Janjgir,5.36,5.89,-0.53,-8.94,STABLE
+2022,2021,Kerala,Kollam Rural,8.02,8.55,-0.53,-6.15,STABLE
+2022,2021,Madhya Pradesh,Niwari,3.18,3.71,-0.53,-14.3,STABLE
+2023,2022,Tamil Nadu,Cuddalore,1.94,2.47,-0.53,-21.44,STABLE
+2023,2022,Tripura,Sipahijala,4.08,4.61,-0.53,-11.47,STABLE
+2024,2023,Uttarakhand,Uttarkashi,1.58,2.11,-0.53,-25.03,STABLE
+2023,2022,Madhya Pradesh,Tikamgarh,6.56,7.1,-0.54,-7.61,STABLE
+2022,2021,Maharashtra,Ratnagiri,1.18,1.72,-0.54,-31.51,STABLE
+2024,2023,Punjab,Ferozepur,2.61,3.15,-0.54,-17.1,STABLE
+2023,2022,Uttarakhand,Pithoragarh,4.14,4.68,-0.54,-11.48,STABLE
+2023,2022,Kerala,Kannur Rural,4.17,4.72,-0.55,-11.69,STABLE
+2023,2022,Maharashtra,Raigad,2.05,2.6,-0.55,-21.29,STABLE
+2022,2021,Odisha,Sonepur,2.5,3.05,-0.55,-18.07,STABLE
+2024,2023,Tamil Nadu,Vellore,0.09,0.64,-0.55,-85.95,STABLE
+2023,2022,Uttar Pradesh,Bhadohi,0.49,1.04,-0.55,-52.74,STABLE
+2024,2023,Karnataka,Bagalkot,0.87,1.43,-0.56,-39.01,STABLE
+2022,2021,Bihar,Kishanganj,3.29,3.86,-0.57,-14.72,STABLE
+2023,2022,Gujarat,Amreli,3.39,3.96,-0.57,-14.45,STABLE
+2024,2023,Kerala,Trivandrum Commr,4.96,5.53,-0.57,-10.28,STABLE
+2023,2022,Tamil Nadu,Sivagangai,1.16,1.73,-0.57,-33.06,STABLE
+2022,2021,Tamil Nadu,Thiruvannamalai,0.65,1.23,-0.58,-47.05,STABLE
+2024,2023,Tamil Nadu,Trichy City,0.43,1.01,-0.58,-57.46,STABLE
+2023,2022,Uttar Pradesh,Badaun,20.51,21.09,-0.58,-2.76,STABLE
+2023,2022,Arunachal Pradesh,Lohit,0.6,1.19,-0.59,-49.72,STABLE
+2022,2021,Bihar,Jamui,1.63,2.22,-0.59,-26.67,STABLE
+2022,2021,Gujarat,Narmada,1.03,1.62,-0.59,-36.44,STABLE
+2023,2022,Haryana,Gurugram,48.36,48.95,-0.59,-1.21,STABLE
+2023,2022,Jharkhand,Dumka,2.63,3.22,-0.59,-18.43,STABLE
+2023,2022,Jharkhand,Gumla,5.09,5.68,-0.59,-10.43,STABLE
+2022,2021,Assam,RPO,0.0,0.6,-0.6,-100.0,STABLE
+2023,2022,Gujarat,Porbandar,1.63,2.23,-0.6,-26.84,STABLE
+2023,2022,Jammu & Kashmir,Kupwara,4.1,4.7,-0.6,-12.69,STABLE
+2022,2021,Manipur,Chandel,0.0,0.6,-0.6,-100.0,STABLE
+2022,2021,Punjab,Total Districts ,132.52,133.12,-0.6,-0.45,STABLE
+2023,2022,Maharashtra,Satara,6.37,6.98,-0.61,-8.7,STABLE
+2024,2023,Bihar,Bagaha,1.04,1.66,-0.62,-37.5,STABLE
+2022,2021,Bihar,Purnea,4.63,5.25,-0.62,-11.86,STABLE
+2022,2021,Gujarat,Kachchh West(B),2.07,2.69,-0.62,-23.19,STABLE
+2022,2021,Gujarat,Sabarkantha,1.97,2.59,-0.62,-23.97,STABLE
+2022,2021,Jammu & Kashmir,Pulwama,1.24,1.86,-0.62,-33.4,STABLE
+2024,2023,Ladakh,Kargil,1.85,2.47,-0.62,-25.11,STABLE
+2022,2021,Madhya Pradesh,Damoh,14.17,14.79,-0.62,-4.18,STABLE
+2022,2021,Uttar Pradesh,Saharanpur,10.79,11.41,-0.62,-5.47,STABLE
+2024,2023,Karnataka,Dakshina Kannada,0.87,1.5,-0.63,-41.93,STABLE
+2022,2021,Karnataka,Kodagu,5.02,5.65,-0.63,-11.08,STABLE
+2024,2023,Gujarat,Jamnagar,1.65,2.29,-0.64,-28.09,STABLE
+2023,2022,Kerala,Malappuram,14.29,14.93,-0.64,-4.26,STABLE
+2023,2022,Haryana,Yamunanagar,32.44,33.09,-0.65,-1.95,STABLE
+2022,2021,Punjab,Fazilka,5.11,5.76,-0.65,-11.31,STABLE
+2024,2023,Tamil Nadu,Sivagangai,0.51,1.16,-0.65,-55.85,STABLE
+2024,2023,Tamil Nadu,Trichy,1.48,2.13,-0.65,-30.52,STABLE
+2022,2021,Uttar Pradesh,Fatehgarh,5.99,6.64,-0.65,-9.81,STABLE
+2023,2022,West Bengal,Darjeeling,2.72,3.37,-0.65,-19.32,STABLE
+2023,2022,Bihar,Nalanda,4.14,4.8,-0.66,-13.83,STABLE
+2024,2023,Bihar,Sheohar,1.59,2.25,-0.66,-29.42,STABLE
+2023,2022,Gujarat,Navsari,0.78,1.44,-0.66,-45.79,STABLE
+2022,2021,Jharkhand,Godda,6.29,6.95,-0.66,-9.51,STABLE
+2023,2022,Jharkhand,Godda,5.63,6.29,-0.66,-10.48,STABLE
+2023,2022,Madhya Pradesh,Rewa,11.4,12.06,-0.66,-5.47,STABLE
+2023,2022,Bihar,Bhojpur,2.96,3.63,-0.67,-18.53,STABLE
+2024,2023,Bihar,Supaul,1.01,1.68,-0.67,-39.79,STABLE
+2024,2023,Jharkhand,Jamshedpur,8.13,8.8,-0.67,-7.59,STABLE
+2024,2023,Karnataka,KGF,0.62,1.29,-0.67,-51.88,STABLE
+2023,2022,Maharashtra,Buldhana,8.14,8.81,-0.67,-7.59,STABLE
+2024,2023,Uttarakhand,Champawat,4.02,4.69,-0.67,-14.26,STABLE
+2022,2021,West Bengal,Coochbehar,14.87,15.54,-0.67,-4.34,STABLE
+2022,2021,Assam,Majuli,2.04,2.72,-0.68,-24.93,STABLE
+2023,2022,Assam,Majuli,1.36,2.04,-0.68,-33.27,STABLE
+2023,2022,Assam,Sadia,0.53,1.21,-0.68,-56.12,STABLE
+2024,2023,Bihar,Begusarai,1.81,2.49,-0.68,-27.26,STABLE
+2023,2022,Karnataka,Raichur,5.86,6.54,-0.68,-10.36,STABLE
+2024,2023,Jammu & Kashmir,Baramulla,3.06,3.76,-0.7,-18.59,STABLE
+2024,2023,Punjab,Moga,3.14,3.84,-0.7,-18.28,STABLE
+2022,2021,Uttar Pradesh,Chitrakoot,5.17,5.87,-0.7,-12.0,STABLE
+2023,2022,Andhra Pradesh,Srikakulam,11.84,12.55,-0.71,-5.63,STABLE
+2024,2023,Bihar,Nawadah,1.57,2.28,-0.71,-31.26,STABLE
+2022,2021,Punjab,Khanna,2.26,2.97,-0.71,-23.91,STABLE
+2023,2022,Tamil Nadu,Chennai,1.98,2.69,-0.71,-26.52,STABLE
+2022,2021,Bihar,Buxar,2.9,3.62,-0.72,-19.85,STABLE
+2023,2022,Gujarat,Mehsana,2.04,2.76,-0.72,-26.19,STABLE
+2024,2023,Gujarat,Patan,2.52,3.24,-0.72,-22.12,STABLE
+2024,2023,A&N Islands,South Andaman,5.84,6.57,-0.73,-11.15,STABLE
+2022,2021,Bihar,Saran,3.56,4.29,-0.73,-17.03,STABLE
+2023,2022,Maharashtra,Navi Mumbai,9.01,9.74,-0.73,-7.54,STABLE
+2024,2023,Manipur,Bishnupur,0.0,0.73,-0.73,-100.0,STABLE
+2023,2022,Odisha,Sonepur,1.77,2.5,-0.73,-29.26,STABLE
+2023,2022,Chhattisgarh,Balodbazar,2.02,2.76,-0.74,-26.75,STABLE
+2023,2022,Maharashtra,Pune Rural,3.38,4.12,-0.74,-18.0,STABLE
+2022,2021,Haryana,Karnal,28.25,29.0,-0.75,-2.58,STABLE
+2022,2021,Punjab,Kapurthala,6.08,6.83,-0.75,-10.94,STABLE
+2023,2023,Bihar,Aurangabad,1.67,2.43,-0.76,-31.29,STABLE
+2022,2021,Maharashtra,Kolhapur,6.64,7.4,-0.76,-10.31,STABLE
+2024,2023,Odisha,Gajapati,7.37,8.13,-0.76,-9.31,STABLE
+2024,2023,Tamil Nadu,Avadi,0.61,1.37,-0.76,-55.54,STABLE
+2022,2021,Arunachal Pradesh,Tirap,0.78,1.55,-0.77,-49.78,STABLE
+2023,2022,Punjab,SBS Nagar,2.14,2.91,-0.77,-26.48,STABLE
+2023,2022,West Bengal,Purab Medinipur,20.0,20.77,-0.77,-3.71,STABLE
+2023,2022,Arunachal Pradesh,Tirap,0.0,0.78,-0.78,-100.0,STABLE
+2023,2022,Karnataka,Bagalkot,1.43,2.21,-0.78,-35.26,STABLE
+2022,2021,Madhya Pradesh,Tikamgarh,7.1,7.88,-0.78,-9.93,STABLE
+2024,2023,Tamil Nadu,Krishnagiri,0.56,1.34,-0.78,-58.26,STABLE
+2024,2023,Chhattisgarh,Gariyaband,1.91,2.7,-0.79,-29.38,STABLE
+2023,2022,Gujarat,Anand,1.41,2.2,-0.79,-35.97,STABLE
+2023,2022,Gujarat,Bhavnagar,2.35,3.14,-0.79,-25.15,STABLE
+2023,2022,Punjab,Mansa,4.29,5.08,-0.79,-15.61,STABLE
+2024,2023,Bihar,Kaimur(Bhabhua),2.57,3.37,-0.8,-23.7,STABLE
+2023,2022,Bihar,Sheohar,2.25,3.05,-0.8,-26.17,STABLE
+2023,2022,Himachal Pradesh,Kullu,2.58,3.38,-0.8,-23.57,STABLE
+2022,2021,Tripura,Total Districts ,38.11,38.91,-0.8,-2.04,STABLE
+2023,2022,Bihar,Muzaffarpur,3.57,4.38,-0.81,-18.55,STABLE
+2022,2021,Chhattisgarh,Balrampur,3.44,4.25,-0.81,-19.05,STABLE
+2023,2022,Haryana,Kaithal,14.08,14.89,-0.81,-5.46,STABLE
+2022,2021,Maharashtra,Amravati Rural,7.23,8.04,-0.81,-10.05,STABLE
+2024,2023,Tamil Nadu,Cuddalore,1.13,1.94,-0.81,-41.61,STABLE
+2024,2023,Telangana,Narayanpet,0.82,1.63,-0.81,-49.8,STABLE
+2023,2022,Uttar Pradesh,Sambhal,10.72,11.53,-0.81,-7.06,STABLE
+2022,2021,West Bengal,Murshidabad Police District,34.35,35.16,-0.81,-2.31,STABLE
+2024,2023,Assam,Karbi Anglong,1.0,1.82,-0.82,-45.01,STABLE
+2023,2022,Karnataka,Koppal,5.94,6.76,-0.82,-12.09,STABLE
+2024,2023,Manipur,Kakching,0.0,0.82,-0.82,-100.0,STABLE
+2024,2023,Assam,Majuli,0.53,1.36,-0.83,-60.99,STABLE
+2024,2023,Gujarat,Morbi,0.45,1.28,-0.83,-64.8,STABLE
+2024,2023,Jammu & Kashmir,Handwara,0.42,1.25,-0.83,-66.48,STABLE
+2023,2022,Jammu & Kashmir,Reasi,5.25,6.08,-0.83,-13.65,STABLE
+2024,2023,Manipur,Thoubal,0.82,1.65,-0.83,-50.24,STABLE
+2022,2021,Punjab,Batala,3.45,4.28,-0.83,-19.33,STABLE
+2023,2022,Andhra Pradesh,Alluri Sitharama Raju,1.31,2.15,-0.84,-38.95,STABLE
+2022,2021,Himachal Pradesh,Chamba,4.19,5.03,-0.84,-16.63,STABLE
+2023,2022,Jammu & Kashmir,Bandipora,1.39,2.23,-0.84,-37.59,STABLE
+2022,2021,Jammu & Kashmir,Sopore,1.39,2.23,-0.84,-37.59,STABLE
+2024,2023,Karnataka,Yadgiri,1.68,2.52,-0.84,-33.35,STABLE
+2024,2023,Punjab,Amritsar Rural,1.36,2.2,-0.84,-38.17,STABLE
+2024,2023,Tamil Nadu,Ramnathapuram,0.32,1.16,-0.84,-72.3,STABLE
+2024,2023,Uttar Pradesh,Deoria,0.45,1.29,-0.84,-65.11,STABLE
+2022,2021,Uttarakhand,Pauri Garhwal,6.13,6.97,-0.84,-12.0,STABLE
+2022,2021,Chhattisgarh,Mungali,1.59,2.44,-0.85,-34.82,STABLE
+2022,2021,Jammu & Kashmir,Kathua,4.09,4.94,-0.85,-17.16,STABLE
+2022,2021,Jharkhand,Garhwa,7.63,8.48,-0.85,-10.03,STABLE
+2024,2023,Odisha,Baragarh,5.37,6.22,-0.85,-13.73,STABLE
+2022,2021,Odisha,Nabarangpur,10.5,11.35,-0.85,-7.5,STABLE
+2023,2022,Uttar Pradesh,Lalitpur,4.7,5.55,-0.85,-15.35,STABLE
+2022,2021,Kerala,Kannur Rural,4.72,5.58,-0.86,-15.46,STABLE
+2023,2022,Odisha,Boudh,2.07,2.93,-0.86,-29.34,STABLE
+2023,2022,Tamil Nadu,Nagapattinam,0.59,1.45,-0.86,-59.38,STABLE
+2024,2023,Tamil Nadu,Pudukottai,0.11,0.97,-0.86,-88.72,STABLE
+2024,2023,Puducherry,Karaikal,0.0,0.87,-0.87,-100.0,STABLE
+2023,2022,Arunachal Pradesh,Namsai,0.0,0.88,-0.88,-100.0,STABLE
+2024,2023,Arunachal Pradesh,Shiyomi,0.0,0.88,-0.88,-100.0,STABLE
+2024,2023,Bihar,Munger,2.92,3.81,-0.89,-23.45,STABLE
+2023,2022,Madhya Pradesh,Ratlam,13.75,14.64,-0.89,-6.09,STABLE
+2023,2022,Bihar,Katihar,2.44,3.34,-0.9,-26.97,STABLE
+2023,2022,Chhattisgarh,Kabirdham,2.28,3.18,-0.9,-28.34,STABLE
+2022,2021,Karnataka,Yadgiri,2.69,3.59,-0.9,-24.97,STABLE
+2022,2021,Telangana,Karimnagar Commissionerate,7.04,7.94,-0.9,-11.35,STABLE
+2023,2022,Andhra Pradesh,Dr BR Ambedkar Konaseema,8.4,9.31,-0.91,-9.73,STABLE
+2023,2022,Jharkhand,Jamshedpur,8.8,9.71,-0.91,-9.35,STABLE
+2023,2022,Jharkhand,Sahebganj,3.94,4.85,-0.91,-18.83,STABLE
+2023,2022,Rajasthan,Jaisalmer,11.55,12.46,-0.91,-7.31,STABLE
+2024,2023,Tamil Nadu,Perambalur,1.23,2.15,-0.92,-42.89,STABLE
+2023,2022,Kerala,Kollam Rural,7.09,8.02,-0.93,-11.57,STABLE
+2023,2022,Maharashtra,Wardha,5.15,6.08,-0.93,-15.34,STABLE
+2023,2022,Telangana,Mahabubabad,5.35,6.28,-0.93,-14.81,STABLE
+2023,2022,Telangana,Vikarabad,3.24,4.17,-0.93,-22.26,STABLE
+2024,2023,Arunachal Pradesh,Kurung Kumey,0.0,0.94,-0.94,-100.0,STABLE
+2022,2021,Bihar,Bettiah,3.3,4.24,-0.94,-22.2,STABLE
+2024,2023,Madhya Pradesh,Betul,7.78,8.72,-0.94,-10.79,STABLE
+2023,2022,Manipur,Ukhrul,0.0,0.95,-0.95,-100.0,STABLE
+2021,2021,Bihar,Aurangabad,2.11,3.08,-0.97,-31.52,STABLE
+2022,2021,Bihar,Bhagalpur,2.35,3.32,-0.97,-29.23,STABLE
+2022,2021,Gujarat,Patan,2.2,3.17,-0.97,-30.62,STABLE
+2023,2022,Jammu & Kashmir,Baramulla,3.76,4.73,-0.97,-20.56,STABLE
+2023,2022,Tamil Nadu,Trichy,2.13,3.1,-0.97,-31.4,STABLE
+2023,2022,Uttarakhand,Almora,2.1,3.07,-0.97,-31.67,STABLE
+2022,2021,Bihar,Motihari,6.92,7.9,-0.98,-12.36,STABLE
+2023,2022,Jammu & Kashmir,Budgam,3.34,4.32,-0.98,-22.6,STABLE
+2023,2022,Rajasthan,Kota Rural,11.9,12.88,-0.98,-7.61,STABLE
+2024,2023,Tamil Nadu,Thanjavur,0.83,1.81,-0.98,-54.07,STABLE
+2022,2021,Uttar Pradesh,Raibareilly,5.86,6.84,-0.98,-14.28,STABLE
+2024,2023,Bihar,Gaya,3.25,4.24,-0.99,-23.3,STABLE
+2023,2022,Madhya Pradesh,Agar,4.42,5.42,-1.0,-18.43,STABLE
+2024,2023,Tamil Nadu,Dindigul,1.21,2.21,-1.0,-45.36,STABLE
+2023,2022,Uttar Pradesh,Khiri,12.77,13.77,-1.0,-7.26,STABLE
+2023,2022,A&N Islands,Nicobar,0.0,1.01,-1.01,-100.0,STABLE
+2022,2021,A&N Islands,Total Districts ,9.11,10.12,-1.01,-9.97,STABLE
+2024,2023,A&N Islands,Total Districts ,9.11,10.12,-1.01,-9.97,STABLE
+2022,2021,Bihar,Munger,2.23,3.24,-1.01,-31.22,STABLE
+2022,2021,Chhattisgarh,Surajpur,5.04,6.05,-1.01,-16.63,STABLE
+2023,2022,Karnataka,Belagavi City,4.37,5.38,-1.01,-18.74,STABLE
+2023,2022,Madhya Pradesh,Sheopur,9.48,10.49,-1.01,-9.65,STABLE
+2023,2022,Meghalaya,Garo Hills North,0.0,1.01,-1.01,-100.0,STABLE
+2023,2022,Meghalaya,Khasi Hills Eastern West,0.0,1.01,-1.01,-100.0,STABLE
+2023,2022,Punjab,Batala,2.44,3.45,-1.01,-29.18,STABLE
+2024,2023,Punjab,Khanna,0.95,1.96,-1.01,-51.54,STABLE
+2023,2022,Uttar Pradesh,Rampur,4.5,5.51,-1.01,-18.33,STABLE
+2024,2023,Gujarat,Kheda,1.44,2.46,-1.02,-41.41,STABLE
+2023,2022,Karnataka,Bidar,5.36,6.38,-1.02,-16.01,STABLE
+2024,2023,Madhya Pradesh,Tikamgarh,5.54,6.56,-1.02,-15.53,STABLE
+2023,2022,Maharashtra,Dhule,15.98,17.0,-1.02,-6.01,STABLE
+2024,2023,Punjab,Barnala,3.21,4.23,-1.02,-24.19,STABLE
+2023,2022,Punjab,Fatehgarh Sahib,7.24,8.26,-1.02,-12.33,STABLE
+2022,2021,Manipur,Thoubal,1.03,2.06,-1.03,-49.99,STABLE
+2023,2022,Mizoram,Kolasib,1.04,2.07,-1.03,-49.8,STABLE
+2023,2022,Uttar Pradesh,Mau,1.89,2.92,-1.03,-35.21,STABLE
+2024,2023,Andhra Pradesh,West Godavari,1.92,2.96,-1.04,-35.13,STABLE
+2024,2023,Bihar,Bettiah,2.81,3.85,-1.04,-27.01,STABLE
+2022,2021,Himachal Pradesh,Mandi,4.61,5.65,-1.04,-18.46,STABLE
+2024,2023,Mizoram,Kolasib,0.0,1.04,-1.04,-100.0,STABLE
+2023,2022,Uttar Pradesh,Kannauj,27.3,28.34,-1.04,-3.69,STABLE
+2022,2021,Maharashtra,Aurangabad Commr.,8.95,10.01,-1.06,-10.57,STABLE
+2022,2021,Gujarat,Bharuch,2.35,3.42,-1.07,-31.28,STABLE
+2023,2022,Punjab,CP Jalandhar,7.96,9.03,-1.07,-11.84,STABLE
+2022,2021,Punjab,Ropar,2.08,3.15,-1.07,-33.93,STABLE
+2022,2021,Telangana,Siddipet Commissionerate,9.04,10.11,-1.07,-10.58,STABLE
+2024,2023,Maharashtra,Mira Bhayandar Vasai Virar Commr,13.17,14.25,-1.08,-7.59,STABLE
+2022,2021,Bihar,Gopalganj,2.24,3.33,-1.09,-32.66,STABLE
+2023,2022,Karnataka,Shimoga,5.11,6.2,-1.09,-17.6,STABLE
+2024,2023,Punjab,Tarn Taran,1.55,2.64,-1.09,-41.3,STABLE
+2024,2023,Assam,Baksa,1.01,2.11,-1.1,-52.02,STABLE
+2024,2023,Gujarat,Panchmahal,1.04,2.14,-1.1,-51.45,STABLE
+2022,2021,Jharkhand,Hazaribagh,7.17,8.27,-1.1,-13.32,STABLE
+2023,2022,Maharashtra,Chandrapur,8.56,9.66,-1.1,-11.43,STABLE
+2023,2022,Maharashtra,Nandurbar,5.86,6.96,-1.1,-15.85,STABLE
+2023,2022,Manipur,Bishnupur,0.73,1.83,-1.1,-60.14,STABLE
+2022,2021,Rajasthan,Nagaur,20.35,21.45,-1.1,-5.14,STABLE
+2022,2022,Bihar,Aurangabad,2.42,3.53,-1.11,-31.37,STABLE
+2023,2022,Chhattisgarh,Balod,1.22,2.33,-1.11,-47.71,STABLE
+2024,2023,Gujarat,Kachchh East(G),1.38,2.49,-1.11,-44.52,STABLE
+2024,2023,Karnataka,Chikkaballapura,2.56,3.67,-1.11,-30.28,STABLE
+2023,2022,Maharashtra,Pimpri Chinchwad City,11.91,13.02,-1.11,-8.54,STABLE
+2024,2023,Bihar,Samastipur,1.22,2.35,-1.13,-48.01,STABLE
+2024,2023,Uttar Pradesh,Sant Kabirnagar,2.75,3.89,-1.14,-29.27,STABLE
+2023,2022,Andhra Pradesh,Anakapalli,6.03,7.18,-1.15,-16.05,STABLE
+2023,2022,Andhra Pradesh,NTR,27.26,28.41,-1.15,-4.06,STABLE
+2024,2023,Bihar,Bhagalpur,2.23,3.38,-1.15,-33.98,STABLE
+2023,2022,Haryana,Rohtak,26.55,27.7,-1.15,-4.14,STABLE
+2023,2022,Himachal Pradesh,Sirmaur,6.07,7.22,-1.15,-15.94,STABLE
+2024,2023,Maharashtra,Solapur Rural,3.95,5.1,-1.15,-22.48,STABLE
+2022,2021,Telangana,Cyberabad Commissionerate,37.85,39.0,-1.15,-2.96,STABLE
+2022,2021,Tripura,Sipahijala,4.61,5.76,-1.15,-19.97,STABLE
+2022,2021,Chandigarh,Chandigarh,9.39,10.55,-1.16,-10.96,STABLE
+2022,2021,Chandigarh,Total Districts ,9.39,10.55,-1.16,-10.96,STABLE
+2022,2021,Madhya Pradesh,Shivpuri,12.54,13.7,-1.16,-8.49,STABLE
+2023,2022,West Bengal,Malda,19.32,20.48,-1.16,-5.65,STABLE
+2024,2023,Chhattisgarh,Kabirdham,1.11,2.28,-1.17,-51.32,STABLE
+2022,2021,Kerala,Kannur City,6.27,7.44,-1.17,-15.78,STABLE
+2024,2023,Madhya Pradesh,Niwari,1.83,3.0,-1.17,-39.08,STABLE
+2022,2021,Rajasthan,Bhiwadi,25.43,26.6,-1.17,-4.39,STABLE
+2023,2022,Assam,Hailakandi,16.49,17.67,-1.18,-6.7,STABLE
+2022,2021,Himachal Pradesh,Shimla,2.99,4.17,-1.18,-28.23,STABLE
+2023,2022,Telangana,Mulug,0.93,2.11,-1.18,-55.97,STABLE
+2024,2023,Punjab,Batala,1.25,2.44,-1.19,-48.67,STABLE
+2024,2023,Punjab,SBS Nagar,0.95,2.14,-1.19,-55.57,STABLE
+2024,2023,Assam,Bajali,1.06,2.26,-1.2,-53.19,STABLE
+2022,2021,Himachal Pradesh,Solan,1.5,2.7,-1.2,-44.39,STABLE
+2024,2023,Karnataka,Haveri,1.85,3.05,-1.2,-39.3,STABLE
+2023,2022,West Bengal,Krishnagar,16.18,17.38,-1.2,-6.89,STABLE
+2024,2023,Assam,Biswanath,2.72,3.93,-1.21,-30.7,STABLE
+2022,2021,Assam,Hamren,0.68,1.89,-1.21,-63.96,STABLE
+2024,2023,Assam,Hojai,6.26,7.47,-1.21,-16.23,STABLE
+2024,2023,Bihar,Rohtas,2.23,3.44,-1.21,-35.12,STABLE
+2024,2023,Gujarat,Mehsana,0.83,2.04,-1.21,-59.28,STABLE
+2024,2023,Jharkhand,Koderma,1.76,2.97,-1.21,-40.8,STABLE
+2023,2022,Kerala,Kasargod,4.25,5.46,-1.21,-22.18,STABLE
+2023,2022,Assam,Golaghat,3.67,4.89,-1.22,-24.95,STABLE
+2023,2022,Chhattisgarh,Raipur,5.2,6.42,-1.22,-18.99,STABLE
+2022,2021,Jharkhand,Bokaro,5.78,7.0,-1.22,-17.42,STABLE
+2023,2022,Jharkhand,Deoghar,4.14,5.36,-1.22,-22.79,STABLE
+2022,2021,Maharashtra,Gadchiroli,2.51,3.73,-1.22,-32.67,STABLE
+2024,2023,Bihar,Siwan,1.15,2.38,-1.23,-51.6,STABLE
+2023,2022,Maharashtra,Kolhapur,5.41,6.64,-1.23,-18.53,STABLE
+2024,2023,Gujarat,Kachchh West(B),1.14,2.38,-1.24,-52.18,STABLE
+2024,2023,Jammu & Kashmir,Pulwama,0.62,1.86,-1.24,-66.7,STABLE
+2023,2022,Kerala,Pathanamthitta,8.93,10.17,-1.24,-12.17,STABLE
+2022,2021,Telangana,Khammam Commissionerate,8.45,9.69,-1.24,-12.77,STABLE
+2024,2023,Bihar,Muzaffarpur,2.32,3.57,-1.25,-34.98,STABLE
+2023,2022,Karnataka,Chikkaballapura,3.67,4.92,-1.25,-25.39,STABLE
+2022,2021,Punjab,Ferozepur,2.49,3.74,-1.25,-33.46,STABLE
+2022,2021,Haryana,Sonipat,31.72,32.98,-1.26,-3.83,STABLE
+2023,2022,Assam,Dhemaji,6.84,8.11,-1.27,-15.67,STABLE
+2024,2023,Mizoram,Hnahthial,0.0,1.27,-1.27,-100.0,STABLE
+2022,2021,Mizoram,Khawzawl,0.0,1.27,-1.27,-100.0,STABLE
+2023,2022,Telangana,Ramagundam Commissionerate,15.74,17.01,-1.27,-7.46,STABLE
+2023,2022,Assam,Charaideo,1.59,2.87,-1.28,-44.57,STABLE
+2024,2023,Bihar,Saharsa,0.69,1.97,-1.28,-64.93,STABLE
+2024,2023,Gujarat,Sabarkantha,0.59,1.87,-1.28,-68.38,STABLE
+2024,2023,Odisha,Jagatsinghpur,7.69,8.97,-1.28,-14.28,STABLE
+2023,2022,Punjab,Kapurthala,4.8,6.08,-1.28,-21.06,STABLE
+2023,2022,Rajasthan,Dausa,25.06,26.34,-1.28,-4.84,STABLE
+2024,2023,Bihar,Araria,2.85,4.14,-1.29,-31.23,STABLE
+2024,2023,Gujarat,Bharuch,1.57,2.86,-1.29,-45.09,STABLE
+2023,2022,Maharashtra,Yavatmal,13.33,14.62,-1.29,-8.8,STABLE
+2023,2022,Madhya Pradesh,Narsinghpur,9.13,10.43,-1.3,-12.42,STABLE
+2023,2022,Uttar Pradesh,Ayodhya,1.52,2.82,-1.3,-46.07,STABLE
+2023,2022,Uttar Pradesh,Gautambudh Nagar,10.17,11.47,-1.3,-11.33,STABLE
+2024,2023,Jharkhand,Bokaro,2.11,3.42,-1.31,-38.22,STABLE
+2024,2023,Maharashtra,Pune Rural,2.07,3.38,-1.31,-38.67,STABLE
+2023,2022,Chhattisgarh,Koriya,3.43,4.75,-1.32,-27.8,STABLE
+2023,2022,Himachal Pradesh,Kangra,2.71,4.03,-1.32,-32.77,STABLE
+2023,2022,Assam,Lakhimpur,12.52,13.85,-1.33,-9.61,STABLE
+2022,2021,Delhi,SPUWAC,4.53,5.86,-1.33,-22.64,STABLE
+2024,2023,Jharkhand,Godda,4.3,5.63,-1.33,-23.58,STABLE
+2023,2022,Jharkhand,Koderma,2.97,4.31,-1.34,-31.05,STABLE
+2022,2021,Odisha,Gajapati,7.37,8.73,-1.36,-15.56,STABLE
+2023,2022,Assam,Baksa,2.11,3.48,-1.37,-39.33,STABLE
+2024,2023,Karnataka,Dharwad,0.47,1.84,-1.37,-74.4,STABLE
+2023,2022,Madhya Pradesh,Panna,13.0,14.37,-1.37,-9.54,STABLE
+2023,2022,West Bengal,Jalpaiguri,6.22,7.59,-1.37,-18.04,STABLE
+2023,2022,Chhattisgarh,Sarangarh-Bilaigarh,1.54,2.92,-1.38,-47.2,STABLE
+2023,2022,Madhya Pradesh,Burhanpur,15.6,16.98,-1.38,-8.14,STABLE
+2022,2021,Mizoram,Champhai,0.0,1.38,-1.38,-100.0,STABLE
+2023,2022,Maharashtra,Sangli,6.19,7.58,-1.39,-18.34,STABLE
+2024,2023,Punjab,Kapurthala,3.41,4.8,-1.39,-28.96,STABLE
+2024,2023,Tamil Nadu,Dharmapuri,0.4,1.79,-1.39,-77.64,STABLE
+2023,2022,Tamil Nadu,Karur,0.65,2.04,-1.39,-68.17,STABLE
+2022,2021,Haryana,Hissar,29.22,30.62,-1.4,-4.58,STABLE
+2022,2021,Haryana,Mahendergarh,10.38,11.78,-1.4,-11.87,STABLE
+2024,2023,Odisha,Boudh,0.67,2.07,-1.4,-67.71,STABLE
+2024,2023,Gujarat,Bhavnagar,0.94,2.35,-1.41,-60.08,STABLE
+2023,2022,Rajasthan,Chittorgarh,24.26,25.67,-1.41,-5.5,STABLE
+2024,2023,Telangana,Jogulamba Gadwal,0.59,2.0,-1.41,-70.49,STABLE
+2024,2023,Uttar Pradesh,Balrampur,1.62,3.04,-1.42,-46.63,STABLE
+2024,2023,Bihar,Bhojpur,1.53,2.96,-1.43,-48.38,STABLE
+2023,2022,Chhattisgarh,Sakti,2.28,3.71,-1.43,-38.58,STABLE
+2024,2023,Gujarat,Vadodara City,1.71,3.15,-1.44,-45.75,STABLE
+2023,2022,Karnataka,Kalaburgi,5.1,6.55,-1.45,-22.19,STABLE
+2023,2022,Odisha,Ganjam,24.47,25.92,-1.45,-5.6,STABLE
+2024,2023,Rajasthan,Dudu,1.69,3.14,-1.45,-46.15,STABLE
+2022,2021,Haryana,Nuh,12.88,14.35,-1.47,-10.27,STABLE
+2024,2024,Himachal Pradesh,Hamirpur,1.02,2.49,-1.47,-58.97,STABLE
+2022,2021,Manipur,Bishnupur,1.83,3.3,-1.47,-44.49,STABLE
+2023,2022,Uttar Pradesh,Ghazipur,5.76,7.23,-1.47,-20.33,STABLE
+2024,2023,Bihar,Madhepura,1.26,2.74,-1.48,-53.96,STABLE
+2024,2023,Jammu & Kashmir,Jammu,6.25,7.73,-1.48,-19.14,STABLE
+2022,2021,Mizoram,Lawngtlai,0.0,1.48,-1.48,-100.0,STABLE
+2022,2021,Chhattisgarh,Bemetra,1.43,2.92,-1.49,-50.97,STABLE
+2022,2021,Odisha,Puri,9.16,10.65,-1.49,-13.97,STABLE
+2024,2023,Rajasthan,Phalodi,2.41,3.9,-1.49,-38.25,STABLE
+2024,2023,West Bengal,Islampur,1.13,2.62,-1.49,-56.95,STABLE
+2024,2023,Himachal Pradesh,Una,4.34,5.84,-1.5,-25.68,STABLE
+2024,2023,Tripura,Kowai,0.8,2.3,-1.5,-65.28,STABLE
+2023,2022,Himachal Pradesh,Chamba,2.68,4.19,-1.51,-36.01,STABLE
+2024,2023,Punjab,Gurdaspur,1.02,2.53,-1.51,-59.76,STABLE
+2022,2021,Tripura,Unakoti,5.05,6.56,-1.51,-23.0,STABLE
+2022,2021,Mizoram,Aizawl,2.82,4.34,-1.52,-35.09,STABLE
+2023,2022,Odisha,Rayagada,7.82,9.34,-1.52,-16.3,STABLE
+2023,2022,West Bengal,Islampur,2.62,4.14,-1.52,-36.73,STABLE
+2023,2022,Andhra Pradesh,Eluru,14.03,15.56,-1.53,-9.84,STABLE
+2024,2023,Gujarat,Rajkot Rural,0.69,2.22,-1.53,-68.88,STABLE
+2022,2021,Maharashtra,Akola,13.47,15.0,-1.53,-10.23,STABLE
+2024,2023,Gujarat,Amreli,1.84,3.39,-1.55,-45.69,STABLE
+2024,2023,Karnataka,Gadag,1.31,2.86,-1.55,-54.18,STABLE
+2023,2022,Madhya Pradesh,Raisen,12.6,14.17,-1.57,-11.08,STABLE
+2022,2021,Assam,Charaideo,2.87,4.45,-1.58,-35.56,STABLE
+2022,2021,Kerala,Alapuzha,7.96,9.54,-1.58,-16.56,STABLE
+2023,2022,Madhya Pradesh,Indore Commissionarate,40.7,42.29,-1.59,-3.76,STABLE
+2023,2022,Odisha,Jagatsinghpur,8.97,10.56,-1.59,-15.04,STABLE
+2022,2021,Chhattisgarh,Mahasamund,2.02,3.62,-1.6,-44.21,STABLE
+2022,2021,West Bengal,Basirhat,15.02,16.63,-1.61,-9.69,STABLE
+2024,2023,Gujarat,Gandhinagar,2.0,3.62,-1.62,-44.81,STABLE
+2022,2021,Mizoram,Lunglei,0.0,1.62,-1.62,-100.0,STABLE
+2022,2021,Odisha,Cuttack,4.01,5.63,-1.62,-28.81,STABLE
+2022,2021,Odisha,Rayagada,9.34,10.96,-1.62,-14.78,STABLE
+2024,2023,Assam,Dima Hasao,0.81,2.44,-1.63,-66.76,STABLE
+2023,2022,Jammu & Kashmir,Samba,4.64,6.27,-1.63,-26.02,STABLE
+2023,2022,Punjab,Bathinda,6.26,7.89,-1.63,-20.67,STABLE
+2022,2021,Telangana,Kamareddy ,5.89,7.52,-1.63,-21.67,STABLE
+2023,2022,Bihar,Sheikhpura,2.87,4.51,-1.64,-36.36,STABLE
+2024,2023,Chhattisgarh,Durg,3.61,5.25,-1.64,-31.28,STABLE
+2022,2021,Jammu & Kashmir,Samba,6.27,7.91,-1.64,-20.71,STABLE
+2024,2023,Madhya Pradesh,Bhopal Rural,0.95,2.6,-1.65,-63.52,STABLE
+2024,2023,Rajasthan,Jodhpur Rural,3.23,4.88,-1.65,-33.84,STABLE
+2024,2023,Tamil Nadu,Thiruvarur,0.41,2.06,-1.65,-80.13,STABLE
+2024,2023,Punjab,Fazilka,4.93,6.59,-1.66,-25.23,STABLE
+2024,2023,Uttarakhand,Pauri Garhwal,2.37,4.04,-1.67,-41.34,STABLE
+2022,2021,Haryana,Faridabad,28.64,30.32,-1.68,-5.54,STABLE
+2023,2022,Meghalaya,Garo Hills East,0.34,2.02,-1.68,-83.13,STABLE
+2022,2021,Odisha,Dhenkanal,11.66,13.34,-1.68,-12.6,STABLE
+2022,2022,Himachal Pradesh,Hamirpur,1.18,2.87,-1.69,-58.86,STABLE
+2022,2021,Karnataka,Chikkamagaluru,3.02,4.71,-1.69,-35.82,STABLE
+2022,2021,Madhya Pradesh,Mandsaur,9.99,11.68,-1.69,-14.45,STABLE
+2022,2021,Odisha,Mayurbhanj,15.98,17.67,-1.69,-9.56,STABLE
+2024,2023,Karnataka,Udupi,2.07,3.77,-1.7,-45.04,STABLE
+2023,2022,Andhra Pradesh,Vizianagaram,11.35,13.06,-1.71,-13.06,STABLE
+2024,2023,Bihar,Banka,0.85,2.56,-1.71,-66.85,STABLE
+2023,2022,Madhya Pradesh,Gwalior,32.01,33.72,-1.71,-5.07,STABLE
+2024,2023,Bihar,Vaishali,1.94,3.66,-1.72,-46.96,STABLE
+2023,2022,Jammu & Kashmir,Udhampur,5.33,7.05,-1.72,-24.4,STABLE
+2024,2023,Nagaland,Longleng,0.0,1.72,-1.72,-100.0,STABLE
+2024,2023,Madhya Pradesh,Mandla,6.51,8.24,-1.73,-21.02,STABLE
+2023,2022,West Bengal,Barrackpur PC,29.53,31.27,-1.74,-5.57,STABLE
+2023,2022,Madhya Pradesh,Anuppur,13.11,14.86,-1.75,-11.75,STABLE
+2023,2022,Maharashtra,Nasik Rural,18.32,20.07,-1.75,-8.74,STABLE
+2022,2021,Arunachal Pradesh,Kameng West,0.88,2.65,-1.77,-66.79,STABLE
+2023,2022,Arunachal Pradesh,Lower Siang,0.88,2.65,-1.77,-66.79,STABLE
+2022,2021,Arunachal Pradesh,Pakkessang,0.0,1.77,-1.77,-100.0,STABLE
+2022,2021,Arunachal Pradesh,Siang East,0.88,2.65,-1.77,-66.79,STABLE
+2023,2022,Odisha,Rourkela,7.75,9.52,-1.77,-18.6,STABLE
+2023,2022,Telangana,Rachakonda Commissionerate,51.39,53.17,-1.78,-3.35,STABLE
+2023,2022,Andhra Pradesh,East Godavari,10.02,11.81,-1.79,-15.15,STABLE
+2024,2023,Karnataka,Chikkamagaluru,1.18,2.97,-1.79,-60.26,STABLE
+2022,2021,Kerala,Palakkad,10.68,12.47,-1.79,-14.36,STABLE
+2023,2022,Rajasthan,Churu,24.0,25.79,-1.79,-6.96,STABLE
+2023,2023,Himachal Pradesh,Hamirpur,1.26,3.06,-1.8,-58.82,STABLE
+2023,2022,Maharashtra,Jalgaon,10.9,12.7,-1.8,-14.2,STABLE
+2024,2023,Uttarakhand,Pithoragarh,2.34,4.14,-1.8,-43.44,STABLE
+2024,2023,Uttar Pradesh,Hathras,1.88,3.69,-1.81,-49.1,STABLE
+2024,2023,Bihar,Jamui,1.73,3.56,-1.83,-51.36,STABLE
+2023,2022,Delhi,New Delhi,17.15,18.98,-1.83,-9.66,STABLE
+2024,2023,Madhya Pradesh,Chhindwara,5.57,7.4,-1.83,-24.76,STABLE
+2024,2023,Delhi,New Delhi,15.31,17.15,-1.84,-10.71,STABLE
+2023,2022,Karnataka,Mysuru District,5.27,7.11,-1.84,-25.92,STABLE
+2023,2022,Madhya Pradesh,Shajapur,8.22,10.06,-1.84,-18.29,STABLE
+2023,2022,Punjab,Pathankot,1.01,2.85,-1.84,-64.58,STABLE
+2022,2021,Madhya Pradesh,Anuppur,14.86,16.71,-1.85,-11.09,STABLE
+2022,2021,Odisha,Nuapada,5.7,7.55,-1.85,-24.51,STABLE
+2024,2023,Madhya Pradesh,Dhar,7.68,9.55,-1.87,-19.56,STABLE
+2023,2022,Uttar Pradesh,Hathras,3.69,5.57,-1.88,-33.78,STABLE
+2024,2023,Bihar,Buxar,1.32,3.21,-1.89,-58.89,STABLE
+2023,2022,Haryana,Hissar,27.31,29.22,-1.91,-6.55,STABLE
+2024,2023,Jammu & Kashmir,Doda,7.21,9.12,-1.91,-20.95,STABLE
+2024,2023,Telangana,Wanaparthy,0.0,1.91,-1.91,-100.0,STABLE
+2023,2022,Assam,Nalbari,14.76,16.68,-1.92,-11.5,STABLE
+2024,2023,Rajasthan,Sanchore,3.7,5.63,-1.93,-34.32,STABLE
+2024,2023,Maharashtra,Amravati Commr,3.8,5.74,-1.94,-33.75,STABLE
+2024,2023,Punjab,Sangrur,2.05,3.99,-1.94,-48.66,STABLE
+2022,2021,Jammu & Kashmir,Baramulla,4.73,6.68,-1.95,-29.21,STABLE
+2024,2023,Madhya Pradesh,Agar,2.47,4.42,-1.95,-44.08,STABLE
+2023,2022,Maharashtra,Bhandara,3.48,5.43,-1.95,-35.95,STABLE
+2024,2023,Uttar Pradesh,Barabanki,0.71,2.66,-1.95,-73.28,STABLE
+2024,2023,Jharkhand,Khunti,5.56,7.52,-1.96,-26.07,STABLE
+2024,2023,Ladakh,Leh,0.65,2.61,-1.96,-75.05,STABLE
+2023,2022,Maharashtra,Ahmednagar,15.13,17.09,-1.96,-11.47,STABLE
+2024,2023,Punjab,NRI Wing,0.48,2.44,-1.96,-80.29,STABLE
+2024,2023,Bihar,Khagaria,1.36,3.34,-1.98,-59.27,STABLE
+2024,2023,Punjab,Jalandhar Rural,0.87,2.85,-1.98,-69.52,STABLE
+2023,2022,Uttarakhand,Chamoli,0.89,2.89,-2.0,-69.17,STABLE
+2024,2023,Meghalaya,Jaintia Hills West,2.02,4.03,-2.01,-49.89,STABLE
+2022,2021,Mizoram,Mamit,0.0,2.01,-2.01,-100.0,STABLE
+2024,2023,Punjab,Malerkotla,0.48,2.49,-2.01,-80.76,STABLE
+2023,2022,Uttarakhand,Bageshwar,3.01,5.02,-2.01,-40.02,STABLE
+2024,2023,Maharashtra,Dharashiv,2.6,4.62,-2.02,-43.77,STABLE
+2022,2021,Odisha,Kandhamal,15.06,17.08,-2.02,-11.83,STABLE
+2023,2022,Assam,Dima Hasao,2.44,4.47,-2.03,-45.38,STABLE
+2022,2021,Jharkhand,Simdega,4.79,6.82,-2.03,-29.73,STABLE
+2023,2022,Rajasthan,Jhalawar,39.07,41.1,-2.03,-4.94,STABLE
+2022,2021,Telangana,Jagityal,7.74,9.77,-2.03,-20.79,STABLE
+2024,2023,Karnataka,Kolar,0.45,2.49,-2.04,-81.93,STABLE
+2024,2023,Bihar,Sheikhpura,0.82,2.87,-2.05,-71.43,STABLE
+2024,2023,Rajasthan,Gangapur City,6.32,8.37,-2.05,-24.49,STABLE
+2024,2023,Telangana,Mahabubnagar,2.2,4.25,-2.05,-48.26,STABLE
+2024,2023,Telangana,Nirmal,2.03,4.08,-2.05,-50.29,STABLE
+2024,2023,Bihar,Gopalganj,0.54,2.61,-2.07,-79.34,STABLE
+2022,2021,Mizoram,Kolasib,2.07,4.14,-2.07,-50.04,STABLE
+2023,2022,Rajasthan,Banswara,14.8,16.88,-2.08,-12.34,STABLE
+2023,2022,Maharashtra,Jalna,22.9,24.99,-2.09,-8.36,STABLE
+2023,2022,Uttarakhand,Pauri Garhwal,4.04,6.13,-2.09,-34.09,STABLE
+2023,2022,Andhra Pradesh,Kakinada,7.72,9.83,-2.11,-21.43,STABLE
+2022,2021,Uttarakhand,Uttarkashi,4.48,6.59,-2.11,-31.98,STABLE
+2023,2022,Punjab,Muktsar,1.35,3.47,-2.12,-61.11,STABLE
+2023,2022,West Bengal,Paschim Medinipur,6.85,8.97,-2.12,-23.63,STABLE
+2024,2023,Andhra Pradesh,Parvathipuram Manyam,0.47,2.6,-2.13,-81.91,STABLE
+2024,2023,Maharashtra,Wardha,3.01,5.15,-2.14,-41.52,STABLE
+2024,2023,Madhya Pradesh,Indore Rural,2.76,4.91,-2.15,-43.78,STABLE
+2024,2023,Mizoram,Lunglei,0.0,2.15,-2.15,-100.0,STABLE
+2023,2022,Odisha,Kalahandi,14.5,16.65,-2.15,-12.93,STABLE
+2024,2023,West Bengal,Darjeeling,0.57,2.72,-2.15,-79.01,STABLE
+2023,2022,Andhra Pradesh,Sri Potti Sriramulu Nellore,15.49,17.66,-2.17,-12.31,STABLE
+2023,2023,Chhattisgarh,Raigarh,2.84,5.01,-2.17,-43.26,STABLE
+2024,2023,Rajasthan,Salumbar,2.25,4.43,-2.18,-49.17,STABLE
+2022,2021,Uttar Pradesh,Mahoba,3.28,5.46,-2.18,-39.93,STABLE
+2024,2023,Bihar,Sitamarhi,2.18,4.37,-2.19,-50.1,STABLE
+2022,2021,Bihar,Total Districts ,123.59,125.78,-2.19,-1.74,STABLE
+2023,2022,Manipur,Imphal West,2.01,4.2,-2.19,-52.11,STABLE
+2024,2023,Maharashtra,Solapur Commr,3.1,5.3,-2.2,-41.47,STABLE
+2024,2023,Assam,Barpeta,2.82,5.03,-2.21,-43.95,STABLE
+2023,2022,Gujarat,Ahmedabad City,22.77,24.98,-2.21,-8.84,STABLE
+2024,2023,Gujarat,Rajkot City,1.69,3.91,-2.22,-56.76,STABLE
+2022,2021,Himachal Pradesh,Total Districts ,36.79,39.03,-2.24,-5.74,STABLE
+2023,2022,Uttar Pradesh,Mathura,15.19,17.44,-2.25,-12.92,STABLE
+2024,2023,Punjab,Mansa,2.03,4.29,-2.26,-52.71,STABLE
+2024,2023,Telangana,Kumaram Bheem Asifabad,0.56,2.84,-2.28,-80.31,STABLE
+2024,2023,Telangana,Vikarabad,0.96,3.24,-2.28,-70.36,STABLE
+2022,2021,Haryana,Panipat,35.92,38.23,-2.31,-6.05,STABLE
+2024,2023,Punjab,SAS Nagar,8.14,10.45,-2.31,-22.14,STABLE
+2024,2023,Telangana,Nagarkurnool,1.86,4.17,-2.31,-55.37,STABLE
+2022,2021,Punjab,SBS Nagar,2.91,5.23,-2.32,-44.33,STABLE
+2024,2023,Uttarakhand,Bageshwar,0.67,3.01,-2.34,-77.75,STABLE
+2024,2023,Madhya Pradesh,Balaghat,4.14,6.49,-2.35,-36.21,STABLE
+2023,2022,Jharkhand,Bokaro,3.42,5.78,-2.36,-40.79,STABLE
+2024,2023,Maharashtra,Sangli,3.82,6.19,-2.37,-38.32,STABLE
+2023,2022,Uttarakhand,Uttarkashi,2.11,4.48,-2.37,-52.89,STABLE
+2022,2021,Arunachal Pradesh,Lohit,1.19,3.58,-2.39,-66.76,STABLE
+2022,2021,Madhya Pradesh,Gwalior,33.72,36.12,-2.4,-6.64,STABLE
+2023,2022,Tripura,Gomati,4.87,7.27,-2.4,-32.99,STABLE
+2024,2023,Tripura,Sipahijala,1.68,4.08,-2.4,-58.79,STABLE
+2022,2021,Uttar Pradesh,Lucknow Grameen,0.0,2.4,-2.4,-100.0,STABLE
+2022,2021,Karnataka,Ballari,4.2,6.61,-2.41,-36.46,STABLE
+2024,2023,Karnataka,Tumakuru,3.42,5.83,-2.41,-41.3,STABLE
+2022,2021,Rajasthan,Barmer,19.4,21.81,-2.41,-11.04,STABLE
+2023,2022,Telangana,Cyberabad Commissionerate,35.43,37.85,-2.42,-6.39,STABLE
+2024,2023,Rajasthan,Jaipur Rural,2.55,4.99,-2.44,-48.87,STABLE
+2024,2023,Assam,Kokrajhar,5.19,7.65,-2.46,-32.12,STABLE
+2022,2021,Bihar,Madhubani,1.43,3.89,-2.46,-63.29,STABLE
+2024,2023,Maharashtra,Chhatrapati Sambhajinagar Commr,6.58,9.04,-2.46,-27.23,STABLE
+2022,2021,A&N Islands,North & Middle Andaman,0.0,2.47,-2.47,-100.0,STABLE
+2024,2023,Assam,Nagaon,4.03,6.5,-2.47,-37.98,STABLE
+2021,2021,Himachal Pradesh,Hamirpur,1.73,4.21,-2.48,-58.87,STABLE
+2024,2023,Karnataka,Uttara Kannada,1.88,4.36,-2.48,-56.85,STABLE
+2023,2022,Chhattisgarh,Surajpur,2.55,5.04,-2.49,-49.38,STABLE
+2024,2023,Rajasthan,Bhiwadi,6.36,8.85,-2.49,-28.16,STABLE
+2024,2023,Jammu & Kashmir,Kupwara,1.6,4.1,-2.5,-60.94,STABLE
+2023,2022,Jammu & Kashmir,Poonch,4.04,6.54,-2.5,-38.25,STABLE
+2024,2023,Karnataka,Hassan,2.35,4.85,-2.5,-51.51,STABLE
+2023,2022,Rajasthan,Hanumangarh,41.65,44.15,-2.5,-5.66,STABLE
+2023,2022,Madhya Pradesh,Khargone,4.92,7.43,-2.51,-33.76,STABLE
+2022,2022,Chhattisgarh,Raigarh,3.3,5.82,-2.52,-43.3,STABLE
+2022,2021,Gujarat,Total Districts ,96.67,99.19,-2.52,-2.54,STABLE
+2022,2021,Maharashtra,Ahmednagar,17.09,19.61,-2.52,-12.84,STABLE
+2024,2023,Maharashtra,Kolhapur,2.89,5.41,-2.52,-46.55,STABLE
+2023,2022,Uttar Pradesh,Meerut,16.72,19.24,-2.52,-13.1,STABLE
+2024,2023,Assam,Sonitpur,4.84,7.37,-2.53,-34.3,STABLE
+2024,2023,Ladakh,Total Districts ,2.54,5.07,-2.53,-49.93,STABLE
+2023,2022,Tripura,Dhalai,6.67,9.2,-2.53,-27.47,STABLE
+2024,2023,Jammu & Kashmir,Kathua,2.82,5.36,-2.54,-47.39,STABLE
+2022,2021,Ladakh,Total Districts ,3.8,6.34,-2.54,-40.07,STABLE
+2024,2023,Odisha,Sundargarh,1.95,4.49,-2.54,-56.53,STABLE
+2021,2021,Chhattisgarh,Raigarh,3.33,5.88,-2.55,-43.35,STABLE
+2022,2021,Jharkhand,Jamshedpur,9.71,12.26,-2.55,-20.77,STABLE
+2022,2021,Odisha,Balasore,10.68,13.24,-2.56,-19.36,STABLE
+2022,2021,Odisha,Bolangir,7.45,10.01,-2.56,-25.56,STABLE
+2023,2022,Jammu & Kashmir,Rajouri,9.88,12.45,-2.57,-20.66,STABLE
+2024,2023,Madhya Pradesh,Barwani,4.71,7.28,-2.57,-35.29,STABLE
+2023,2022,Odisha,Nabarangpur,7.93,10.5,-2.57,-24.45,STABLE
+2023,2022,Madhya Pradesh,Seoni,11.1,13.68,-2.58,-18.87,STABLE
+2022,2021,Haryana,Kaithal,14.89,17.48,-2.59,-14.83,STABLE
+2022,2021,Punjab,CP Amritsar,4.57,7.19,-2.62,-36.42,STABLE
+2022,2021,Karnataka,Kalaburgi City,3.59,6.22,-2.63,-42.26,STABLE
+2024,2023,Madhya Pradesh,Ratlam,11.12,13.75,-2.63,-19.1,STABLE
+2023,2022,Rajasthan,Kota City,24.11,26.74,-2.63,-9.84,STABLE
+2024,2023,Bihar,Saran,0.7,3.34,-2.64,-79.07,STABLE
+2024,2023,Rajasthan,Barmer,6.98,9.62,-2.64,-27.43,STABLE
+2023,2022,Rajasthan,Rajsamand,26.46,29.1,-2.64,-9.06,STABLE
+2023,2022,Arunachal Pradesh,Kameng East,4.42,7.07,-2.65,-37.46,STABLE
+2023,2022,Arunachal Pradesh,Subansiri Lower,0.0,2.65,-2.65,-100.0,STABLE
+2022,2021,Odisha,Bhadrak,7.97,10.62,-2.65,-24.97,STABLE
+2024,2024,Chhattisgarh,Raigarh,3.5,6.17,-2.67,-43.27,STABLE
+2024,2023,Jammu & Kashmir,Udhampur,2.66,5.33,-2.67,-50.07,STABLE
+2024,2023,Kerala,Pathanamthitta,6.25,8.93,-2.68,-30.03,STABLE
+2024,2023,Gujarat,Junagadh,1.3,3.99,-2.69,-67.45,STABLE
+2024,2023,Rajasthan,Balotra,4.39,7.08,-2.69,-38.01,STABLE
+2023,2022,Andhra Pradesh,Guntur,16.67,19.37,-2.7,-13.96,STABLE
+2023,2022,Madhya Pradesh,Sagar,16.27,18.97,-2.7,-14.25,STABLE
+2024,2023,Madhya Pradesh,Shajapur,5.52,8.22,-2.7,-32.85,STABLE
+2024,2023,Maharashtra,Nasik Commr,3.78,6.5,-2.72,-41.82,STABLE
+2023,2022,D&N Haveli and Daman & Diu,Daman,0.45,3.18,-2.73,-85.87,STABLE
+2022,2021,Jammu & Kashmir,Jammu,6.88,9.61,-2.73,-28.37,STABLE
+2023,2022,Maharashtra,Hingoli,12.48,15.21,-2.73,-17.97,STABLE
+2023,2022,Chhattisgarh,Jashpur,5.11,7.86,-2.75,-35.0,STABLE
+2022,2021,Madhya Pradesh,Alirajpur,4.53,7.28,-2.75,-37.74,STABLE
+2024,2023,Chhattisgarh,Janjgir,4.08,6.84,-2.76,-40.36,STABLE
+2024,2023,West Bengal,Jhargram,0.36,3.12,-2.76,-88.47,STABLE
+2024,2023,Karnataka,Davanagere,1.65,4.42,-2.77,-62.71,STABLE
+2024,2023,Andhra Pradesh,Palnadu,0.9,3.68,-2.78,-75.55,STABLE
+2022,2021,Assam,Sadia,1.21,4.0,-2.79,-69.75,STABLE
+2024,2023,Assam,South Salmara,2.94,5.74,-2.8,-48.75,STABLE
+2022,2021,Jharkhand,Ranchi,8.0,10.8,-2.8,-25.94,STABLE
+2023,2022,Uttar Pradesh,Shrawasti,3.04,5.84,-2.8,-47.92,STABLE
+2024,2023,Tamil Nadu,Madurai City,0.11,2.92,-2.81,-96.23,STABLE
+2023,2022,Haryana,Fatehabad,12.92,15.78,-2.86,-18.15,STABLE
+2021,2021,Maharashtra,Aurangabad Rural,6.25,9.11,-2.86,-31.37,STABLE
+2023,2022,Rajasthan,Jodhpur Rural,4.88,7.74,-2.86,-36.91,STABLE
+2024,2023,Bihar,Nalanda,1.27,4.14,-2.87,-69.32,STABLE
+2022,2021,Kerala,Kasargod,5.46,8.33,-2.87,-34.43,STABLE
+2024,2023,Maharashtra,Nagpur Commr,9.42,12.29,-2.87,-23.36,STABLE
+2022,2021,Odisha,Keonjhar,9.52,12.39,-2.87,-23.16,STABLE
+2024,2023,Jharkhand,Garhwa,7.17,10.06,-2.89,-28.71,STABLE
+2024,2023,Karnataka,Ramanagara,1.93,4.82,-2.89,-59.95,STABLE
+2024,2023,Kerala,Kasargod,1.35,4.25,-2.9,-68.22,STABLE
+2023,2022,Andhra Pradesh,Annamayya,5.56,8.47,-2.91,-34.36,STABLE
+2024,2023,Karnataka,Belagavi City,1.46,4.37,-2.91,-66.59,STABLE
+2023,2022,Delhi,South-East,42.88,45.8,-2.92,-6.38,STABLE
+2023,2022,Tripura,Total Districts ,35.18,38.11,-2.93,-7.68,STABLE
+2022,2021,Rajasthan,Jhunjhunu,25.63,28.57,-2.94,-10.29,STABLE
+2024,2023,Mizoram,Lawngtlai,1.48,4.43,-2.95,-66.56,STABLE
+2024,2023,Telangana,Jayashankar Bhupalpalli,0.68,3.63,-2.95,-81.28,STABLE
+2024,2023,Kerala,Kannur Rural,1.21,4.17,-2.96,-70.99,STABLE
+2024,2023,Karnataka,Kodagu,1.88,4.86,-2.98,-61.33,STABLE
+2023,2022,Uttar Pradesh,Hapur,7.94,10.92,-2.98,-27.28,STABLE
+2022,2021,Odisha,Jajpur,17.03,20.02,-2.99,-14.92,STABLE
+2024,2023,Jammu & Kashmir,Kishtwar,3.77,6.78,-3.01,-44.43,STABLE
+2022,2021,Uttar Pradesh,Ambedkar Nagar,2.9,5.91,-3.01,-50.94,STABLE
+2023,2022,West Bengal,Bangaon,11.86,14.87,-3.01,-20.22,STABLE
+2024,2023,Punjab,CP Amritsar,4.4,7.42,-3.02,-40.74,STABLE
+2023,2022,Madhya Pradesh,Damoh,11.14,14.17,-3.03,-21.38,STABLE
+2024,2023,Punjab,Ropar,1.13,4.16,-3.03,-72.82,STABLE
+2023,2022,West Bengal,Coochbehar,11.83,14.87,-3.04,-20.42,STABLE
+2023,2022,Rajasthan,Alwar,21.61,24.68,-3.07,-12.46,STABLE
+2024,2023,Assam,Morigaon,9.35,12.44,-3.09,-24.86,STABLE
+2022,2021,Punjab,Faridkot,2.82,5.91,-3.09,-52.32,STABLE
+2024,2023,Himachal Pradesh,Kinnaur,6.2,9.3,-3.1,-33.36,STABLE
+2024,2023,Maharashtra,Satara,3.27,6.37,-3.1,-48.66,STABLE
+2023,2022,Delhi,Outer,38.72,41.84,-3.12,-7.45,STABLE
+2023,2022,Jharkhand,Giridih,3.09,6.22,-3.13,-50.34,STABLE
+2024,2023,Karnataka,Shimoga,1.98,5.11,-3.13,-61.25,STABLE
+2024,2023,Uttar Pradesh,Lalitpur,1.57,4.7,-3.13,-66.58,STABLE
+2024,2023,Uttar Pradesh,Ballia,2.34,5.48,-3.14,-57.26,STABLE
+2022,2021,Punjab,NRI Wing,2.79,5.94,-3.15,-53.03,STABLE
+2024,2023,Gujarat,Surat City,2.43,5.59,-3.16,-56.54,STABLE
+2024,2023,Madhya Pradesh,Vidisha,7.45,10.61,-3.16,-29.78,STABLE
+2024,2023,Odisha,Rourkela,4.58,7.75,-3.17,-40.91,STABLE
+2024,2023,Uttar Pradesh,Chandoli,1.65,4.83,-3.18,-65.82,STABLE
+2023,2022,Jharkhand,Pakur,5.31,8.5,-3.19,-37.52,STABLE
+2023,2022,Kerala,Idukki,7.92,11.13,-3.21,-28.87,STABLE
+2023,2022,Jammu & Kashmir,Ganderbal,6.43,9.65,-3.22,-33.35,STABLE
+2023,2022,Odisha,Baragarh,6.22,9.46,-3.24,-34.25,STABLE
+2022,2021,Madhya Pradesh,Vidisha,10.43,13.71,-3.28,-23.92,STABLE
+2024,2023,Assam,Dhemaji,3.55,6.84,-3.29,-48.13,STABLE
+2024,2023,Madhya Pradesh,Chhatarpur,7.85,11.15,-3.3,-29.6,STABLE
+2024,2023,Maharashtra,Navi Mumbai,5.68,9.01,-3.33,-36.98,STABLE
+2023,2022,Tamil Nadu,Total Districts ,50.61,53.94,-3.33,-6.17,STABLE
+2023,2022,Assam,Jorhat,7.09,10.43,-3.34,-32.02,STABLE
+2022,2021,Telangana,Hyderabad Commissionerate,47.65,51.0,-3.35,-6.57,STABLE
+2024,2023,Madhya Pradesh,Narsinghpur,5.77,9.13,-3.36,-36.8,STABLE
+2022,2021,Meghalaya,Jaintia Hills East,1.68,5.04,-3.36,-66.66,STABLE
+2024,2023,Meghalaya,Khasi Hills West,0.67,4.03,-3.36,-83.38,STABLE
+2024,2023,Bihar,Patna,3.32,6.69,-3.37,-50.35,STABLE
+2023,2022,Madhya Pradesh,Balaghat,6.49,9.86,-3.37,-34.19,STABLE
+2024,2023,Jammu & Kashmir,Rajouri,6.5,9.88,-3.38,-34.22,STABLE
+2022,2021,West Bengal,Barrackpur PC,31.27,34.66,-3.39,-9.79,STABLE
+2022,2021,Jharkhand,Sahebganj,4.85,8.25,-3.4,-41.22,STABLE
+2023,2022,Assam,Bongaigaon,9.77,13.18,-3.41,-25.89,STABLE
+2022,2021,Haryana,Panchkula,26.49,29.9,-3.41,-11.4,STABLE
+2023,2022,Madhya Pradesh,Ashok Nagar,6.07,9.48,-3.41,-35.99,STABLE
+2024,2023,Madhya Pradesh,Ujjain,8.45,11.86,-3.41,-28.76,STABLE
+2024,2023,Odisha,Cuttack,2.29,5.7,-3.41,-59.82,STABLE
+2024,2023,Karnataka,Kalaburgi,1.68,5.1,-3.42,-67.04,STABLE
+2023,2022,Maharashtra,Total Districts ,420.08,423.53,-3.45,-0.82,STABLE
+2024,2023,Tripura,Dhalai,3.22,6.67,-3.45,-51.7,STABLE
+2023,2022,Rajasthan,Jodhpur East,9.54,13.0,-3.46,-26.6,STABLE
+2023,2022,Arunachal Pradesh,Tawang,0.0,3.48,-3.48,-100.0,STABLE
+2023,2022,Uttar Pradesh,Bijnor,10.15,13.65,-3.5,-25.63,STABLE
+2024,2023,Uttar Pradesh,Jaunpur,2.09,5.59,-3.5,-62.62,STABLE
+2021,2021,Himachal Pradesh,Bilaspur,0.59,4.1,-3.51,-85.6,STABLE
+2022,2021,Madhya Pradesh,Sehore,11.21,14.72,-3.51,-23.85,STABLE
+2022,2021,Arunachal Pradesh,Subansiri Upper,2.65,6.18,-3.53,-57.14,STABLE
+2024,2023,Karnataka,Vijayanagara,1.12,4.65,-3.53,-75.91,STABLE
+2023,2022,Madhya Pradesh,Narmadapuram,10.78,14.31,-3.53,-24.68,STABLE
+2022,2021,Arunachal Pradesh,Namsai,0.88,4.42,-3.54,-80.08,STABLE
+2023,2022,Andhra Pradesh,Krishna,11.9,15.51,-3.61,-23.3,STABLE
+2024,2023,Kerala,Idukki,4.31,7.92,-3.61,-45.58,STABLE
+2024,2023,Madhya Pradesh,Singrauli,13.14,16.75,-3.61,-21.56,STABLE
+2024,2023,Telangana,Mahabubabad,1.72,5.35,-3.63,-67.85,STABLE
+2024,2023,Karnataka,Kalaburgi City,2.13,5.77,-3.64,-63.08,STABLE
+2024,2023,Assam,Jorhat,3.42,7.09,-3.67,-51.73,STABLE
+2022,2021,Haryana,Palwal,25.35,29.02,-3.67,-12.65,STABLE
+2024,2023,Uttar Pradesh,Mahoba,1.89,5.56,-3.67,-66.0,STABLE
+2022,2021,Delhi,North-East,50.15,53.83,-3.68,-6.84,STABLE
+2023,2022,Odisha,Sambalpur,14.7,18.38,-3.68,-20.0,STABLE
+2024,2024,Himachal Pradesh,Bilaspur,0.62,4.33,-3.71,-85.67,STABLE
+2024,2023,Madhya Pradesh,Narmadapuram,7.07,10.78,-3.71,-34.41,STABLE
+2022,2022,Maharashtra,Aurangabad Rural,8.13,11.84,-3.71,-31.36,STABLE
+2024,2023,Tripura,Gomati,1.15,4.87,-3.72,-76.41,STABLE
+2024,2023,Bihar,Lakhisarai,0.87,4.6,-3.73,-81.11,STABLE
+2023,2022,Haryana,Karnal,24.49,28.25,-3.76,-13.3,STABLE
+2023,2022,Delhi,North-East,46.37,50.15,-3.78,-7.54,STABLE
+2022,2021,Chhattisgarh,Rajnandgaon,2.72,6.51,-3.79,-58.19,STABLE
+2024,2023,Karnataka,Mysuru District,1.46,5.27,-3.81,-72.27,STABLE
+2023,2022,Uttar Pradesh,Pilibhit,19.14,22.95,-3.81,-16.6,STABLE
+2023,2022,Jammu & Kashmir,Doda,9.12,12.94,-3.82,-29.52,STABLE
+2023,2022,Rajasthan,Jaipur Rural,4.99,8.81,-3.82,-43.33,STABLE
+2023,2022,Odisha,Sundargarh,4.49,8.39,-3.9,-46.49,STABLE
+2022,2021,Ladakh,Leh,1.95,5.86,-3.91,-66.74,STABLE
+2023,2022,Madhya Pradesh,Shahdol,16.15,20.07,-3.92,-19.51,STABLE
+2024,2023,Telangana,Adilabad,0.95,4.89,-3.94,-80.55,STABLE
+2023,2022,Assam,Chirang,6.49,10.46,-3.97,-37.95,STABLE
+2024,2023,Odisha,Deogarh,3.17,7.14,-3.97,-55.6,STABLE
+2024,2023,Madhya Pradesh,Ashok Nagar,2.06,6.07,-4.01,-66.04,STABLE
+2024,2023,Madhya Pradesh,Katni,3.1,7.13,-4.03,-56.55,STABLE
+2024,2023,Kerala,Kollam Rural,3.04,7.09,-4.05,-57.15,STABLE
+2023,2022,Lakshadweep,Lakshadweep,5.39,9.44,-4.05,-42.91,STABLE
+2023,2022,Lakshadweep,Total Districts ,5.39,9.44,-4.05,-42.91,STABLE
+2023,2022,Delhi,Outer North,30.32,34.38,-4.06,-11.8,STABLE
+2023,2022,Assam,Udalguri,4.71,8.78,-4.07,-46.37,STABLE
+2022,2021,Haryana,Jhajjar,32.75,36.84,-4.09,-11.09,STABLE
+2024,2023,Madhya Pradesh,Satna,3.63,7.72,-4.09,-53.01,STABLE
+2024,2023,Karnataka,Raichur,1.76,5.86,-4.1,-69.97,STABLE
+2024,2023,Arunachal Pradesh,Anjaw,0.0,4.11,-4.11,-100.0,STABLE
+2024,2023,Karnataka,Chitradurga,2.67,6.81,-4.14,-60.8,STABLE
+2024,2023,Tripura,Unakoti,1.95,6.11,-4.16,-68.11,STABLE
+2024,2023,Maharashtra,Nandurbar,1.69,5.86,-4.17,-71.14,STABLE
+2024,2023,Madhya Pradesh,Bhind,3.22,7.4,-4.18,-56.51,STABLE
+2023,2022,Madhya Pradesh,Dindori,15.55,19.75,-4.2,-21.26,STABLE
+2024,2023,Maharashtra,Buldhana,3.92,8.14,-4.22,-51.82,STABLE
+2024,2023,Karnataka,Bidar,1.12,5.36,-4.24,-79.11,STABLE
+2024,2023,Rajasthan,Jalore,3.26,7.52,-4.26,-56.68,STABLE
+2024,2023,Telangana,Sangareddy,1.8,6.08,-4.28,-70.41,STABLE
+2024,2023,Karnataka,Mandya,0.53,4.82,-4.29,-88.99,STABLE
+2023,2022,Uttarakhand,Dehradun,24.09,28.39,-4.3,-15.15,STABLE
+2024,2023,Karnataka,Hubballi Dharwad City,1.96,6.27,-4.31,-68.76,STABLE
+2024,2023,Bihar,Jehanabad,0.39,4.71,-4.32,-91.73,STABLE
+2024,2023,Punjab,Bathinda,1.94,6.26,-4.32,-69.02,STABLE
+2024,2023,Maharashtra,Chandrapur,4.22,8.56,-4.34,-50.7,STABLE
+2024,2023,Uttar Pradesh,Amethi,2.01,6.35,-4.34,-68.35,STABLE
+2024,2023,Odisha,Jharsuguda,4.65,9.0,-4.35,-48.35,STABLE
+2024,2023,Telangana,Medak,0.95,5.3,-4.35,-82.09,STABLE
+2024,2023,West Bengal,Jalpaiguri,1.86,6.22,-4.36,-70.09,STABLE
+2023,2022,Haryana,Sonipat,27.35,31.72,-4.37,-13.79,STABLE
+2023,2022,Uttarakhand,Nainital,12.94,17.31,-4.37,-25.23,STABLE
+2024,2023,Madhya Pradesh,Shivpuri,9.98,14.36,-4.38,-30.49,STABLE
+2023,2022,Manipur,Total Districts ,9.87,14.25,-4.38,-30.74,STABLE
+2024,2023,Rajasthan,Nagaur,6.26,10.67,-4.41,-41.35,STABLE
+2024,2023,Rajasthan,Jodhpur East,5.11,9.54,-4.43,-46.42,STABLE
+2024,2023,Karnataka,Koppal,1.5,5.94,-4.44,-74.76,STABLE
+2023,2022,Assam,South Salmara,5.74,10.19,-4.45,-43.67,STABLE
+2023,2022,Jammu & Kashmir,Total Districts ,106.35,110.81,-4.46,-4.02,STABLE
+2023,2022,Odisha,Berhampur,16.05,20.51,-4.46,-21.73,STABLE
+2022,2022,Himachal Pradesh,Bilaspur,0.75,5.24,-4.49,-85.68,STABLE
+2024,2023,Uttar Pradesh,Kasganj,1.91,6.42,-4.51,-70.23,STABLE
+2024,2023,Telangana,Karimnagar Commissionerate,3.21,7.74,-4.53,-58.55,STABLE
+2024,2023,Odisha,Nuapada,2.56,7.12,-4.56,-64.06,STABLE
+2024,2023,Madhya Pradesh,Shahdol,11.58,16.15,-4.57,-28.3,STABLE
+2023,2022,Haryana,Palwal,20.77,25.35,-4.58,-18.07,STABLE
+2023,2022,Madhya Pradesh,Umaria,6.61,11.19,-4.58,-40.95,STABLE
+2024,2023,Uttar Pradesh,Ghazipur,1.18,5.76,-4.58,-79.53,STABLE
+2024,2023,Assam,Tinsukia,2.29,6.88,-4.59,-66.69,STABLE
+2022,2021,Jammu & Kashmir,Ramban,4.6,9.19,-4.59,-49.97,STABLE
+2024,2023,West Bengal,Raiganj,1.38,6.0,-4.62,-76.99,STABLE
+2023,2022,Delhi,Central,35.69,40.32,-4.63,-11.48,STABLE
+2024,2023,Uttarakhand,Tehri Garhwal,0.14,4.78,-4.64,-97.07,STABLE
+2024,2023,Madhya Pradesh,Khandwa,5.64,10.29,-4.65,-45.18,STABLE
+2023,2022,Assam,Nagaon,6.5,11.18,-4.68,-41.85,STABLE
+2024,2023,Uttar Pradesh,Hardoi,2.08,6.76,-4.68,-69.21,STABLE
+2023,2022,Madhya Pradesh,Jabalpur,16.31,21.0,-4.69,-22.35,STABLE
+2023,2022,Uttar Pradesh,Bulandshahar,20.61,25.3,-4.69,-18.55,STABLE
+2023,2022,Uttar Pradesh,Kanpur Dehat,11.86,16.56,-4.7,-28.37,STABLE
+2023,2022,Assam,Cachar,20.98,25.69,-4.71,-18.32,STABLE
+2024,2023,Bihar,Arwal,1.74,6.45,-4.71,-73.03,STABLE
+2022,2021,Arunachal Pradesh,Kurung Kumey,0.0,4.72,-4.72,-100.0,STABLE
+2024,2023,Bihar,Motihari,2.28,7.01,-4.73,-67.5,STABLE
+2022,2021,Jammu & Kashmir,Total Districts ,110.81,115.54,-4.73,-4.09,STABLE
+2024,2023,Madhya Pradesh,Harda,5.94,10.67,-4.73,-44.33,STABLE
+2024,2023,Uttar Pradesh,Chitrakoot,2.37,7.1,-4.73,-66.63,STABLE
+2024,2023,Uttar Pradesh,Etah,1.27,6.03,-4.76,-78.93,STABLE
+2024,2023,West Bengal,Purulia,1.2,5.97,-4.77,-79.91,STABLE
+2022,2021,Arunachal Pradesh,Lower Dibang Valley,0.0,4.82,-4.82,-100.0,STABLE
+2024,2023,Maharashtra,Amravati Rural,3.46,8.28,-4.82,-58.21,STABLE
+2024,2024,Uttar Pradesh,Pratapgarh,1.79,6.61,-4.82,-72.93,STABLE
+2024,2023,Uttar Pradesh,Sidharthnagar,1.43,6.25,-4.82,-77.13,STABLE
+2024,2023,Uttar Pradesh,Raibareilly,2.4,7.23,-4.83,-66.78,STABLE
+2023,2022,Rajasthan,Udaipur,25.14,30.04,-4.9,-16.31,STABLE
+2022,2021,Jammu & Kashmir,Kulgam,2.87,7.78,-4.91,-63.13,STABLE
+2024,2023,Uttar Pradesh,Mirzapur,1.04,5.96,-4.92,-82.54,STABLE
+2024,2023,Odisha,Rayagada,2.87,7.82,-4.95,-63.28,STABLE
+2024,2023,Jammu & Kashmir,Ganderbal,1.46,6.43,-4.97,-77.3,STABLE
+2022,2021,West Bengal,Paschim Medinipur,8.97,13.94,-4.97,-35.65,STABLE
+2024,2023,West Bengal,Paschim Medinipur,1.87,6.85,-4.98,-72.71,STABLE
+2024,2023,Madhya Pradesh,Anuppur,8.12,13.11,-4.99,-38.09,STABLE
+2024,2023,Haryana,Charkhi Dadri,3.09,8.1,-5.01,-61.84,IMPROVING
+2023,2022,Madhya Pradesh,Dhar,9.55,14.56,-5.01,-34.41,IMPROVING
+2023,2022,Rajasthan,Jalore,7.52,12.55,-5.03,-40.1,IMPROVING
+2024,2023,Andhra Pradesh,Sri Sathya Sai,1.15,6.19,-5.04,-81.42,IMPROVING
+2022,2021,Madhya Pradesh,Guna,9.32,14.43,-5.11,-35.4,IMPROVING
+2024,2023,Punjab,CP Ludhiana,3.92,9.03,-5.11,-56.58,IMPROVING
+2023,2022,Rajasthan,Sirohi,24.17,29.28,-5.11,-17.46,IMPROVING
+2024,2023,Odisha,Nabarangpur,2.81,7.93,-5.12,-64.58,IMPROVING
+2024,2023,Punjab,Patiala,3.35,8.49,-5.14,-60.52,IMPROVING
+2023,2022,Assam,Sonitpur,7.37,12.52,-5.15,-41.13,IMPROVING
+2024,2023,Odisha,Nayagarh,6.41,11.56,-5.15,-44.55,IMPROVING
+2024,2023,Andhra Pradesh,Anakapalli,0.86,6.03,-5.17,-85.74,IMPROVING
+2024,2023,Kerala,Kottayam,4.54,9.73,-5.19,-53.35,IMPROVING
+2024,2023,Andhra Pradesh,Annamayya,0.36,5.56,-5.2,-93.52,IMPROVING
+2024,2023,Karnataka,Ballari,1.01,6.27,-5.26,-83.9,IMPROVING
+2024,2023,Uttar Pradesh,Hamirpur,11.28,16.54,-5.26,-31.79,IMPROVING
+2024,2023,Uttar Pradesh,Baghpat,3.94,9.21,-5.27,-57.22,IMPROVING
+2024,2023,Uttar Pradesh,Kaushambi,4.46,9.73,-5.27,-54.17,IMPROVING
+2024,2023,Kerala,Trivandrum Rural,6.54,11.83,-5.29,-44.73,IMPROVING
+2024,2023,Madhya Pradesh,Damoh,5.85,11.14,-5.29,-47.5,IMPROVING
+2024,2023,Odisha,Koraput,10.9,16.2,-5.3,-32.71,IMPROVING
+2024,2023,Madhya Pradesh,Mandsaur,4.22,9.54,-5.32,-55.75,IMPROVING
+2024,2023,Kerala,Alapuzha,4.28,9.61,-5.33,-55.45,IMPROVING
+2024,2023,Madhya Pradesh,Sheopur,4.05,9.48,-5.43,-57.28,IMPROVING
+2024,2023,Odisha,Puri,4.76,10.19,-5.43,-53.27,IMPROVING
+2024,2023,Haryana,Nuh,7.88,13.32,-5.44,-40.86,IMPROVING
+2023,2022,Madhya Pradesh,Morena,11.54,16.98,-5.44,-32.06,IMPROVING
+2023,2022,Odisha,Total Districts ,425.55,430.99,-5.44,-1.26,IMPROVING
+2024,2023,Tamil Nadu,Theni,1.47,6.91,-5.44,-78.73,IMPROVING
+2023,2022,Andhra Pradesh,Visakhapatnam,10.52,15.99,-5.47,-34.21,IMPROVING
+2023,2022,West Bengal,Baruipur Police,26.7,32.18,-5.48,-17.02,IMPROVING
+2024,2023,Uttar Pradesh,Fatehgarh,0.91,6.42,-5.51,-85.81,IMPROVING
+2023,2022,Delhi,South-West,24.37,29.94,-5.57,-18.6,IMPROVING
+2024,2023,Rajasthan,Khairtal-Tijara,3.22,8.81,-5.59,-63.46,IMPROVING
+2024,2023,Karnataka,Vijayapura,3.02,8.63,-5.61,-64.99,IMPROVING
+2024,2023,Kerala,Kannur City,1.9,7.51,-5.61,-74.71,IMPROVING
+2023,2022,Andhra Pradesh,Palnadu,3.68,9.31,-5.63,-60.45,IMPROVING
+2022,2021,Gujarat,Ahmedabad City,24.98,30.61,-5.63,-18.39,IMPROVING
+2024,2023,Rajasthan,Banswara,9.14,14.8,-5.66,-38.26,IMPROVING
+2024,2023,Madhya Pradesh,Dindori,9.87,15.55,-5.68,-36.53,IMPROVING
+2024,2023,Punjab,Hoshiarpur,1.64,7.34,-5.7,-77.67,IMPROVING
+2023,2022,Meghalaya,Garo Hills West,1.68,7.39,-5.71,-77.27,IMPROVING
+2023,2022,Uttar Pradesh,Maharajganj,1.39,7.1,-5.71,-80.41,IMPROVING
+2022,2021,Delhi,Shahdara,40.23,45.99,-5.76,-12.53,IMPROVING
+2023,2022,Haryana,Kurukshetra,29.66,35.43,-5.77,-16.28,IMPROVING
+2023,2022,Assam,Kokrajhar,7.65,13.43,-5.78,-43.03,IMPROVING
+2022,2021,Chhattisgarh,Koriya,4.75,10.56,-5.81,-55.01,IMPROVING
+2024,2023,Telangana,Kamareddy ,0.96,6.79,-5.83,-85.86,IMPROVING
+2024,2023,Kerala,Kollam Commr,3.03,8.97,-5.94,-66.21,IMPROVING
+2023,2022,Madhya Pradesh,Rajgarh,22.33,28.3,-5.97,-21.08,IMPROVING
+2023,2022,Haryana,Jhajjar,26.77,32.75,-5.98,-18.27,IMPROVING
+2024,2023,Uttar Pradesh,Fatehpur,3.7,9.68,-5.98,-61.77,IMPROVING
+2024,2023,Karnataka,Belagavi District,2.02,8.01,-5.99,-74.78,IMPROVING
+2022,2021,Uttar Pradesh,Bulandshahar,25.3,31.3,-6.0,-19.16,IMPROVING
+2024,2023,Telangana,Rajanna Siricilla,0.59,6.62,-6.03,-91.08,IMPROVING
+2024,2023,Uttar Pradesh,Hapur,1.88,7.94,-6.06,-76.32,IMPROVING
+2024,2023,Uttar Pradesh,Pratapgarh,6.61,12.68,-6.07,-47.88,IMPROVING
+2024,2023,Punjab,Fatehgarh Sahib,1.16,7.24,-6.08,-83.99,IMPROVING
+2024,2023,Andhra Pradesh,Kakinada,1.63,7.72,-6.09,-78.9,IMPROVING
+2024,2023,Kerala,Thrissur Rural,2.17,8.27,-6.1,-73.77,IMPROVING
+2024,2023,Kerala,Ernakulam Rural,4.48,10.6,-6.12,-57.72,IMPROVING
+2024,2023,Rajasthan,Sawai Madhopur,8.99,15.11,-6.12,-40.48,IMPROVING
+2024,2023,Telangana,Nalgonda,2.14,8.27,-6.13,-74.14,IMPROVING
+2023,2022,Haryana,Ambala,26.13,32.29,-6.16,-19.08,IMPROVING
+2022,2021,Madhya Pradesh,Bhind,7.71,13.89,-6.18,-44.49,IMPROVING
+2024,2023,Madhya Pradesh,Seoni,4.92,11.1,-6.18,-55.66,IMPROVING
+2024,2023,Maharashtra,Thane Commr,13.49,19.67,-6.18,-31.4,IMPROVING
+2024,2023,Rajasthan,Jaipur East,13.92,20.24,-6.32,-31.23,IMPROVING
+2024,2023,Uttar Pradesh,Muzaffarnagar,3.02,9.34,-6.32,-67.66,IMPROVING
+2022,2021,Uttar Pradesh,Moradabad,8.05,14.4,-6.35,-44.08,IMPROVING
+2024,2023,Rajasthan,Jaisalmer,5.19,11.55,-6.36,-55.07,IMPROVING
+2024,2023,Uttarakhand,Nainital,6.56,12.94,-6.38,-49.28,IMPROVING
+2023,2022,Rajasthan,Jhunjhunu,19.23,25.63,-6.4,-24.98,IMPROVING
+2022,2021,Delhi,North-West,30.13,36.55,-6.42,-17.56,IMPROVING
+2024,2023,Punjab,CP Jalandhar,1.54,7.96,-6.42,-80.65,IMPROVING
+2022,2021,West Bengal,Asansol-Durgapur PC,6.58,13.03,-6.45,-49.51,IMPROVING
+2024,2023,Haryana,Fatehabad,6.46,12.92,-6.46,-50.01,IMPROVING
+2023,2022,Assam,Guwahati City,23.02,29.51,-6.49,-22.0,IMPROVING
+2024,2023,Haryana,Kaithal,7.53,14.08,-6.55,-46.53,IMPROVING
+2024,2023,Assam,Goalpara,5.52,12.08,-6.56,-54.29,IMPROVING
+2024,2023,West Bengal,Alipurduar,1.7,8.28,-6.58,-79.47,IMPROVING
+2022,2021,Uttar Pradesh,Kanpur Outer,0.0,6.61,-6.61,-100.0,IMPROVING
+2024,2024,Uttar Pradesh,Hamirpur,4.65,11.28,-6.63,-58.78,IMPROVING
+2024,2023,Madhya Pradesh,Rewa,4.74,11.4,-6.66,-58.41,IMPROVING
+2024,2023,Rajasthan,Jodhpur West,7.08,13.76,-6.68,-48.55,IMPROVING
+2023,2022,Haryana,Sirsa,17.19,23.9,-6.71,-28.08,IMPROVING
+2024,2023,Kerala,Kozhikode Commr,3.64,10.35,-6.71,-64.83,IMPROVING
+2024,2023,Madhya Pradesh,Morena,4.78,11.54,-6.76,-58.59,IMPROVING
+2024,2023,Andhra Pradesh,Dr BR Ambedkar Konaseema,1.63,8.4,-6.77,-80.6,IMPROVING
+2024,2023,Uttar Pradesh,Amroha,2.62,9.4,-6.78,-72.12,IMPROVING
+2023,2022,Delhi,Shahdara,33.43,40.23,-6.8,-16.91,IMPROVING
+2023,2023,Himachal Pradesh,Bilaspur,1.14,7.97,-6.83,-85.69,IMPROVING
+2024,2023,Uttar Pradesh,Sambhal,3.89,10.72,-6.83,-63.73,IMPROVING
+2024,2023,Haryana,Hansi,2.87,9.72,-6.85,-70.46,IMPROVING
+2022,2021,Arunachal Pradesh,Papum Pare City,37.92,44.81,-6.89,-15.39,IMPROVING
+2024,2023,Maharashtra,Mumbai Commr,31.58,38.48,-6.9,-17.94,IMPROVING
+2024,2023,Maharashtra,Pune Commr,16.83,23.73,-6.9,-29.09,IMPROVING
+2023,2022,Odisha,Deogarh,7.14,14.04,-6.9,-49.13,IMPROVING
+2024,2023,Kerala,Wayanadu,1.48,8.39,-6.91,-82.37,IMPROVING
+2023,2022,Uttar Pradesh,Aligarh,17.49,24.4,-6.91,-28.33,IMPROVING
+2022,2021,Uttar Pradesh,Vasanasi Dehat,0.0,6.93,-6.93,-100.0,IMPROVING
+2023,2022,Assam,Sibsagar,0.98,7.93,-6.95,-87.63,IMPROVING
+2024,2023,Uttar Pradesh,Etawah,1.21,8.19,-6.98,-85.23,IMPROVING
+2022,2021,Assam,Kamrup,29.74,36.73,-6.99,-19.03,IMPROVING
+2024,2023,Uttar Pradesh,Shamli,2.04,9.04,-7.0,-77.43,IMPROVING
+2022,2021,Assam,Cachar,25.69,32.7,-7.01,-21.43,IMPROVING
+2024,2023,Assam,Dibrugarh,2.69,9.7,-7.01,-72.28,IMPROVING
+2024,2023,Andhra Pradesh,Kurnool,0.88,7.92,-7.04,-88.88,IMPROVING
+2022,2021,Uttar Pradesh,Kanpur Dehat,16.56,23.62,-7.06,-29.9,IMPROVING
+2023,2022,Jharkhand,Total Districts ,125.1,132.2,-7.1,-5.37,IMPROVING
+2024,2023,Uttar Pradesh,Kushi Nagar,0.58,7.71,-7.13,-92.48,IMPROVING
+2023,2022,D&N Haveli and Daman & Diu,D&N Haveli,2.86,10.01,-7.15,-71.43,IMPROVING
+2024,2023,Rajasthan,Karauli,11.69,18.84,-7.15,-37.96,IMPROVING
+2023,2022,Madhya Pradesh,Harda,10.67,17.83,-7.16,-40.17,IMPROVING
+2024,2023,Uttar Pradesh,Azamgarh,4.9,12.1,-7.2,-59.5,IMPROVING
+2024,2023,Uttar Pradesh,Moradabad,0.69,7.91,-7.22,-91.28,IMPROVING
+2023,2022,Uttarakhand,Udhamsingh Nagar,64.78,72.03,-7.25,-10.06,IMPROVING
+2023,2022,Madhya Pradesh,Neemuch,12.21,19.47,-7.26,-37.3,IMPROVING
+2024,2023,Jammu & Kashmir,Srinagar,1.34,8.65,-7.31,-84.5,IMPROVING
+2024,2023,Rajasthan,Dungarpur,7.26,14.59,-7.33,-50.24,IMPROVING
+2023,2022,Meghalaya,Total Districts ,26.88,34.27,-7.39,-21.56,IMPROVING
+2024,2023,Odisha,Bhadrak,5.43,12.82,-7.39,-57.63,IMPROVING
+2024,2023,Odisha,Khurda,3.23,10.62,-7.39,-69.58,IMPROVING
+2024,2023,Madhya Pradesh,Jabalpur,8.9,16.31,-7.41,-45.43,IMPROVING
+2024,2023,Telangana,Suryapet,2.9,10.31,-7.41,-71.86,IMPROVING
+2024,2023,Uttar Pradesh,Jalaun,2.21,9.72,-7.51,-77.27,IMPROVING
+2024,2023,West Bengal,Coochbehar,4.32,11.83,-7.51,-63.49,IMPROVING
+2024,2023,Rajasthan,Kota Rural,4.37,11.9,-7.53,-63.28,IMPROVING
+2024,2023,Andhra Pradesh,Anantapuramu,1.17,8.76,-7.59,-86.65,IMPROVING
+2024,2023,Telangana,Siddipet Commissionerate,1.52,9.12,-7.6,-83.34,IMPROVING
+2023,2022,Uttar Pradesh,Prayagraj,28.06,35.67,-7.61,-21.34,IMPROVING
+2022,2021,Uttar Pradesh,Mathura,17.44,25.06,-7.62,-30.4,IMPROVING
+2024,2023,Odisha,Kalahandi,6.84,14.5,-7.66,-52.84,IMPROVING
+2024,2023,Uttarakhand,Haridwar,29.81,37.48,-7.67,-20.46,IMPROVING
+2022,2021,Odisha,DCP BBSR,5.37,13.06,-7.69,-58.88,IMPROVING
+2024,2023,Andhra Pradesh,Chittoor,0.58,8.29,-7.71,-93.0,IMPROVING
+2023,2022,Punjab,CP Ludhiana,9.03,16.75,-7.72,-46.09,IMPROVING
+2024,2023,Andhra Pradesh,Tirupati,1.26,9.03,-7.77,-86.05,IMPROVING
+2023,2022,Assam,Tinsukia,6.88,14.67,-7.79,-53.1,IMPROVING
+2024,2023,Andhra Pradesh,Visakhapatnam,2.72,10.52,-7.8,-74.14,IMPROVING
+2022,2021,Assam,Karbi Anglong,1.36,9.18,-7.82,-85.19,IMPROVING
+2024,2023,Assam,Lakhimpur,4.67,12.52,-7.85,-62.69,IMPROVING
+2024,2023,Odisha,Balasore,7.38,15.26,-7.88,-51.63,IMPROVING
+2024,2023,Kerala,Thrissur Commr,4.45,12.34,-7.89,-63.93,IMPROVING
+2024,2023,West Bengal,Bankura,1.16,9.07,-7.91,-87.21,IMPROVING
+2024,2023,Madhya Pradesh,Neemuch,4.21,12.21,-8.0,-65.52,IMPROVING
+2024,2023,Odisha,DCP CTC,4.21,12.21,-8.0,-65.51,IMPROVING
+2024,2023,Madhya Pradesh,Raisen,4.57,12.6,-8.03,-63.74,IMPROVING
+2024,2023,Odisha,Dhenkanal,7.07,15.16,-8.09,-53.37,IMPROVING
+2023,2022,Madhya Pradesh,Bhopal Commissionarate,47.71,55.84,-8.13,-14.55,IMPROVING
+2023,2022,Assam,Dhubri,7.0,15.17,-8.17,-53.85,IMPROVING
+2024,2023,Telangana,Jagityal,2.2,10.39,-8.19,-78.83,IMPROVING
+2022,2021,West Bengal,Total Districts ,479.06,487.25,-8.19,-1.68,IMPROVING
+2024,2023,Rajasthan,Kekri,3.14,11.35,-8.21,-72.33,IMPROVING
+2024,2023,Rajasthan,Shahpura,2.98,11.19,-8.21,-73.36,IMPROVING
+2023,2022,Andhra Pradesh,West Godavari,2.96,11.18,-8.22,-73.51,IMPROVING
+2024,2023,West Bengal,Bidhannagar PC,0.59,8.89,-8.3,-93.37,IMPROVING
+2023,2022,Assam,Kamrup,21.43,29.74,-8.31,-27.94,IMPROVING
+2023,2022,Assam,Morigaon,12.44,20.8,-8.36,-40.19,IMPROVING
+2024,2023,Madhya Pradesh,Sagar,7.9,16.27,-8.37,-51.44,IMPROVING
+2024,2023,Maharashtra,Jalgaon,2.51,10.9,-8.39,-76.96,IMPROVING
+2024,2023,Madhya Pradesh,Sidhi,5.4,13.81,-8.41,-60.9,IMPROVING
+2024,2023,Madhya Pradesh,Datia,7.96,16.47,-8.51,-51.66,IMPROVING
+2024,2023,Assam,Darrang,5.15,13.67,-8.52,-62.34,IMPROVING
+2024,2023,Uttar Pradesh,Sitapur,2.37,10.9,-8.53,-78.25,IMPROVING
+2024,2023,West Bengal,Birbhum,1.91,10.45,-8.54,-81.73,IMPROVING
+2024,2023,Telangana,Nizamabad Commissionerate,2.22,10.79,-8.57,-79.42,IMPROVING
+2024,2023,Uttar Pradesh,Unnao,1.65,10.24,-8.59,-83.88,IMPROVING
+2024,2023,Odisha,Bolangir,2.62,11.23,-8.61,-76.67,IMPROVING
+2024,2023,Andhra Pradesh,East Godavari,1.35,10.02,-8.67,-86.53,IMPROVING
+2022,2021,Andhra Pradesh,Visakhapatnam,15.99,24.66,-8.67,-35.17,IMPROVING
+2024,2023,Assam,Nalbari,6.09,14.76,-8.67,-58.75,IMPROVING
+2024,2023,Delhi,South-West,15.68,24.37,-8.69,-35.65,IMPROVING
+2024,2023,Rajasthan,Dholpur,11.79,20.48,-8.69,-42.44,IMPROVING
+2024,2023,Andhra Pradesh,Nandyal,0.34,9.06,-8.72,-96.25,IMPROVING
+2024,2023,Maharashtra,Yavatmal,4.61,13.33,-8.72,-65.42,IMPROVING
+2024,2023,Madhya Pradesh,Guna,8.76,17.51,-8.75,-49.97,IMPROVING
+2023,2022,Kerala,Total Districts ,187.6,196.36,-8.76,-4.46,IMPROVING
+2024,2023,Odisha,Kandhamal,10.68,19.45,-8.77,-45.1,IMPROVING
+2022,2021,Assam,Udalguri,8.78,17.57,-8.79,-50.02,IMPROVING
+2024,2023,Rajasthan,Kotputli-Behror,6.88,15.69,-8.81,-56.16,IMPROVING
+2024,2023,Maharashtra,Nanded,2.28,11.1,-8.82,-79.46,IMPROVING
+2023,2022,Rajasthan,Sikar,19.78,28.61,-8.83,-30.87,IMPROVING
+2024,2023,Uttar Pradesh,Bijnor,1.32,10.15,-8.83,-87.0,IMPROVING
+2024,2023,Uttar Pradesh,Gautambudh Nagar,1.3,10.17,-8.87,-87.22,IMPROVING
+2024,2023,West Bengal,Dakshin Dinajpur,4.1,12.97,-8.87,-68.39,IMPROVING
+2024,2023,Madhya Pradesh,Panna,4.11,13.0,-8.89,-68.39,IMPROVING
+2023,2022,Rajasthan,Karauli,18.84,27.73,-8.89,-32.06,IMPROVING
+2024,2023,Rajasthan,Alwar,12.71,21.61,-8.9,-41.18,IMPROVING
+2024,2023,Karnataka,Bengaluru District,2.63,11.54,-8.91,-77.21,IMPROVING
+2024,2023,Uttar Pradesh,Saharanpur,1.78,10.69,-8.91,-83.34,IMPROVING
+2024,2023,Rajasthan,Bharatpur,10.51,19.45,-8.94,-45.96,IMPROVING
+2023,2022,Haryana,Bhiwani,16.81,25.8,-8.99,-34.85,IMPROVING
+2024,2023,Assam,Hailakandi,7.39,16.49,-9.1,-55.18,IMPROVING
+2024,2023,Kerala,Palakkad,2.97,12.07,-9.1,-75.39,IMPROVING
+2024,2023,Telangana,Khammam Commissionerate,2.87,12.0,-9.13,-76.08,IMPROVING
+2024,2023,Rajasthan,Neem Ka Thana,5.35,14.49,-9.14,-63.07,IMPROVING
+2023,2022,Odisha,Jharsuguda,9.0,18.16,-9.16,-50.43,IMPROVING
+2022,2021,Madhya Pradesh,Dewas,6.9,16.07,-9.17,-57.07,IMPROVING
+2023,2022,Assam,Goalpara,12.08,21.3,-9.22,-43.3,IMPROVING
+2023,2022,Assam,Barpeta,5.03,14.27,-9.24,-64.76,IMPROVING
+2024,2023,Andhra Pradesh,Vizianagaram,1.89,11.35,-9.46,-83.35,IMPROVING
+2024,2023,Haryana,Mahendergarh,3.53,13.03,-9.5,-72.91,IMPROVING
+2024,2023,Rajasthan,Jaipur South,11.03,20.56,-9.53,-46.36,IMPROVING
+2023,2022,Rajasthan,Nagaur,10.67,20.35,-9.68,-47.56,IMPROVING
+2022,2021,Assam,Tinsukia,14.67,24.36,-9.69,-39.78,IMPROVING
+2024,2023,West Bengal,Bangaon,2.1,11.86,-9.76,-82.29,IMPROVING
+2023,2022,Rajasthan,Barmer,9.62,19.4,-9.78,-50.42,IMPROVING
+2024,2023,Rajasthan,Deeg,11.51,21.29,-9.78,-45.93,IMPROVING
+2023,2022,Haryana,Panipat,26.11,35.92,-9.81,-27.32,IMPROVING
+2024,2023,Haryana,Palwal,10.92,20.77,-9.85,-47.41,IMPROVING
+2024,2023,Odisha,Keonjhar,7.26,17.15,-9.89,-57.67,IMPROVING
+2024,2023,Uttar Pradesh,Khiri,2.85,12.77,-9.92,-77.67,IMPROVING
+2024,2023,Maharashtra,Chhatrapati Sambhajinagar Rural,3.01,13.05,-10.04,-76.94,IMPROVING
+2024,2023,Rajasthan,Sirohi,14.1,24.17,-10.07,-41.65,IMPROVING
+2024,2023,Haryana,Panipat,16.01,26.11,-10.1,-38.69,IMPROVING
+2024,2023,Maharashtra,Hingoli,2.29,12.48,-10.19,-81.65,IMPROVING
+2024,2023,Odisha,Berhampur,5.86,16.05,-10.19,-63.49,IMPROVING
+2024,2023,Uttar Pradesh,Mainpuri,1.81,12.05,-10.24,-84.98,IMPROVING
+2024,2023,Kerala,Kozhikode Rural,2.28,12.57,-10.29,-81.86,IMPROVING
+2024,2023,Andhra Pradesh,Krishna,1.6,11.9,-10.3,-86.55,IMPROVING
+2024,2023,West Bengal,Asansol-Durgapur PC,0.95,11.27,-10.32,-91.57,IMPROVING
+2024,2023,Uttar Pradesh,Jhansi,3.65,14.01,-10.36,-73.95,IMPROVING
+2024,2023,Uttar Pradesh,Pilibhit,8.78,19.14,-10.36,-54.12,IMPROVING
+2024,2023,Delhi,SPUWAC,0.0,10.48,-10.48,-100.0,IMPROVING
+2022,2021,Madhya Pradesh,Balaghat,9.86,20.39,-10.53,-51.64,IMPROVING
+2024,2023,Assam,Guwahati City,12.45,23.02,-10.57,-45.92,IMPROVING
+2024,2023,West Bengal,Krishnagar,5.59,16.18,-10.59,-65.45,IMPROVING
+2024,2023,Andhra Pradesh,Bapatla,0.95,11.63,-10.68,-91.83,IMPROVING
+2024,2023,Andhra Pradesh,Srikakulam,1.13,11.84,-10.71,-90.45,IMPROVING
+2024,2023,West Bengal,Howrah Rural,0.77,11.49,-10.72,-93.3,IMPROVING
+2023,2022,D&N Haveli and Daman & Diu,Total Districts ,5.0,15.73,-10.73,-68.21,IMPROVING
+2024,2023,Uttar Pradesh,Shahjahanpur,1.1,11.86,-10.76,-90.72,IMPROVING
+2024,2023,Uttar Pradesh,Kanpur Dehat,1.07,11.86,-10.79,-90.98,IMPROVING
+2024,2023,Kerala,Malappuram,3.47,14.29,-10.82,-75.72,IMPROVING
+2024,2023,Odisha,Jajpur,9.64,20.51,-10.87,-52.99,IMPROVING
+2022,2021,Assam,Biswanath,4.0,14.95,-10.95,-73.24,IMPROVING
+2024,2023,Telangana,Bhadradri Kothagudem,1.91,12.93,-11.02,-85.22,IMPROVING
+2024,2023,Rajasthan,Sikar,8.74,19.78,-11.04,-55.81,IMPROVING
+2024,2023,Odisha,Kendrapara,6.34,17.39,-11.05,-63.54,IMPROVING
+2022,2021,Jharkhand,Total Districts ,132.2,143.31,-11.11,-7.75,IMPROVING
+2024,2023,Odisha,Sambalpur,3.59,14.7,-11.11,-75.58,IMPROVING
+2024,2023,Rajasthan,Didwana-Kuchaman,7.12,18.27,-11.15,-61.03,IMPROVING
+2023,2022,Rajasthan,Pali,26.16,37.34,-11.18,-29.94,IMPROVING
+2024,2023,West Bengal,Malda,8.08,19.32,-11.24,-58.19,IMPROVING
+2024,2023,West Bengal,Chandannagar PC,0.45,11.77,-11.32,-96.18,IMPROVING
+2023,2022,Punjab,Total Districts ,121.12,132.52,-11.4,-8.6,IMPROVING
+2022,2021,Mizoram,Total Districts ,10.78,22.19,-11.41,-51.42,IMPROVING
+2024,2023,Rajasthan,Dausa,13.62,25.06,-11.44,-45.65,IMPROVING
+2024,2023,Madhya Pradesh,Burhanpur,4.13,15.6,-11.47,-73.53,IMPROVING
+2024,2023,West Bengal,Siliguri PC,0.52,12.04,-11.52,-95.68,IMPROVING
+2024,2023,Uttar Pradesh,Mathura,3.65,15.19,-11.54,-75.97,IMPROVING
+2024,2023,Haryana,Rewari,18.35,29.94,-11.59,-38.71,IMPROVING
+2024,2023,Haryana,Jind,7.63,19.29,-11.66,-60.45,IMPROVING
+2024,2023,Uttar Pradesh,Ghaziabad,7.08,18.82,-11.74,-62.37,IMPROVING
+2024,2023,Delhi,Central,23.89,35.69,-11.8,-33.06,IMPROVING
+2024,2023,Andhra Pradesh,YSR,0.66,12.52,-11.86,-94.73,IMPROVING
+2024,2023,Maharashtra,Akola,4.31,16.25,-11.94,-73.48,IMPROVING
+2024,2023,Haryana,Karnal,12.54,24.49,-11.95,-48.8,IMPROVING
+2024,2023,Rajasthan,Jhunjhunu,7.12,19.23,-12.11,-62.98,IMPROVING
+2024,2023,Telangana,Ramagundam Commissionerate,3.6,15.74,-12.14,-77.13,IMPROVING
+2024,2023,Haryana,Sirsa,4.97,17.19,-12.22,-71.08,IMPROVING
+2024,2023,Maharashtra,Parbhani,3.6,15.87,-12.27,-77.31,IMPROVING
+2023,2022,Arunachal Pradesh,Papum Pare City,25.61,37.92,-12.31,-32.46,IMPROVING
+2024,2023,Andhra Pradesh,Eluru,1.63,14.03,-12.4,-88.38,IMPROVING
+2024,2023,Haryana,Rohtak,14.09,26.55,-12.46,-46.93,IMPROVING
+2024,2023,Madhya Pradesh,Rajgarh,9.73,22.33,-12.6,-56.43,IMPROVING
+2024,2023,Rajasthan,Ajmer,7.51,20.23,-12.72,-62.88,IMPROVING
+2024,2023,Maharashtra,Latur,3.37,16.16,-12.79,-79.14,IMPROVING
+2024,2023,West Bengal,Hooghly Rural Police,1.99,14.78,-12.79,-86.53,IMPROVING
+2024,2023,Rajasthan,Anupgarh,6.36,19.19,-12.83,-66.86,IMPROVING
+2024,2023,Rajasthan,Beawar,8.25,21.17,-12.92,-61.02,IMPROVING
+2024,2023,West Bengal,Howrah PC,0.59,13.64,-13.05,-95.68,IMPROVING
+2024,2023,Uttar Pradesh,Banda,3.67,16.87,-13.2,-78.24,IMPROVING
+2023,2022,Assam,Hojai,7.47,20.68,-13.21,-63.88,IMPROVING
+2024,2023,Uttar Pradesh,Meerut,3.43,16.72,-13.29,-79.48,IMPROVING
+2022,2021,Assam,Kokrajhar,13.43,26.76,-13.33,-49.81,IMPROVING
+2024,2023,Rajasthan,Jaipur North,5.96,19.31,-13.35,-69.14,IMPROVING
+2021,2021,Uttar Pradesh,Hamirpur,9.37,22.75,-13.38,-58.82,IMPROVING
+2023,2022,Rajasthan,Sawai Madhopur,15.11,28.52,-13.41,-47.02,IMPROVING
+2024,2023,Andhra Pradesh,Prakasam,1.28,14.72,-13.44,-91.3,IMPROVING
+2024,2023,Andhra Pradesh,Sri Potti Sriramulu Nellore,2.05,15.49,-13.44,-86.77,IMPROVING
+2022,2021,Assam,Baksa,3.48,16.93,-13.45,-79.45,IMPROVING
+2024,2023,West Bengal,Jangipur Police District,1.0,14.48,-13.48,-93.09,IMPROVING
+2024,2023,Haryana,Bhiwani,3.3,16.81,-13.51,-80.37,IMPROVING
+2024,2023,Odisha,Mayurbhanj,4.59,18.15,-13.56,-74.71,IMPROVING
+2024,2023,West Bengal,Basirhat,2.15,15.77,-13.62,-86.37,IMPROVING
+2024,2023,Rajasthan,Bhilwara,10.11,23.86,-13.75,-57.64,IMPROVING
+2023,2022,Assam,Darrang,13.67,27.44,-13.77,-50.18,IMPROVING
+2024,2023,Rajasthan,Kota City,10.07,24.11,-14.04,-58.24,IMPROVING
+2024,2023,Madhya Pradesh,Indore Commissionarate,26.39,40.7,-14.31,-35.16,IMPROVING
+2023,2022,Odisha,Angul,22.58,37.04,-14.46,-39.05,IMPROVING
+2024,2023,Rajasthan,Ganganagar,13.56,28.04,-14.48,-51.64,IMPROVING
+2024,2023,West Bengal,Ranaghat,2.81,17.38,-14.57,-83.83,IMPROVING
+2023,2022,Chhattisgarh,Total Districts ,104.84,119.42,-14.58,-12.21,IMPROVING
+2024,2023,Assam,Kamrup,6.76,21.43,-14.67,-68.46,IMPROVING
+2024,2023,Maharashtra,Dhule,1.31,15.98,-14.67,-91.8,IMPROVING
+2024,2023,Maharashtra,Nasik Rural,3.25,18.32,-15.07,-82.26,IMPROVING
+2024,2023,Andhra Pradesh,Guntur,1.57,16.67,-15.1,-90.58,IMPROVING
+2024,2023,Rajasthan,Rajsamand,11.28,26.46,-15.18,-57.38,IMPROVING
+2024,2023,Maharashtra,Beed,5.44,20.78,-15.34,-73.82,IMPROVING
+2024,2023,Rajasthan,Udaipur,9.69,25.14,-15.45,-61.45,IMPROVING
+2024,2023,West Bengal,Kolkata,1.47,17.02,-15.55,-91.36,IMPROVING
+2022,2021,Assam,Sonitpur,12.52,28.25,-15.73,-55.67,IMPROVING
+2022,2021,Assam,Karimganj,21.8,37.65,-15.85,-42.1,IMPROVING
+2024,2023,Delhi,Outer North,14.36,30.32,-15.96,-52.63,IMPROVING
+2024,2023,Telangana,Warangal Commissionerate,4.98,20.95,-15.97,-76.23,IMPROVING
+2024,2023,Uttarakhand,Dehradun,7.94,24.09,-16.15,-67.04,IMPROVING
+2024,2023,Tamil Nadu,Total Districts ,34.41,50.61,-16.2,-32.02,IMPROVING
+2024,2023,Uttar Pradesh,Aligarh,1.25,17.49,-16.24,-92.85,IMPROVING
+2023,2022,Delhi,Rohini,34.28,50.72,-16.44,-32.41,IMPROVING
+2024,2023,West Bengal,Purab Medinipur,3.51,20.0,-16.49,-82.45,IMPROVING
+2024,2023,Rajasthan,Churu,7.46,24.0,-16.54,-68.92,IMPROVING
+2023,2022,Rajasthan,Bhiwadi,8.85,25.43,-16.58,-65.2,IMPROVING
+2024,2023,Maharashtra,Washim,3.78,20.41,-16.63,-81.48,IMPROVING
+2024,2023,West Bengal,Barasat,1.29,17.99,-16.7,-92.83,IMPROVING
+2024,2023,Haryana,Sonipat,10.55,27.35,-16.8,-61.42,IMPROVING
+2024,2023,Assam,Cachar,4.11,20.98,-16.87,-80.41,IMPROVING
+2024,2023,Haryana,Hissar,10.31,27.31,-17.0,-62.25,IMPROVING
+2024,2023,Haryana,Panchkula,9.45,26.49,-17.04,-64.33,IMPROVING
+2024,2023,Uttar Pradesh,Agra,3.74,20.84,-17.1,-82.05,IMPROVING
+2024,2023,Rajasthan,Chittorgarh,7.12,24.26,-17.14,-70.66,IMPROVING
+2024,2023,Uttar Pradesh,Varanasi Commissionarate,4.96,22.1,-17.14,-77.55,IMPROVING
+2024,2023,West Bengal,Sundarban Police,1.97,19.21,-17.24,-89.75,IMPROVING
+2024,2023,Odisha,Angul,5.31,22.58,-17.27,-76.48,IMPROVING
+2022,2021,Assam,Nalbari,16.68,34.15,-17.47,-51.15,IMPROVING
+2024,2023,Gujarat,Ahmedabad City,5.22,22.77,-17.55,-77.07,IMPROVING
+2023,2022,Uttar Pradesh,Total Districts ,818.37,836.0,-17.63,-2.11,IMPROVING
+2024,2023,Maharashtra,Jalna,5.24,22.9,-17.66,-77.12,IMPROVING
+2024,2023,Arunachal Pradesh,Papum Pare City,7.88,25.61,-17.73,-69.23,IMPROVING
+2024,2023,Haryana,Jhajjar,8.98,26.77,-17.79,-66.45,IMPROVING
+2024,2024,Rajasthan,Pratapgarh,6.64,24.55,-17.91,-72.95,IMPROVING
+2024,2023,Haryana,Ambala,8.17,26.13,-17.96,-68.73,IMPROVING
+2024,2023,Uttar Pradesh,Gorakhpur,0.41,18.45,-18.04,-97.78,IMPROVING
+2024,2023,Uttar Pradesh,Badaun,2.2,20.51,-18.31,-89.27,IMPROVING
+2024,2023,Rajasthan,Pali,7.68,26.16,-18.48,-70.64,IMPROVING
+2022,2021,Assam,Dhemaji,8.11,26.61,-18.5,-69.53,IMPROVING
+2023,2022,Rajasthan,Ganganagar,28.04,46.68,-18.64,-39.93,IMPROVING
+2024,2023,Uttar Pradesh,Bulandshahar,1.72,20.61,-18.89,-91.65,IMPROVING
+2024,2023,Haryana,Gurugram,29.44,48.36,-18.92,-39.13,IMPROVING
+2022,2021,Assam,Dibrugarh,9.31,28.26,-18.95,-67.05,IMPROVING
+2024,2023,Odisha,Malkangiri,6.81,25.81,-19.0,-73.61,IMPROVING
+2023,2022,Rajasthan,Bhilwara,23.86,42.89,-19.03,-44.37,IMPROVING
+2024,2023,Rajasthan,Jaipur West,10.82,29.94,-19.12,-63.86,IMPROVING
+2022,2022,Uttar Pradesh,Hamirpur,13.39,32.51,-19.12,-58.81,IMPROVING
+2024,2023,Haryana,Kurukshetra,10.37,29.66,-19.29,-65.03,IMPROVING
+2022,2021,Tripura,South,1.4,20.73,-19.33,-93.24,IMPROVING
+2024,2023,Uttar Pradesh,Auraiya,0.5,19.86,-19.36,-97.48,IMPROVING
+2024,2023,Odisha,Ganjam,5.03,24.47,-19.44,-79.44,IMPROVING
+2024,2023,Rajasthan,Bikaner,11.07,30.83,-19.76,-64.09,IMPROVING
+2022,2021,Assam,Sibsagar,7.93,27.85,-19.92,-71.53,IMPROVING
+2022,2021,Assam,South Salmara,10.19,30.12,-19.93,-66.17,IMPROVING
+2024,2023,Rajasthan,Bundi,10.96,31.0,-20.04,-64.64,IMPROVING
+2024,2023,Rajasthan,Baran,13.94,34.21,-20.27,-59.25,IMPROVING
+2024,2023,West Bengal,Diamond Harbour Police,1.63,21.9,-20.27,-92.56,IMPROVING
+2024,2023,Assam,Karimganj,7.5,27.81,-20.31,-73.03,IMPROVING
+2022,2021,Arunachal Pradesh,Total Districts ,104.24,124.56,-20.32,-16.31,IMPROVING
+2024,2023,Rajasthan,Tonk,8.2,28.57,-20.37,-71.3,IMPROVING
+2024,2023,Haryana,Faridabad,10.47,31.23,-20.76,-66.48,IMPROVING
+2024,2023,Delhi,Shahdara,12.66,33.43,-20.77,-62.13,IMPROVING
+2024,2023,Madhya Pradesh,Gwalior,11.17,32.01,-20.84,-65.1,IMPROVING
+2024,2023,Tripura,South,0.41,21.32,-20.91,-98.08,IMPROVING
+2023,2022,Arunachal Pradesh,Total Districts ,83.04,104.24,-21.2,-20.34,IMPROVING
+2024,2023,Telangana,Cyberabad Commissionerate,13.88,35.43,-21.55,-60.82,IMPROVING
+2022,2021,Assam,Nagaon,11.18,32.83,-21.65,-65.94,IMPROVING
+2024,2023,Uttar Pradesh,Prayagraj,6.29,28.06,-21.77,-77.58,IMPROVING
+2024,2023,Uttar Pradesh,Firozabad,3.06,24.92,-21.86,-87.72,IMPROVING
+2023,2022,Rajasthan,Ajmer,20.23,42.11,-21.88,-51.96,IMPROVING
+2022,2021,Assam,Chirang,10.46,32.46,-22.0,-67.78,IMPROVING
+2024,2023,West Bengal,Baruipur Police,4.53,26.7,-22.17,-83.03,IMPROVING
+2024,2023,Delhi,Rohini,12.09,34.28,-22.19,-64.73,IMPROVING
+2024,2023,Haryana,Yamunanagar,9.74,32.44,-22.7,-69.98,IMPROVING
+2023,2022,Uttar Pradesh,Bareilly,1.33,24.24,-22.91,-94.51,IMPROVING
+2024,2023,Tripura,Total Districts ,12.14,35.18,-23.04,-65.5,IMPROVING
+2024,2023,Rajasthan,Jhalawar,15.96,39.07,-23.11,-59.15,IMPROVING
+2023,2023,Rajasthan,Pratapgarh,8.67,32.06,-23.39,-72.96,IMPROVING
+2023,2023,Uttar Pradesh,Hamirpur,16.54,40.15,-23.61,-58.81,IMPROVING
+2024,2023,Madhya Pradesh,Bhopal Commissionarate,23.97,47.71,-23.74,-49.76,IMPROVING
+2024,2023,West Bengal,Purba Bardhaman,2.4,26.22,-23.82,-90.85,IMPROVING
+2024,2023,Uttar Pradesh,Kannauj,3.46,27.3,-23.84,-87.32,IMPROVING
+2024,2023,Delhi,South-East,18.7,42.88,-24.18,-56.39,IMPROVING
+2024,2023,Andhra Pradesh,NTR,2.96,27.26,-24.3,-89.14,IMPROVING
+2024,2023,Delhi,Outer,13.88,38.72,-24.84,-64.15,IMPROVING
+2023,2022,Tripura,South,1.15,26.05,-24.9,-95.59,IMPROVING
+2023,2022,Uttarakhand,Haridwar,37.48,62.69,-25.21,-40.22,IMPROVING
+2023,2022,Rajasthan,Bharatpur,19.45,44.87,-25.42,-56.65,IMPROVING
+2024,2023,Delhi,North-West,10.77,36.64,-25.87,-70.61,IMPROVING
+2024,2023,Rajasthan,Hanumangarh,15.73,41.65,-25.92,-62.23,IMPROVING
+2022,2021,Assam,Darrang,27.44,53.57,-26.13,-48.78,IMPROVING
+2022,2021,Assam,Lakhimpur,13.85,40.55,-26.7,-65.85,IMPROVING
+2022,2021,Assam,Golaghat,4.89,32.68,-27.79,-85.04,IMPROVING
+2024,2023,West Bengal,Murshidabad Police District,8.67,36.93,-28.26,-76.52,IMPROVING
+2024,2023,West Bengal,Barrackpur PC,1.24,29.53,-28.29,-95.8,IMPROVING
+2024,2023,Karnataka,Bengaluru City,22.01,50.58,-28.57,-56.49,IMPROVING
+2024,2023,Telangana,Hyderabad Commissionerate,25.01,54.38,-29.37,-54.01,IMPROVING
+2022,2021,Assam,Hojai,20.68,50.2,-29.52,-58.8,IMPROVING
+2021,2021,Uttar Pradesh,Pratapgarh,11.11,41.08,-29.97,-72.96,IMPROVING
+2021,2021,Rajasthan,Pratapgarh,11.35,41.98,-30.63,-72.97,IMPROVING
+2022,2022,Rajasthan,Pratapgarh,11.57,42.78,-31.21,-72.96,IMPROVING
+2022,2021,Assam,Bongaigaon,13.18,45.31,-32.13,-70.91,IMPROVING
+2024,2023,Uttar Pradesh,Kanpur Commissionarate,7.19,39.4,-32.21,-81.75,IMPROVING
+2024,2023,Jammu & Kashmir,Total Districts ,74.06,106.35,-32.29,-30.36,IMPROVING
+2024,2023,Delhi,North-East,13.69,46.37,-32.68,-70.48,IMPROVING
+2022,2021,Delhi,Dwarka,54.3,88.3,-34.0,-38.51,IMPROVING
+2023,2023,Uttar Pradesh,Pratapgarh,12.68,46.89,-34.21,-72.96,IMPROVING
+2022,2021,Assam,Barpeta,14.27,48.83,-34.56,-70.77,IMPROVING
+2024,2023,Telangana,Rachakonda Commissionerate,16.73,51.39,-34.66,-67.45,IMPROVING
+2022,2021,Assam,Jorhat,10.43,45.62,-35.19,-77.14,IMPROVING
+2023,2022,Andhra Pradesh,Total Districts ,251.43,286.69,-35.26,-12.3,IMPROVING
+2024,2023,Uttar Pradesh,Lucknow Commissionarate,10.63,49.05,-38.42,-78.33,IMPROVING
+2024,2023,Delhi,Dwarka,18.7,58.27,-39.57,-67.91,IMPROVING
+2022,2021,Assam,Dhubri,15.17,55.58,-40.41,-72.71,IMPROVING
+2024,2024,Chhattisgarh,Bilaspur,7.18,50.09,-42.91,-85.66,IMPROVING
+2021,2021,Chhattisgarh,Bilaspur,7.25,50.54,-43.29,-85.66,IMPROVING
+2022,2021,Assam,Guwahati City,29.51,75.56,-46.05,-60.94,IMPROVING
+2022,2022,Uttar Pradesh,Pratapgarh,17.07,63.12,-46.05,-72.96,IMPROVING
+2023,2022,Rajasthan,Total Districts ,947.98,994.13,-46.15,-4.64,IMPROVING
+2024,2023,Uttarakhand,Udhamsingh Nagar,16.16,64.78,-48.62,-75.06,IMPROVING
+2024,2023,Tripura,West,0.85,50.35,-49.5,-98.31,IMPROVING
+2023,2022,Tripura,West,2.7,52.26,-49.56,-94.83,IMPROVING
+2024,2023,Gujarat,Total Districts ,47.75,97.67,-49.92,-51.11,IMPROVING
+2023,2023,Chhattisgarh,Bilaspur,8.52,59.42,-50.9,-85.66,IMPROVING
+2022,2021,Assam,Hailakandi,17.67,70.56,-52.89,-74.96,IMPROVING
+2023,2022,Haryana,Total Districts ,528.24,582.42,-54.18,-9.3,IMPROVING
+2024,2023,Bihar,Total Districts ,78.47,133.15,-54.68,-41.07,IMPROVING
+2023,2022,Uttarakhand,Total Districts ,206.89,263.59,-56.7,-21.51,IMPROVING
+2022,2022,Chhattisgarh,Bilaspur,9.86,68.75,-58.89,-85.66,IMPROVING
+2023,2022,Madhya Pradesh,Total Districts ,651.01,711.14,-60.13,-8.46,IMPROVING
+2024,2023,Punjab,Total Districts ,58.92,121.12,-62.2,-51.35,IMPROVING
+2022,2021,Tripura,West,2.8,68.2,-65.4,-95.89,IMPROVING
+2022,2021,Tripura,North,5.48,73.61,-68.13,-92.56,IMPROVING
+2022,2021,Assam,Morigaon,20.8,91.19,-70.39,-77.19,IMPROVING
+2023,2022,Delhi,Total Districts ,514.52,589.7,-75.18,-12.75,IMPROVING
+2022,2021,Delhi,East,22.49,107.63,-85.14,-79.1,IMPROVING
+2024,2023,Delhi,East,9.61,97.51,-87.9,-90.14,IMPROVING
+2023,2022,Tripura,North,5.58,111.41,-105.83,-94.99,IMPROVING
+2024,2023,Tripura,North,2.15,113.4,-111.25,-98.1,IMPROVING
+2024,2023,Kerala,Total Districts ,72.24,187.6,-115.36,-61.49,IMPROVING
+2024,2023,Uttarakhand,Total Districts ,88.75,206.89,-118.14,-57.1,IMPROVING
+2023,2022,Delhi,East,16.18,135.53,-119.35,-88.06,IMPROVING
+2024,2023,Karnataka,Total Districts ,84.03,213.88,-129.85,-60.71,IMPROVING
+2023,2022,Assam,Total Districts ,303.81,453.04,-149.23,-32.94,IMPROVING
+2024,2023,Assam,Total Districts ,154.51,303.81,-149.3,-49.14,IMPROVING
+2024,2023,Maharashtra,Total Districts ,214.91,420.08,-205.17,-48.84,IMPROVING
+2024,2023,Andhra Pradesh,Total Districts ,33.52,251.43,-217.91,-86.67,IMPROVING
+2024,2023,Telangana,Total Districts ,100.51,323.6,-223.09,-68.94,IMPROVING
+2024,2023,Odisha,Total Districts ,173.63,425.55,-251.92,-59.2,IMPROVING
+2024,2023,Delhi,South,5.51,257.58,-252.07,-97.86,IMPROVING
+2024,2023,Delhi,West,3.86,257.49,-253.63,-98.5,IMPROVING
+2022,2021,Delhi,South,20.28,277.72,-257.44,-92.7,IMPROVING
+2024,2023,Madhya Pradesh,Total Districts ,386.37,651.01,-264.64,-40.65,IMPROVING
+2023,2022,Delhi,West,13.81,302.1,-288.29,-95.43,IMPROVING
+2024,2023,Haryana,Total Districts ,224.66,528.24,-303.58,-57.47,IMPROVING
+2024,2023,Delhi,Total Districts ,207.21,514.52,-307.31,-59.73,IMPROVING
+2022,2021,Delhi,West,16.21,356.28,-340.07,-95.45,IMPROVING
+2023,2022,Delhi,South,13.85,377.2,-363.35,-96.33,IMPROVING
+2024,2023,West Bengal,Total Districts ,74.92,478.9,-403.98,-84.36,IMPROVING
+2024,2023,Delhi,North,12.83,499.35,-486.52,-97.43,IMPROVING
+2024,2023,Rajasthan,Total Districts ,429.79,947.98,-518.19,-54.66,IMPROVING
+2022,2021,Delhi,North,33.0,604.79,-571.79,-94.54,IMPROVING
+2024,2023,Uttar Pradesh,Total Districts ,208.1,818.37,-610.27,-74.57,IMPROVING
+2023,2022,Delhi,North,24.58,670.45,-645.87,-96.33,IMPROVING
+2022,2021,Assam,Total Districts ,453.04,1126.49,-673.45,-59.78,IMPROVING
