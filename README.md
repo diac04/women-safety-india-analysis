@@ -26,7 +26,7 @@ Data Sources          Cleaning              Analysis            Visualization
 NCRB Crime Data  ──► Pandas Cleaning  ──► SQLite DB    ──► Power BI Dashboard
 ```
 ```
-BPRD Police Data ──► Fuzzy Matching   ──► CTE Chains   ──► 5 Interactive Pages
+BPRD Police Data ──► Fuzzy Matching   ──► CTE Chains   ──► 4 Interactive Pages
 ```
 ```
 NFHS-5 Survey    ──► Imputation       ──► Window Func  ──► Risk Score 0-100
